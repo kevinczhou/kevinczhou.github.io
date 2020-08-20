@@ -1,86 +1,188 @@
-#
-# This file contains configuration flags to customize your site
-#
+# -----------------------------------------------------------------------------
+# Site settings
+# -----------------------------------------------------------------------------
 
-# Name of your site (displayed in the header)
-name: Kevin C. Zhou
+title: You R. Name
+email: you@example.com
+description: > # this means to ignore newlines until "url:"
+  A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+footer_text: >
+  Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
+  Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
+  Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
 
-# Short bio or description (displayed in the header)
-description: PhD student at Duke University
+url:  # the base hostname & protocol for your site
+baseurl: /al-folio # the subpath of your site, e.g. /blog/
+last_updated: false # set to true if you want to display last updated in the footer
 
-# URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: #https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
+# -----------------------------------------------------------------------------
+# Layout
+# -----------------------------------------------------------------------------
 
-#
-# Flags below are optional
-#
+navbar_fixed: true
+footer_fixed: true
+# TODO: add layout settings (single page vs. multi-page)
 
-# Includes an icon in the footer for each username you enter
-footer-links:
-  dribbble:
-  email:
-  facebook:
-  flickr:
-  github: kevinczhou
-  instagram:
-  linkedin:
-  pinterest:
-  rss: # just type anything here for a working RSS icon
-  twitter:
-  stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
-  youtube: # channel/<your_long_string> or user/<user-name>
-  googleplus: # anything in your profile username that comes after plus.google.com/
+# -----------------------------------------------------------------------------
+# Open Graph
+# -----------------------------------------------------------------------------
+# Display links to the page with a preview object on social media.
+# To achieve this, change serve_og_meta to true and then provide the URL of the
+# preview image as the value of og_image.
+serve_og_meta: false # Include Open Graph meta tags in the HTML head
+og_image: # The site-wide (default for all links) Open Graph preview image
 
+# -----------------------------------------------------------------------------
+# Social integration
+# -----------------------------------------------------------------------------
 
-# Enter your Disqus shortname (not your username) to enable commenting on posts
-# You can find your shortname on the Settings page of your Disqus account
-disqus:
+github_username: # your GitHub user name
+twitter_username: # your Twitter handle
+linkedin_username: # your LinkedIn user name
+scholar_userid: # your Google Scholar ID
+orcid_id: # your ORCID ID
+medium_username: # your Medium username
+quora_username: # your Quora username
+publons_id: # your ID on Publons
+research_gate_profile: # your profile on ResearchGate
+blogger_url: # your blogger URL
 
-# Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
-google_analytics: UA-175913330-1
+contact_note: >
+  You can even add a little note about which of these is the best way to reach you.
 
-# Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
-# Used for Sitemap.xml and your RSS feed
-url:
+google_analytics: UA-XXXXXXXXX # out your google-analytics code
 
-# If you're hosting your site at a Project repository on GitHub pages
-# (http://yourusername.github.io/repository-name)
-# and NOT your User repository (http://yourusername.github.io)
-# then add in the baseurl here, like this: "/repository-name"
-baseurl: ""
+# -----------------------------------------------------------------------------
+# Blog
+# -----------------------------------------------------------------------------
 
-#
-# !! You don't need to change any of the configuration flags below !!
-#
+blog_name: al-folio  # your blog must have a name for it to show up in the nav bar
+blog_description: a simple whitespace theme for academics
+permalink: /blog/:year/:title/
 
-permalink: /:title/
+# Pagination
+pagination:
+  enabled: true
 
-# The release of Jekyll Now that you're using
-version: v1.2.0
+# Comments
+disqus_shortname: al-folio # put your disqus shortname
 
-# Jekyll 3 now only supports Kramdown for Markdown
+# -----------------------------------------------------------------------------
+# Collections
+# -----------------------------------------------------------------------------
+
+collections:
+  news:
+    defaults:
+      layout: post
+    output: true
+    permalink: /news/:path/
+  projects:
+    output: true
+    permalink: /projects/:path/
+
+news_limit: 5
+
+# -----------------------------------------------------------------------------
+# Jekyll settings
+# -----------------------------------------------------------------------------
+
+# Markdown and syntax highlight
+markdown: kramdown
+highlighter: rouge
+highlight_theme: github  # https://github.com/jwarby/jekyll-pygments-themes
 kramdown:
-  # Use GitHub flavored markdown, including triple backtick fenced code blocks
   input: GFM
-  # Jekyll 3 and GitHub Pages now only support rouge for syntax highlighting
-  syntax_highlighter: rouge
   syntax_highlighter_opts:
-    # Use existing pygments syntax highlighting css
     css_class: 'highlight'
+    span:
+      line_numbers: false
+    block:
+      line_numbers: false
+      start_line: 1
 
-# Set the Sass partials directory, as we're using @imports
-sass:
-  style: :expanded # You might prefer to minify using :compressed
+# Includes & excludes
+include: ['_pages']
+exclude: [vendor]
 
-# Use the following plug-ins
-gems:
-  - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
-  - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
+# Plug-ins
+plugins:
+  - jekyll-email-protect
+  - jekyll-paginate-v2
+  - jekyll/scholar
+  - jemoji
+  # - bootstrap
+  # - material-sass
 
-# Exclude these files from your production _site
-exclude:
-  - Gemfile
-  - Gemfile.lock
-  - LICENSE
-  - README.md
-  - CNAME
+# -----------------------------------------------------------------------------
+# Jekyll Scholar
+# -----------------------------------------------------------------------------
+
+scholar:
+
+  last_name: Einstein
+
+  style: apa
+  locale: en
+
+  sort_by: year
+  order: descending
+
+  source: /_bibliography/
+  bibliography: papers.bib
+  bibliography_template: bib
+
+  replace_strings: true
+  join_strings: true
+
+  details_dir: bibliography
+  details_layout: bibtex.html
+  details_link: Details
+
+  query: "@*"
+
+# -----------------------------------------------------------------------------
+# Optional Features
+# -----------------------------------------------------------------------------
+
+enable_google_analytics:  false
+enable_katex:             true
+enable_mansory:           true
+enable_progressbar:       true
+enable_tooltips:          false
+show_social_icons:        false
+
+# -----------------------------------------------------------------------------
+# Library versions
+# -----------------------------------------------------------------------------
+
+academicons:
+  version: "1.8.6"
+  integrity: "sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw="
+bootstrap:
+  version: "4.4.1"
+  integrity:
+    css: "sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh"
+    js: "sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6"
+fontawesome:
+  version: "5.13.0"
+  integrity: "sha256-h20CPZ0QyXlBuAw7A+KluUYx/3pK+c7lYEpqLTlxjYQ="
+jquery:
+  version: "3.4.1"
+  integrity: "sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n"
+katex:
+  version: "0.11.1"
+  integrity:
+    css: "sha256-V8SV2MO1FUb63Bwht5Wx9x6PVHNa02gv8BgH/uH3ung="
+    js: "sha256-F/Xda58SPdcUCr+xhSGz9MA2zQBPb0ASEYKohl8UCHc="
+mansory:
+  version: "4.2.2"
+  integrity: "sha256-Nn1q/fx0H7SNLZMQ5Hw5JLaTRZp0yILA/FRexe19VdI="
+mdb:
+  version: "4.17.0"
+  integrity:
+    css: "sha256-/SwJ2GDcEt5382i8zqDwl36VJGECxEoIcBIuoLmLR4g="
+    js: "sha256-UGNYR+uy841zU5TiO2yXD96UktHt9TM4/WXvsDLr4l0="
+popper:
+  version: "2.4.0"
+  integrity: "sha256-OH05DFHUWzr725HmuHo3pnuvUUn+TJuj8/Qz9xytFEw="
