@@ -39,7 +39,7 @@ E. A. Calle, S. Vesuna, S. Dimitrievska, **K. C. Zhou**, A. Huang, L. Zhao, L. E
 E. M. Sanders, M. A. Nguyen, **K. C. Zhou**, M. E. Hanks, K. A. Yusuf, D. N. Cox, T. C. Dumas, "Developmental modification of synaptic NMDAR composition and maturation of glutamatergic synapses: matching postsynaptic slots with receptor pegs," *Biol. Bull.* 224, 1-13 (2013) [[Link](https://www.journals.uchicago.edu/doi/abs/10.1086/BBLv224n1p1)]
 
 # Conferences and invited seminars
-**K. C. Zhou**, R. Qian, S. Farsiu, and J. A. Izatt, “Resolution Enhancement and Speckle Reduction in Coherence Imaging: a k-space Model of Optical Coherence Refraction Tomography (OCRT),” OSA Biophotonics Congress 2020. (*Invited talk*) (*OSA Biophotonics Student Award*)
+**K. C. Zhou**, R. Qian, S. Farsiu, and J. A. Izatt, “Resolution Enhancement and Speckle Reduction in Coherence Imaging: a k-space Model of Optical Coherence Refraction Tomography (OCRT),” OSA Biophotonics Congress 2020. [[Link](https://www.osapublishing.org/abstract.cfm?uri=OCT-2020-OTu1E.2)] (*Invited talk*) (*OSA Biophotonics Student Award*)
 
 **K. C. Zhou**, “Optical coherence refraction tomography,” Berkeley Center for Computational Imaging (BCCI), 2020. (*Invited seminar*)
 
@@ -55,7 +55,13 @@ E. M. Sanders, M. A. Nguyen, **K. C. Zhou**, M. E. Hanks, K. A. Yusuf, D. N. Cox
 
 **K. C. Zhou**, F. E. Robles, M. C. Fischer, and W. S. Warren. “Visualizing convolutional neural networks for extracting structural and chemical information from pump-probe microscopy of melanoma,” World Molecular Imaging Congress 2016, New York City, NY. (*Poster*)
 
-**K. C. Zhou**, B. K. Huang, U. A. Gamm, V. Bhandari, M. K. Khokha, M. A. Choma, "Particle streak velocimetry-OCT (PSV-OCT): a novel method for multi-vector component velocimetry of microscale flow physiology," SPIE Photonics West 2016, San Francisco, CA. (*Talk*)
+B. K. Huang, I. Sencan, U. A. Gamm, **K. C. Zhou**, C. Liu, Y. Bian, Z. Cong, S. Knitter, H. Cao, M. Loewenberg, M. K. Khokha, M. A. Choma, "Towards all-optical quantification of ciliary physiology," OSA CLEO: Applications and Technology 2016, San Jose, CA. [[Link](https://www.osapublishing.org/abstract.cfm?uri=cleo_at-2016-ATh1N.1)]
+
+B. K. Huang, **K. C. Zhou**, U. A. Gamm, V. Bhandari, M. K. Khokha, M. A. Choma, "OCT-based three-dimensional, three vector component imaging of cilia-driven fluid flow for developmental biology," SPIE Photonics West 2016, San Francisco, CA. [[Link](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/9716/97160J/OCT-based-three-dimensional-three-vector-component-imaging-of-cilia/10.1117/12.2211601.short)]
+
+**K. C. Zhou**, B. K. Huang, U. A. Gamm, V. Bhandari, M. K. Khokha, M. A. Choma, "Particle streak velocimetry-OCT (PSV-OCT): a novel method for multi-vector component velocimetry of microscale flow physiology," SPIE Photonics West 2016, San Francisco, CA. [[Link](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/9697/96970F/Particle-streak-velocimetry-OCT-PSV-OCT--a-novel-method/10.1117/12.2214794.short?SSO=1)] (*Talk*)
+
+M. J. Levene, **K. C. Zhou**, S. Vesuna, R. Torres, "Multiphoton microscopy of cleared human tissue for 3D histology," OSA Novel Techniques in Microscopy 2013, Waikoloa Beach, Hawaii. [[Link](https://www.osapublishing.org/abstract.cfm?uri=NTM-2013-NT3B.2)]
 
 
 
