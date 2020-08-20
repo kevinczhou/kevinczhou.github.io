@@ -39,23 +39,23 @@ E. A. Calle, S. Vesuna, S. Dimitrievska, **K. C. Zhou**, A. Huang, L. Zhao, L. E
 E. M. Sanders, M. A. Nguyen, **K. C. Zhou**, M. E. Hanks, K. A. Yusuf, D. N. Cox, T. C. Dumas, "Developmental modification of synaptic NMDAR composition and maturation of glutamatergic synapses: matching postsynaptic slots with receptor pegs," *Biol. Bull.* 224, 1-13 (2013) [[Link](https://www.journals.uchicago.edu/doi/abs/10.1086/BBLv224n1p1)]
 
 # Conferences and invited seminars
-**K. C. Zhou**, R. Qian, S. Farsiu, and J. A. Izatt, “Resolution Enhancement and Speckle Reduction in Coherence Imaging: a k-space Model of Optical Coherence Refraction Tomography (OCRT),” OSA Biophotonics Congress 2020. [**Invited talk**] [**OSA Biophotonics Student Award**]
+**K. C. Zhou**, R. Qian, S. Farsiu, and J. A. Izatt, “Resolution Enhancement and Speckle Reduction in Coherence Imaging: a k-space Model of Optical Coherence Refraction Tomography (OCRT),” OSA Biophotonics Congress 2020. (*Invited talk*) (*OSA Biophotonics Student Award*)
 
-**K. C. Zhou**, “Optical coherence refraction tomography,” Berkeley Center for Computational Imaging (BCCI), 2020. [**Invited seminar**]
+**K. C. Zhou**, “Optical coherence refraction tomography,” Berkeley Center for Computational Imaging (BCCI), 2020. (*Invited seminar*)
 
-**K. C. Zhou** and R. Horstmeyer, “High-resolution 3D imaging using Fourier ptychographic tomography with a deep image prior,” SPIE Photonics West 2020, San Francisco, CA. [**Talk**]
+**K. C. Zhou** and R. Horstmeyer, “High-resolution 3D imaging using Fourier ptychographic tomography with a deep image prior,” SPIE Photonics West 2020, San Francisco, CA. (*Talk*)
 
-**K. C. Zhou**, “Optical coherence refraction tomography,” Advanced Research Center for Nanolithography (ARCNL), Netherlands, 2019. [**Invited seminar**]
+**K. C. Zhou**, “Optical coherence refraction tomography,” Advanced Research Center for Nanolithography (ARCNL), Netherlands, 2019. (*Invited seminar*)
 
-**K. C. Zhou**, “Improving diffraction tomography with intensity-only images,” Face2phase 2019, TU Delft Science Center, Delft, Netherlands. [**Invited talk**]
+**K. C. Zhou**, “Improving diffraction tomography with intensity-only images,” Face2phase 2019, TU Delft Science Center, Delft, Netherlands. (*Invited talk*)
 
-**K. C. Zhou**, R. Qian, S. Farsiu, and J. A. Izatt, “Spectroscopic optical coherence refraction tomography for isotropically resolved imaging with simultaneously high spatial and spectral resolution,” SPIE Photonics West 2019, San Francisco, CA. [**Talk**]
+**K. C. Zhou**, R. Qian, S. Farsiu, and J. A. Izatt, “Spectroscopic optical coherence refraction tomography for isotropically resolved imaging with simultaneously high spatial and spectral resolution,” SPIE Photonics West 2019, San Francisco, CA. (*Talk*)
 
-**K. C. Zhou**, R. Qian, S. Farsiu, and J. A. Izatt, “Optical coherence refraction tomography for isotropically resolved cross-sectional imaging,” SPIE Photonics West 2018, San Francisco, CA. [**Talk**]
+**K. C. Zhou**, R. Qian, S. Farsiu, and J. A. Izatt, “Optical coherence refraction tomography for isotropically resolved cross-sectional imaging,” SPIE Photonics West 2018, San Francisco, CA. (*Talk*)
 
-**K. C. Zhou**, F. E. Robles, M. C. Fischer, and W. S. Warren. “Visualizing convolutional neural networks for extracting structural and chemical information from pump-probe microscopy of melanoma,” World Molecular Imaging Congress 2016, New York City, NY. [**Poster**]
+**K. C. Zhou**, F. E. Robles, M. C. Fischer, and W. S. Warren. “Visualizing convolutional neural networks for extracting structural and chemical information from pump-probe microscopy of melanoma,” World Molecular Imaging Congress 2016, New York City, NY. (*Poster*)
 
-**K. C. Zhou**, B. K. Huang, U. A. Gamm, V. Bhandari, M. K. Khokha, M. A. Choma, "Particle streak velocimetry-OCT (PSV-OCT): a novel method for multi-vector component velocimetry of microscale flow physiology," SPIE Photonics West 2016, San Francisco, CA. [**Talk**]
+**K. C. Zhou**, B. K. Huang, U. A. Gamm, V. Bhandari, M. K. Khokha, M. A. Choma, "Particle streak velocimetry-OCT (PSV-OCT): a novel method for multi-vector component velocimetry of microscale flow physiology," SPIE Photonics West 2016, San Francisco, CA. (*Talk*)
 
 
 
