@@ -1,28 +1,31 @@
-<!DOCTYPE html>
-<html>
+---
+layout: compress
+---
 
+{% include base_path %}
+
+<!doctype html>
+<html lang="{{ site.locale | slice: 0,2 }}" class="no-js">
   <head>
     {% include head.html %}
+    {% include head/custom.html %}
   </head>
 
-  <body class="{% if site.navbar_fixed %}fixed-top-nav{% endif %} {% unless site.footer_fixed %}sticky-bottom-footer{% endunless %}">
+  <body>
 
-    <!-- Header -->
+    {% include browser-upgrade.html %}
+    {% include masthead.html %}
 
-    {% include header.html %}
+    {{ content }}
 
-    <!-- Content -->
-
-    <div class="container mt-5">
-      {{ content }}
+    <div class="page__footer">
+      <footer>
+        {% include footer/custom.html %}
+        {% include footer.html %}
+      </footer>
     </div>
 
-    <!-- Footer -->
-
-    {% include footer.html %}
+    {% include scripts.html %}
 
   </body>
-
-  {% include hemline.html %}
-
 </html>
