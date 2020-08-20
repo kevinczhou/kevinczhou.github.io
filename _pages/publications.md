@@ -12,13 +12,13 @@ B. Keller, M. Draelos, **K. C. Zhou**, R. Qian, A. N. Kuo, G. Konidaris, K. Haus
 
 C. L. Cooke, F. Kong, A. Chaware, **K. C. Zhou**, K. Kim, R. Xu, D. M. Ando, S. J .Yang, P. C. Konda, R. Horstmeyer, "Physics-enhanced machine learning for virtual fluorescence microscopy," arXiv preprint arXiv:2004.04306 (2020) [[Link](https://arxiv.org/abs/2004.04306)]
 
-**K. C. Zhou**, R. Qian, S. Farsiu, and J. A. Izatt, “Spectroscopic optical coherence refraction tomography,” *Opt. Lett.* 45, 2091-2094 (2020) [[Link](https://www.osapublishing.org/ol/abstract.cfm?uri=ol-45-7-2091)] [[Code](https://osapublishing.figshare.com/articles/Spectral_fitting_code_for_SOCT_and_SOCRT/11931228)]
+**K. C. Zhou**, R. Qian, S. Farsiu, and J. A. Izatt, “Spectroscopic optical coherence refraction tomography,” *Opt. Lett.* 45, 2091-2094 (2020) [[Link](https://www.osapublishing.org/ol/abstract.cfm?uri=ol-45-7-2091)] [[Code](https://osapublishing.figshare.com/articles/Spectral_fitting_code_for_SOCT_and_SOCRT/11931228)] [[Data](https://osapublishing.figshare.com/articles/Raw_spectra_of_polystyrene_beads_from_SOCT_and_SOCRT/11931225)]
 
 P. C. Konda\*, L. Loetgering\*, **K. C. Zhou**\*, S. Xu, A. R. Harvey, R. Horstmeyer, “Fourier ptychography: current applications and future promises,” *Opt. Express* 28, 9603-9630 (2020)  \* Equal contribution
 
 A. Muthumbi, A. Chaware, K. Kim, **K. C. Zhou**, P. C. Konda, R. Chen, B. Judkewitz, A. Erdmann, B. Kappes, R. Horstmeyer, “Learned sensing: jointly optimized microscope hardware for accurate image classification,” *Biomed. Opt. Express* 10, 6351-6369 (2019) [[Link](https://www.osapublishing.org/boe/abstract.cfm?uri=boe-10-12-6351)]
 
-**K. C. Zhou**, R. Qian, S. Degan, S. Farsiu, J. A. Izatt, “Optical coherence refraction tomography,” *Nat. Photonics* 13, 794–802 (2019) [[Link](https://www.nature.com/articles/s41566-019-0508-1)]  [[Open access link](https://rdcu.be/bO6eQ)] [[Code](https://github.com/kevinczhou/optical-coherence-refraction-tomography)]
+**K. C. Zhou**, R. Qian, S. Degan, S. Farsiu, J. A. Izatt, “Optical coherence refraction tomography,” *Nat. Photonics* 13, 794–802 (2019) [[Link](https://www.nature.com/articles/s41566-019-0508-1)]  [[Open access link](https://rdcu.be/bO6eQ)] [[Code](https://github.com/kevinczhou/optical-coherence-refraction-tomography)] [[Data](https://figshare.com/articles/Biological_datasets_for_optical_coherence_refraction_tomography_OCRT_/8297138)]
 
 R. Qian, W. Huang, R. P. McNabb, **K. C. Zhou**, Q. H. Liu, A. N. Kuo, J. A. Izatt, “Ocular anterior chamber blood cell population differentiation using spectroscopic optical coherence tomography,” *Biomed. Opt. Express* 10, 3281-3300 (2019) [[Link](https://www.osapublishing.org/boe/abstract.cfm?uri=boe-10-7-3281)]
 
