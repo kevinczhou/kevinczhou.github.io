@@ -4,7 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-R. Qian, **K. C. Zhou**, J. Zhang, C. Viehland, A. H. Dhalla, J. A. Izatt, "Video-rate high-precision time-frequency multiplexed 3D surface imaging," arXiv preprint arXiv:2008.05805 (2020)
+R. Qian, **K. C. Zhou**, J. Zhang, C. Viehland, A. H. Dhalla, J. A. Izatt, "Video-rate high-precision time-frequency multiplexed 3D surface imaging," arXiv preprint arXiv:2008.05805 (2020) [Link](https://arxiv.org/abs/2008.05805)
 
 B. Keller, M. Draelos, **K. C. Zhou**, R. Qian, A. N. Kuo, G. Konidaris, K. Hauser, J. A. Izatt, “Optical Coherence Tomography-Guided Robotic Ophthalmic Microsurgery via Reinforcement Learning from Demonstration,” *IEEE Trans. Robot.* (2020)
 
@@ -14,7 +14,7 @@ C. L. Cooke, F. Kong, A. Chaware, **K. C. Zhou**, K. Kim, R. Xu, D. M. Ando, S. 
 
 **K. C. Zhou**, R. Qian, S. Farsiu, and J. A. Izatt, “Spectroscopic optical coherence refraction tomography,” *Opt. Lett.* 45, 2091-2094 (2020)
 
-P. C. Konda\*, L. Loetgering\*, **K. C. Zhou**\*, S. Xu, A. R. Harvey, R. Horstmeyer, “Fourier ptychography: current applications and future promises,” *Opt. Express* 28, 9603-9630 (2020)
+P. C. Konda\*, L. Loetgering\*, **K. C. Zhou**\*, S. Xu, A. R. Harvey, R. Horstmeyer, “Fourier ptychography: current applications and future promises,” *Opt. Express* 28, 9603-9630 (2020)  \* Equal contribution
 
 A. Muthumbi, A. Chaware, K. Kim, **K. C. Zhou**, P. C. Konda, R. Chen, B. Judkewitz, A. Erdmann, B. Kappes, R. Horstmeyer, “Learned sensing: jointly optimized microscope hardware for accurate image classification,” *Biomed. Opt. Express* 10, 6351-6369 (2019)
 
@@ -38,7 +38,7 @@ E. A. Calle, S. Vesuna, S. Dimitrievska, **K. C. Zhou**, A. Huang, L. Zhao, L. E
 
 E. M. Sanders, M. A. Nguyen, **K. C. Zhou**, M. E. Hanks, K. A. Yusuf, D. N. Cox, T. C. Dumas, "Developmental modification of synaptic NMDAR composition and maturation of glutamatergic synapses: matching postsynaptic slots with receptor pegs," *Biol. Bull.* 224, 1-13 (2013)
 
-\* Equal contribution 
+ 
 
 
 
