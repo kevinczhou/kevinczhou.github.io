@@ -8,7 +8,7 @@ R. Qian, **K. C. Zhou**, J. Zhang, C. Viehland, A. H. Dhalla, J. A. Izatt, "Vide
 
 B. Keller, M. Draelos, **K. C. Zhou**, R. Qian, A. N. Kuo, G. Konidaris, K. Hauser, J. A. Izatt, “Optical Coherence Tomography-Guided Robotic Ophthalmic Microsurgery via Reinforcement Learning from Demonstration,” *IEEE Trans. Robot.* (2020) [[Link](https://ieeexplore.ieee.org/abstract/document/9069310)]
 
-**K. C. Zhou** and R. Horstmeyer, “Diffraction tomography with a deep image prior,” *Opt. Express* 28, 12872-12896 (2020) [[Link](https://www.osapublishing.org/oe/abstract.cfm?uri=oe-28-9-12872)] [[Code](https://github.com/kevinczhou/deep-prior-diffraction-tomography)]
+**K. C. Zhou** and R. Horstmeyer, “Diffraction tomography with a deep image prior,” *Opt. Express* 28, 12872-12896 (2020) [[Link](https://www.osapublishing.org/oe/abstract.cfm?uri=oe-28-9-12872)] [[Code](https://github.com/kevinczhou/deep-prior-diffraction-tomography)] [[Data](https://figshare.com/articles/Diffraction_tomography_with_a_deep_image_prior_-_raw_data/12081708)]
 
 C. L. Cooke, F. Kong, A. Chaware, **K. C. Zhou**, K. Kim, R. Xu, D. M. Ando, S. J .Yang, P. C. Konda, R. Horstmeyer, "Physics-enhanced machine learning for virtual fluorescence microscopy," arXiv preprint arXiv:2004.04306 (2020) [[Link](https://arxiv.org/abs/2004.04306)]
 
