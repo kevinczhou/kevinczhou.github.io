@@ -4,8 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-**Video-rate high-precision time-frequency multiplexed 3D surface imaging**
-
+**Video-rate high-precision time-frequency multiplexed 3D surface imaging**  
 R. Qian, **K. C. Zhou**, J. Zhang, C. Viehland, A. H. Dhalla, J. A. Izatt
 arXiv preprint arXiv:2008.05805 (2020) [[Link](https://arxiv.org/abs/2008.05805)]
 
