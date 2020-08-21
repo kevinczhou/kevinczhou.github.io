@@ -43,7 +43,8 @@ Alex Muthumbi, Amey Chaware, Kanghyun Kim, <ins>Kevin C. Zhou</ins>, Pavan Chand
 **Optical coherence refraction tomography**  
 <ins>Kevin C. Zhou</ins>, Ruobing Qian, Simone Degan, Sina Farsiu, Joseph A. Izatt  
 *Nature Photonics* 13, 794–802 (2019)  
-[[link](https://www.nature.com/articles/s41566-019-0508-1)]  [[open access link](https://rdcu.be/bO6eQ)] [[code](https://github.com/kevinczhou/optical-coherence-refraction-tomography)] [[data](https://figshare.com/articles/Biological_datasets_for_optical_coherence_refraction_tomography_OCRT_/8297138)]
+[[link](https://www.nature.com/articles/s41566-019-0508-1)]  [[open access link](https://rdcu.be/bO6eQ)] [[code](https://github.com/kevinczhou/optical-coherence-refraction-tomography)] [[data](https://figshare.com/articles/Biological_datasets_for_optical_coherence_refraction_tomography_OCRT_/8297138)]  
+*Featured in [Nature Methods](https://www.nature.com/articles/s41592-019-0604-7), [Optics & Photonics News](https://www.osa-opn.org/home/newsroom/2019/august/improving_oct_s_lateral_resolution/?feed=News), and [Scientific American](https://www.scientificamerican.com/article/test-pilot-geese-planetary-wrecking-balls-and-super-ai-vision-the-weeks-best-science-gifs1/)*
 
 **Ocular anterior chamber blood cell population differentiation using spectroscopic optical coherence tomography**  
 Ruobing Qian, Wei-feng Huang, Ryan P. McNabb, <ins>Kevin C. Zhou</ins>, Qing H. Liu, Anthony N. Kuo, Joseph A. Izatt  
@@ -78,7 +79,8 @@ Angela H. Huang, Jenna L. Balestrini, Brooks V. Udelsman, <ins>Kevin C. Zhou</in
 **Quantifying uncertainty in the phylogenetics of Australian numeral systems**  
 <ins>Kevin C. Zhou</ins>, Claire Bowern  
 *Proceedings of the Royal Society B: Biological Sciences* 282, 20151278 (2015)  
-[[link](https://royalsocietypublishing.org/doi/full/10.1098/rspb.2015.1278)]
+[[link](https://royalsocietypublishing.org/doi/full/10.1098/rspb.2015.1278)]  
+ *Featured in [Science](https://www.sciencemag.org/news/2015/09/how-societies-learn-count-10)*
 
 **The use of optical clearing and multiphoton microscopy for investigation of three-dimensional tissue-engineered constructs**  
 Elizabeth A. Calle, Sam Vesuna, Sashka Dimitrievska, <ins>Kevin C. Zhou</ins>, Angela Huang, Liping Zhao, Laura E. Niklason, Michael J. Levene  
