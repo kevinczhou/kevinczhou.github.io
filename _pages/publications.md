@@ -90,6 +90,7 @@ Erin M. Sanders, Michael A. Nguyen, <ins>Kevin C. Zhou</ins>, Mary E. Hanks, Kaw
 *The Biological Bulletin* 224, 1-13 (2013)  
 [[link](https://www.journals.uchicago.edu/doi/abs/10.1086/BBLv224n1p1)]
 
+
 # Conferences and invited seminars
 **Resolution enhancement and speckle reduction in coherence imaging: a k-space model of optical coherence refraction tomography (OCRT)**  (*Invited talk*) (*OSA Biophotonics Student Award*)  
 <ins>Kevin C. Zhou</ins>, Ruobing Qian, Sina Farsiu, Joseph A. Izatt  
