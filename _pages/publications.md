@@ -14,7 +14,7 @@ C. L. Cooke, F. Kong, A. Chaware, **K. C. Zhou**, K. Kim, R. Xu, D. M. Ando, S. 
 
 **K. C. Zhou**, R. Qian, S. Farsiu, and J. A. Izatt, “Spectroscopic optical coherence refraction tomography,” *Opt. Lett.* 45, 2091-2094 (2020) [[Link](https://www.osapublishing.org/ol/abstract.cfm?uri=ol-45-7-2091)] [[Code](https://osapublishing.figshare.com/articles/Spectral_fitting_code_for_SOCT_and_SOCRT/11931228)] [[Data](https://osapublishing.figshare.com/articles/Raw_spectra_of_polystyrene_beads_from_SOCT_and_SOCRT/11931225)]
 
-P. C. Konda\*, L. Loetgering\*, **K. C. Zhou**\*, S. Xu, A. R. Harvey, R. Horstmeyer, “Fourier ptychography: current applications and future promises,” *Opt. Express* 28, 9603-9630 (2020)  [[Link](https://www.osapublishing.org/oe/abstract.cfm?uri=oe-28-7-9603)] \* Equal contribution
+P. C. Konda\*, L. Loetgering\*, **K. C. Zhou**\*, S. Xu, A. R. Harvey, R. Horstmeyer, “Fourier ptychography: current applications and future promises,” *Opt. Express* 28, 9603-9630 (2020)  [[Link](https://www.osapublishing.org/oe/abstract.cfm?uri=oe-28-7-9603)] \*Equal contribution
 
 A. Muthumbi, A. Chaware, K. Kim, **K. C. Zhou**, P. C. Konda, R. Chen, B. Judkewitz, A. Erdmann, B. Kappes, R. Horstmeyer, “Learned sensing: jointly optimized microscope hardware for accurate image classification,” *Biomed. Opt. Express* 10, 6351-6369 (2019) [[Link](https://www.osapublishing.org/boe/abstract.cfm?uri=boe-10-12-6351)]
 
