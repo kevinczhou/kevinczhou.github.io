@@ -4,7 +4,10 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-R. Qian, **K. C. Zhou**, J. Zhang, C. Viehland, A. H. Dhalla, J. A. Izatt, "Video-rate high-precision time-frequency multiplexed 3D surface imaging," arXiv preprint arXiv:2008.05805 (2020) [[Link](https://arxiv.org/abs/2008.05805)]
+**Video-rate high-precision time-frequency multiplexed 3D surface imaging**
+
+R. Qian, **K. C. Zhou**, J. Zhang, C. Viehland, A. H. Dhalla, J. A. Izatt
+arXiv preprint arXiv:2008.05805 (2020) [[Link](https://arxiv.org/abs/2008.05805)]
 
 B. Keller, M. Draelos, **K. C. Zhou**, R. Qian, A. N. Kuo, G. Konidaris, K. Hauser, J. A. Izatt, “Optical Coherence Tomography-Guided Robotic Ophthalmic Microsurgery via Reinforcement Learning from Demonstration,” *IEEE Trans. Robot.* (2020) [[Link](https://ieeexplore.ieee.org/abstract/document/9069310)]
 
