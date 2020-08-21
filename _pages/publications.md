@@ -35,7 +35,7 @@ Pavan Chandra Konda\*, Lars Loetgering\*, <ins>Kevin C. Zhou</ins>\*, Shiqi Xu, 
 *Optics Express* 28, 9603-9630 (2020)  
 [[link](https://www.osapublishing.org/oe/abstract.cfm?uri=oe-28-7-9603)]
 
-**Learned sensing: jointly optimized microscope hardware for accurate image classification**
+**Learned sensing: jointly optimized microscope hardware for accurate image classification**  
 Alex Muthumbi, Amey Chaware, Kanghyun Kim, <ins>Kevin C. Zhou</ins>, Pavan Chandra Konda, Richard Chen, Benjamin Judkewitz, Andreas Erdmann, Barbara Kappes, Roarke Horstmeyer  
 *Biomedical Optics Express* 10, 6351-6369 (2019)  
 [[link](https://www.osapublishing.org/boe/abstract.cfm?uri=boe-10-12-6351)]  [[code](https://figshare.com/s/1a568a659f3ae88eb660)] [[data](https://figshare.com/s/db537c5b89d3efa0f481)]
