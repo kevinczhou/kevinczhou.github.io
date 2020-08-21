@@ -91,7 +91,10 @@ Erin M. Sanders, Michael A. Nguyen, <ins>Kevin C. Zhou</ins>, Mary E. Hanks, Kaw
 [[Link](https://www.journals.uchicago.edu/doi/abs/10.1086/BBLv224n1p1)]
 
 # Conferences and invited seminars
-<ins>Kevin C. Zhou</ins>, Ruobing Qian, Sina Farsiu, Joseph A. Izatt, “Resolution Enhancement and Speckle Reduction in Coherence Imaging: a k-space Model of Optical Coherence Refraction Tomography (OCRT),” OSA Biophotonics Congress 2020. [[Link](https://www.osapublishing.org/abstract.cfm?uri=OCT-2020-OTu1E.2)] (*Invited talk*) (*OSA Biophotonics Student Award*)
+**Resolution Enhancement and Speckle Reduction in Coherence Imaging: a k-space Model of Optical Coherence Refraction Tomography (OCRT)**  (*Invited talk*) (*OSA Biophotonics Student Award*)  
+<ins>Kevin C. Zhou</ins>, Ruobing Qian, Sina Farsiu, Joseph A. Izatt  
+OSA Biophotonics Congress 2020.  
+[[Link](https://www.osapublishing.org/abstract.cfm?uri=OCT-2020-OTu1E.2)]
 
 **Optical coherence refraction tomography** (*Invited seminar*)  
 <ins>Kevin C. Zhou</ins>  
