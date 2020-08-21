@@ -22,7 +22,7 @@ Brenton Keller, Mark Draelos, <ins>Kevin C. Zhou</ins>, Ruobing Qian, Anthony N.
 **Physics-enhanced machine learning for virtual fluorescence microscopy**  
 Colin L. Cooke, Fanjie Kong, Amey Chaware, <ins>Kevin C. Zhou</ins>, Kanghyun Kim, Rong Xu, D. Michael Ando, Samuel J. Yang, Pavan Chandra Konda, Roarke Horstmeyer  
 arXiv:2004.04306 (2020)  
-[[Link](https://arxiv.org/abs/2004.04306)]
+[[Link](https://arxiv.org/abs/2004.04306)] [[Code](https://github.com/clvcooke/virtual-fluorescence)]
 
 **Spectroscopic optical coherence refraction tomography**  
 <ins>Kevin C. Zhou</ins>, Ruobing Qian, Sina Farsiu, Joseph A. Izatt  
@@ -38,7 +38,7 @@ Pavan Chandra Konda\*, Lars Loetgering\*, <ins>Kevin C. Zhou</ins>\*, Shiqi Xu, 
 **Learned sensing: jointly optimized microscope hardware for accurate image classification**
 Alex Muthumbi, Amey Chaware, Kanghyun Kim, <ins>Kevin C. Zhou</ins>, Pavan Chandra Konda, Richard Chen, Benjamin Judkewitz, Andreas Erdmann, Barbara Kappes, Roarke Horstmeyer  
 *Biomedical Optics Express* 10, 6351-6369 (2019)  
-[[Link](https://www.osapublishing.org/boe/abstract.cfm?uri=boe-10-12-6351)]
+[[Link](https://www.osapublishing.org/boe/abstract.cfm?uri=boe-10-12-6351)]  [[Code](https://figshare.com/s/1a568a659f3ae88eb660)] [[Data](https://figshare.com/s/db537c5b89d3efa0f481)]
 
 **Optical coherence refraction tomography**  
 <ins>Kevin C. Zhou</ins>, Ruobing Qian, Simone Degan, Sina Farsiu, Joseph A. Izatt  
