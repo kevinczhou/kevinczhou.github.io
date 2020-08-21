@@ -80,7 +80,7 @@ Angela H. Huang, Jenna L. Balestrini, Brooks V. Udelsman, <ins>Kevin C. Zhou</in
 *Proceedings of the Royal Society B: Biological Sciences* 282, 20151278 (2015)  
 [[link](https://royalsocietypublishing.org/doi/full/10.1098/rspb.2015.1278)]
 
-**The use of optical clearing and multiphoton microscopy for investigation of three-dimensional tissue-engineered constructs**
+**The use of optical clearing and multiphoton microscopy for investigation of three-dimensional tissue-engineered constructs**  
 Elizabeth A. Calle, Sam Vesuna, Sashka Dimitrievska, <ins>Kevin C. Zhou</ins>, Angela Huang, Liping Zhao, Laura E. Niklason, Michael J. Levene  
 *Tissue Engineering Part C: Methods* 20, 570-577 (2014)  
 [[link](https://www.liebertpub.com/doi/abs/10.1089/ten.tec.2013.0538)]
