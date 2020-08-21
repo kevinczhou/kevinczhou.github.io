@@ -30,7 +30,7 @@ arXiv:2004.04306 (2020)
 [[Link](https://www.osapublishing.org/ol/abstract.cfm?uri=ol-45-7-2091)] [[Code](https://osapublishing.figshare.com/articles/Spectral_fitting_code_for_SOCT_and_SOCRT/11931228)] [[Data](https://osapublishing.figshare.com/articles/Raw_spectra_of_polystyrene_beads_from_SOCT_and_SOCRT/11931225)]
 
 **Fourier ptychography: current applications and future promises**  
-Pavan Chandra Konda, Lars Loetgering, <ins>Kevin C. Zhou</ins>, Shiqi Xu, Andrew R. Harvey, Roarke Horstmeyer  
+Pavan Chandra Konda\*, Lars Loetgering\*, <ins>Kevin C. Zhou</ins>\*, Shiqi Xu, Andrew R. Harvey, Roarke Horstmeyer  
 \*Equal contribution  
 *Optics Express* 28, 9603-9630 (2020)  
 [[Link](https://www.osapublishing.org/oe/abstract.cfm?uri=oe-28-7-9603)]
