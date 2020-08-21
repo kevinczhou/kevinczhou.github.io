@@ -93,24 +93,50 @@ Erin M. Sanders, Michael A. Nguyen, <ins>Kevin C. Zhou</ins>, Mary E. Hanks, Kaw
 # Conferences and invited seminars
 <ins>Kevin C. Zhou</ins>, Ruobing Qian, Sina Farsiu, Joseph A. Izatt, “Resolution Enhancement and Speckle Reduction in Coherence Imaging: a k-space Model of Optical Coherence Refraction Tomography (OCRT),” OSA Biophotonics Congress 2020. [[Link](https://www.osapublishing.org/abstract.cfm?uri=OCT-2020-OTu1E.2)] (*Invited talk*) (*OSA Biophotonics Student Award*)
 
-<ins>Kevin C. Zhou</ins>, “Optical coherence refraction tomography,” Berkeley Center for Computational Imaging (BCCI), 2020. (*Invited seminar*)
+**Optical coherence refraction tomography** (*Invited seminar*)  
+<ins>Kevin C. Zhou</ins>  
+Berkeley Center for Computational Imaging (BCCI), 2020.
 
-<ins>Kevin C. Zhou</ins>, Roarke Horstmeyer, “High-resolution 3D imaging using Fourier ptychographic tomography with a deep image prior,” SPIE Photonics West 2020, San Francisco, CA. (*Talk*)
+**High-resolution 3D imaging using Fourier ptychographic tomography with a deep image prior** (*Talk*)  
+<ins>Kevin C. Zhou</ins>, Roarke Horstmeyer  
+SPIE Photonics West 2020, San Francisco, CA.
 
-<ins>Kevin C. Zhou</ins>, “Optical coherence refraction tomography,” Advanced Research Center for Nanolithography (ARCNL), Netherlands, 2019. (*Invited seminar*)
+**Optical coherence refraction tomography** (*Invited seminar*)  
+<ins>Kevin C. Zhou</ins>  
+Advanced Research Center for Nanolithography (ARCNL), Netherlands, 2019.
 
-<ins>Kevin C. Zhou</ins>, “Improving diffraction tomography with intensity-only images,” Face2phase 2019, TU Delft Science Center, Delft, Netherlands. (*Invited talk*)
+**Improving diffraction tomography with intensity-only images** (*Invited talk*)  
+<ins>Kevin C. Zhou</ins>  
+Face2phase 2019, TU Delft Science Center, Delft, Netherlands. 
 
-<ins>Kevin C. Zhou</ins>, Ruobing Qian, Sina Farsiu, Joseph A. Izatt, “Spectroscopic optical coherence refraction tomography for isotropically resolved imaging with simultaneously high spatial and spectral resolution,” SPIE Photonics West 2019, San Francisco, CA. (*Talk*)
+**Spectroscopic optical coherence refraction tomography for isotropically resolved imaging with simultaneously high spatial and spectral resolution** (*Talk*)  
+<ins>Kevin C. Zhou</ins>, Ruobing Qian, Sina Farsiu, Joseph A. Izatt  
+SPIE Photonics West 2019, San Francisco, CA.
 
-<ins>Kevin C. Zhou</ins>, Ruobing Qian, Sina Farsiu, Joseph A. Izatt, “Optical coherence refraction tomography for isotropically resolved cross-sectional imaging,” SPIE Photonics West 2018, San Francisco, CA. (*Talk*)
+**Optical coherence refraction tomography for isotropically resolved cross-sectional imaging** (*Talk*)  
+<ins>Kevin C. Zhou</ins>, Ruobing Qian, Sina Farsiu, Joseph A. Izatt  
+SPIE Photonics West 2018, San Francisco, CA.
 
-<ins>Kevin C. Zhou</ins>, Francisco E. Robles, Martin C. Fischer, Warren S. Warren. “Visualizing convolutional neural networks for extracting structural and chemical information from pump-probe microscopy of melanoma,” World Molecular Imaging Congress 2016, New York City, NY. (*Poster*)
+**Visualizing convolutional neural networks for extracting structural and chemical information from pump-probe microscopy of melanoma** (*Poster*)  
+<ins>Kevin C. Zhou</ins>, Francisco E. Robles, Martin C. Fischer, Warren S. Warren  
+World Molecular Imaging Congress 2016, New York City, NY.
 
-Brendan K. Huang, Ikbal Sencan, Ute A. Gamm, <ins>Kevin C. Zhou</ins>, Changgeng Liu, Yong Bian, Zhilong Cong, Sebastian Knitter, Hui Cao, Michael Loewenberg, Mustafa K. Khokha, Michael A. Choma, "Towards all-optical quantification of ciliary physiology," OSA CLEO: Applications and Technology 2016, San Jose, CA. [[Link](https://www.osapublishing.org/abstract.cfm?uri=cleo_at-2016-ATh1N.1)]
+**Towards all-optical quantification of ciliary physiology**  
+Brendan K. Huang, Ikbal Sencan, Ute A. Gamm, <ins>Kevin C. Zhou</ins>, Changgeng Liu, Yong Bian, Zhilong Cong, Sebastian Knitter, Hui Cao, Michael Loewenberg, Mustafa K. Khokha, Michael A. Choma  
+OSA CLEO: Applications and Technology 2016, San Jose, CA.  
+[[Link](https://www.osapublishing.org/abstract.cfm?uri=cleo_at-2016-ATh1N.1)]
 
-Brendan K. Huang, <ins>Kevin C. Zhou</ins>, Ute A. Gamm, Vineet Bhandari, Mustafa K. Khokha, Michael A. Choma, "OCT-based three-dimensional, three vector component imaging of cilia-driven fluid flow for developmental biology," SPIE Photonics West 2016, San Francisco, CA. [[Link](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/9716/97160J/OCT-based-three-dimensional-three-vector-component-imaging-of-cilia/10.1117/12.2211601.short)]
+**OCT-based three-dimensional, three vector component imaging of cilia-driven fluid flow for developmental biology**  
+Brendan K. Huang, <ins>Kevin C. Zhou</ins>, Ute A. Gamm, Vineet Bhandari, Mustafa K. Khokha, Michael A. Choma  
+SPIE Photonics West 2016, San Francisco, CA.  
+[[Link](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/9716/97160J/OCT-based-three-dimensional-three-vector-component-imaging-of-cilia/10.1117/12.2211601.short)]
 
-<ins>Kevin C. Zhou</ins>, Brendan K. Huang, Ute A. Gamm, Vineet Bhandari, Mustafa K. Khokha, Michael A. Choma, "Particle streak velocimetry-OCT (PSV-OCT): a novel method for multi-vector component velocimetry of microscale flow physiology," SPIE Photonics West 2016, San Francisco, CA. [[Link](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/9697/96970F/Particle-streak-velocimetry-OCT-PSV-OCT--a-novel-method/10.1117/12.2214794.short?SSO=1)] (*Talk*)
+**Particle streak velocimetry-OCT (PSV-OCT): a novel method for multi-vector component velocimetry of microscale flow physiology** (*Talk*)  
+<ins>Kevin C. Zhou</ins>, Brendan K. Huang, Ute A. Gamm, Vineet Bhandari, Mustafa K. Khokha, Michael A. Choma  
+SPIE Photonics West 2016, San Francisco, CA.  
+[[Link](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/9697/96970F/Particle-streak-velocimetry-OCT-PSV-OCT--a-novel-method/10.1117/12.2214794.short?SSO=1)]
 
-Michael J. Levene, <ins>Kevin C. Zhou</ins>, Sam Vesuna, Richard Torres, "Multiphoton microscopy of cleared human tissue for 3D histology," OSA Novel Techniques in Microscopy 2013, Waikoloa Beach, Hawaii. [[Link](https://www.osapublishing.org/abstract.cfm?uri=NTM-2013-NT3B.2)]
+**Multiphoton microscopy of cleared human tissue for 3D histology**  
+Michael J. Levene, <ins>Kevin C. Zhou</ins>, Sam Vesuna, Richard Torres  
+OSA Novel Techniques in Microscopy 2013, Waikoloa Beach, Hawaii.  
+[[Link](https://www.osapublishing.org/abstract.cfm?uri=NTM-2013-NT3B.2)]
