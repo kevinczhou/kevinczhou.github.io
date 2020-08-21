@@ -31,7 +31,7 @@ arXiv:2004.04306 (2020)
 
 **Fourier ptychography: current applications and future promises**  
 Pavan Chandra Konda, Lars Loetgering, <ins>Kevin C. Zhou</ins>, Shiqi Xu, Andrew R. Harvey, Roarke Horstmeyer  
-\*Equal contribution
+\*Equal contribution  
 *Optics Express* 28, 9603-9630 (2020)  
 [[Link](https://www.osapublishing.org/oe/abstract.cfm?uri=oe-28-7-9603)]
 
