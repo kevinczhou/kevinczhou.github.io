@@ -10,11 +10,11 @@ arXiv:2008.05805 (2020) [[Link](https://arxiv.org/abs/2008.05805)]
 
 **Optical coherence tomography-guided robotic ophthalmic microsurgery via reinforcement learning from demonstration**  
 Brenton Keller, Mark Draelos, <ins>Kevin C. Zhou</ins>, Ruobing Qian, Anthony N. Kuo, George Konidaris, Kris Hauser, Joseph A. Izatt  
-*IEEE Trans. Robot.* (2020) [[Link](https://ieeexplore.ieee.org/abstract/document/9069310)]
+*IEEE Transactions on Robotics* (2020) [[Link](https://ieeexplore.ieee.org/abstract/document/9069310)]
 
 **Diffraction tomography with a deep image prior**  
 <ins>Kevin C. Zhou</ins>, Roarke Horstmeyer  
-*Opt. Express* 28, 12872-12896 (2020) [[Link](https://www.osapublishing.org/oe/abstract.cfm?uri=oe-28-9-12872)] [[Code](https://github.com/kevinczhou/deep-prior-diffraction-tomography)] [[Data](https://figshare.com/articles/Diffraction_tomography_with_a_deep_image_prior_-_raw_data/12081708)]
+*Optics Express* 28, 12872-12896 (2020) [[Link](https://www.osapublishing.org/oe/abstract.cfm?uri=oe-28-9-12872)] [[Code](https://github.com/kevinczhou/deep-prior-diffraction-tomography)] [[Data](https://figshare.com/articles/Diffraction_tomography_with_a_deep_image_prior_-_raw_data/12081708)]
 
 **Physics-enhanced machine learning for virtual fluorescence microscopy**  
 Colin L. Cooke, Fanjie Kong, Amey Chaware, <ins>Kevin C. Zhou</ins>, Kanghyun Kim, Rong Xu, D. Michael Ando, Samuel J. Yang, Pavan Chandra Konda, Roarke Horstmeyer  
@@ -22,16 +22,16 @@ arXiv:2004.04306 (2020) [[Link](https://arxiv.org/abs/2004.04306)]
 
 **Spectroscopic optical coherence refraction tomography**  
 <ins>Kevin C. Zhou</ins>, Ruobing Qian, Sina Farsiu, Joseph A. Izatt  
-*Opt. Lett.* 45, 2091-2094 (2020) [[Link](https://www.osapublishing.org/ol/abstract.cfm?uri=ol-45-7-2091)] [[Code](https://osapublishing.figshare.com/articles/Spectral_fitting_code_for_SOCT_and_SOCRT/11931228)] [[Data](https://osapublishing.figshare.com/articles/Raw_spectra_of_polystyrene_beads_from_SOCT_and_SOCRT/11931225)]
+*Optics Letters* 45, 2091-2094 (2020) [[Link](https://www.osapublishing.org/ol/abstract.cfm?uri=ol-45-7-2091)] [[Code](https://osapublishing.figshare.com/articles/Spectral_fitting_code_for_SOCT_and_SOCRT/11931228)] [[Data](https://osapublishing.figshare.com/articles/Raw_spectra_of_polystyrene_beads_from_SOCT_and_SOCRT/11931225)]
 
 **Fourier ptychography: current applications and future promises**  
 Pavan Chandra Konda, Lars Loetgering, <ins>Kevin C. Zhou</ins>, Shiqi Xu, Andrew R. Harvey, Roarke Horstmeyer  
 \*Equal contribution
-*Opt. Express* 28, 9603-9630 (2020)  [[Link](https://www.osapublishing.org/oe/abstract.cfm?uri=oe-28-7-9603)]
+*Optics Express* 28, 9603-9630 (2020)  [[Link](https://www.osapublishing.org/oe/abstract.cfm?uri=oe-28-7-9603)]
 
 **Learned sensing: jointly optimized microscope hardware for accurate image classification**
 Alex Muthumbi, Amey Chaware, Kanghyun Kim, <ins>Kevin C. Zhou</ins>, Pavan Chandra Konda, Richard Chen, Benjamin Judkewitz, Andreas Erdmann, Barbara Kappes, Roarke Horstmeyer  
-*Biomed. Opt. Express* 10, 6351-6369 (2019) [[Link](https://www.osapublishing.org/boe/abstract.cfm?uri=boe-10-12-6351)]
+*Biomedical Optics Express* 10, 6351-6369 (2019) [[Link](https://www.osapublishing.org/boe/abstract.cfm?uri=boe-10-12-6351)]
 
 **Optical coherence refraction tomography**  
 <ins>Kevin C. Zhou</ins>, Ruobing Qian, Simone Degan, Sina Farsiu, Joseph A. Izatt  
@@ -39,11 +39,11 @@ Alex Muthumbi, Amey Chaware, Kanghyun Kim, <ins>Kevin C. Zhou</ins>, Pavan Chand
 
 **Ocular anterior chamber blood cell population differentiation using spectroscopic optical coherence tomography**  
 Ruobing Qian, Wei-feng Huang, Ryan P. McNabb, <ins>Kevin C. Zhou</ins>, Qing H. Liu, Anthony N. Kuo, Joseph A. Izatt  
-*Biomed. Opt. Express* 10, 3281-3300 (2019) [[Link](https://www.osapublishing.org/boe/abstract.cfm?uri=boe-10-7-3281)]
+*Biomedical Optics Express* 10, 3281-3300 (2019) [[Link](https://www.osapublishing.org/boe/abstract.cfm?uri=boe-10-7-3281)]
 
 **Unraveling the molecular nature of melanin changes in metastatic cancer**  
 Kuk-Youn Ju, Simone Degan, Martin C. Fischer, <ins>Kevin C. Zhou</ins>, Xiaomeng Jia, Jin Yu, Warren S. Warren  
-*J. Biomed. Opt.* 24, 051414 (2019) [[Link](https://doi.org/10.1117/1.JBO.24.5.051414)]
+*Journal of Biomedical Optics* 24, 051414 (2019) [[Link](https://doi.org/10.1117/1.JBO.24.5.051414)]
 
 **Stimulated Raman scattering spectroscopic optical coherence tomography**  
 Francisco E. Robles, <ins>Kevin C. Zhou</ins>, Martin C. Fischer, Warren S. Warren  
@@ -55,15 +55,15 @@ Angela H. Huang, Jenna L. Balestrini, Brooks V. Udelsman, <ins>Kevin C. Zhou</in
 
 **Particle streak velocimetry-optical coherence tomography: a novel method for multidimensional imaging of microscale fluid flows**  
 <ins>Kevin C. Zhou</ins>, Brendan K. Huang, Ute A. Gamm, Vineet Bhandari, Mustafa K. Khokha, Michael A. Choma  
-*Biomed. Opt. Express* 7, 1590-1603 (2016)  [[Link](https://www.osapublishing.org/boe/abstract.cfm?uri=boe-7-4-1590)]
+*Biomedical Optics Express* 7, 1590-1603 (2016)  [[Link](https://www.osapublishing.org/boe/abstract.cfm?uri=boe-7-4-1590)]
 
 **Improved velocimetry in optical coherence tomography using Bayesian analysis**  
 <ins>Kevin C. Zhou</ins>, Brendan K. Huang, Hemant Tagare, Michael A. Choma  
-*Biomed. Opt. Express* 6, 4796-4811 (2015)  [[Link](https://www.osapublishing.org/boe/abstract.cfm?uri=boe-6-12-4796)]
+*Biomedical Optics Express* 6, 4796-4811 (2015)  [[Link](https://www.osapublishing.org/boe/abstract.cfm?uri=boe-6-12-4796)]
 
 **Quantifying uncertainty in the phylogenetics of Australian numeral systems**  
 <ins>Kevin C. Zhou</ins>, Claire Bowern  
-*Proc. R. Soc. B* 282, 20151278 (2015) [[Link](https://royalsocietypublishing.org/doi/full/10.1098/rspb.2015.1278)]
+*Proceedings of the Royal Society B: Biological Sciences* 282, 20151278 (2015) [[Link](https://royalsocietypublishing.org/doi/full/10.1098/rspb.2015.1278)]
 
 **The use of optical clearing and multiphoton microscopy for investigation of three-dimensional tissue-engineered constructs**
 Elizabeth A. Calle, Sam Vesuna, Sashka Dimitrievska, <ins>Kevin C. Zhou</ins>, Angela Huang, Liping Zhao, Laura E. Niklason, Michael J. Levene  
@@ -71,7 +71,7 @@ Elizabeth A. Calle, Sam Vesuna, Sashka Dimitrievska, <ins>Kevin C. Zhou</ins>, A
 
 **Developmental modification of synaptic NMDAR composition and maturation of glutamatergic synapses: matching postsynaptic slots with receptor pegs**  
 Erin M. Sanders, Michael A. Nguyen, <ins>Kevin C. Zhou</ins>, Mary E. Hanks, Kawthar A. Yusuf, Daniel N. Cox, Theodore C. Dumas  
-*Biol. Bull.* 224, 1-13 (2013) [[Link](https://www.journals.uchicago.edu/doi/abs/10.1086/BBLv224n1p1)]
+*The Biological Bulletin* 224, 1-13 (2013) [[Link](https://www.journals.uchicago.edu/doi/abs/10.1086/BBLv224n1p1)]
 
 # Conferences and invited seminars
 <ins>Kevin C. Zhou</ins>, Ruobing Qian, Sina Farsiu, and Joseph A. Izatt, “Resolution Enhancement and Speckle Reduction in Coherence Imaging: a k-space Model of Optical Coherence Refraction Tomography (OCRT),” OSA Biophotonics Congress 2020. [[Link](https://www.osapublishing.org/abstract.cfm?uri=OCT-2020-OTu1E.2)] (*Invited talk*) (*OSA Biophotonics Student Award*)
