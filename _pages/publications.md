@@ -24,29 +24,53 @@ arXiv:2004.04306 (2020) [[Link](https://arxiv.org/abs/2004.04306)]
 <ins>K. C. Zhou</ins>, R. Qian, S. Farsiu, and J. A. Izatt  
 *Opt. Lett.* 45, 2091-2094 (2020) [[Link](https://www.osapublishing.org/ol/abstract.cfm?uri=ol-45-7-2091)] [[Code](https://osapublishing.figshare.com/articles/Spectral_fitting_code_for_SOCT_and_SOCRT/11931228)] [[Data](https://osapublishing.figshare.com/articles/Raw_spectra_of_polystyrene_beads_from_SOCT_and_SOCRT/11931225)]
 
-P. C. Konda\*, L. Loetgering\*, <ins>K. C. Zhou</ins>\*, S. Xu, A. R. Harvey, R. Horstmeyer, “Fourier ptychography: current applications and future promises,” *Opt. Express* 28, 9603-9630 (2020)  [[Link](https://www.osapublishing.org/oe/abstract.cfm?uri=oe-28-7-9603)] \*Equal contribution
+**Fourier ptychography: current applications and future promises**  
+P. C. Konda\*, L. Loetgering\*, <ins>K. C. Zhou</ins>\*, S. Xu, A. R. Harvey, R. Horstmeyer  
+*Opt. Express* 28, 9603-9630 (2020)  [[Link](https://www.osapublishing.org/oe/abstract.cfm?uri=oe-28-7-9603)] \*Equal contribution
 
-A. Muthumbi, A. Chaware, K. Kim, <ins>K. C. Zhou</ins>, P. C. Konda, R. Chen, B. Judkewitz, A. Erdmann, B. Kappes, R. Horstmeyer, “Learned sensing: jointly optimized microscope hardware for accurate image classification,” *Biomed. Opt. Express* 10, 6351-6369 (2019) [[Link](https://www.osapublishing.org/boe/abstract.cfm?uri=boe-10-12-6351)]
+**Learned sensing: jointly optimized microscope hardware for accurate image classification**
+A. Muthumbi, A. Chaware, K. Kim, <ins>K. C. Zhou</ins>, P. C. Konda, R. Chen, B. Judkewitz, A. Erdmann, B. Kappes, R. Horstmeyer  
+*Biomed. Opt. Express* 10, 6351-6369 (2019) [[Link](https://www.osapublishing.org/boe/abstract.cfm?uri=boe-10-12-6351)]
 
-<ins>K. C. Zhou</ins>, R. Qian, S. Degan, S. Farsiu, J. A. Izatt, “Optical coherence refraction tomography,” *Nat. Photonics* 13, 794–802 (2019) [[Link](https://www.nature.com/articles/s41566-019-0508-1)]  [[Open access link](https://rdcu.be/bO6eQ)] [[Code](https://github.com/kevinczhou/optical-coherence-refraction-tomography)] [[Data](https://figshare.com/articles/Biological_datasets_for_optical_coherence_refraction_tomography_OCRT_/8297138)]
+**Optical coherence refraction tomography**  
+<ins>K. C. Zhou</ins>, R. Qian, S. Degan, S. Farsiu, J. A. Izatt  
+*Nat. Photonics* 13, 794–802 (2019) [[Link](https://www.nature.com/articles/s41566-019-0508-1)]  [[Open access link](https://rdcu.be/bO6eQ)] [[Code](https://github.com/kevinczhou/optical-coherence-refraction-tomography)] [[Data](https://figshare.com/articles/Biological_datasets_for_optical_coherence_refraction_tomography_OCRT_/8297138)]
 
-R. Qian, W. Huang, R. P. McNabb, <ins>K. C. Zhou</ins>, Q. H. Liu, A. N. Kuo, J. A. Izatt, “Ocular anterior chamber blood cell population differentiation using spectroscopic optical coherence tomography,” *Biomed. Opt. Express* 10, 3281-3300 (2019) [[Link](https://www.osapublishing.org/boe/abstract.cfm?uri=boe-10-7-3281)]
+**Ocular anterior chamber blood cell population differentiation using spectroscopic optical coherence tomography**  
+R. Qian, W. Huang, R. P. McNabb, <ins>K. C. Zhou</ins>, Q. H. Liu, A. N. Kuo, J. A. Izatt  
+*Biomed. Opt. Express* 10, 3281-3300 (2019) [[Link](https://www.osapublishing.org/boe/abstract.cfm?uri=boe-10-7-3281)]
 
-K. Ju, S. Degan, M. C. Fischer, <ins>K. C. Zhou</ins>, X. Jia, J. Yu, W. S. Warren, “Unraveling the molecular nature of melanin changes in metastatic cancer,” *J. Biomed. Opt.* 24, 051414 (2019) [[Link](https://doi.org/10.1117/1.JBO.24.5.051414)]
+**Unraveling the molecular nature of melanin changes in metastatic cancer**  
+K. Ju, S. Degan, M. C. Fischer, <ins>K. C. Zhou</ins>, X. Jia, J. Yu, W. S. Warren  
+*J. Biomed. Opt.* 24, 051414 (2019) [[Link](https://doi.org/10.1117/1.JBO.24.5.051414)]
 
-F. E. Robles, <ins>K. C. Zhou</ins>, M. C. Fischer, W. S. Warren, “Stimulated Raman scattering spectroscopic optical coherence tomography,” *Optica* 4, 243-246 (2017) [[Link](https://www.osapublishing.org/optica/abstract.cfm?uri=optica-4-2-243)]
+**Stimulated Raman scattering spectroscopic optical coherence tomography**  
+F. E. Robles, <ins>K. C. Zhou</ins>, M. C. Fischer, W. S. Warren  
+*Optica* 4, 243-246 (2017) [[Link](https://www.osapublishing.org/optica/abstract.cfm?uri=optica-4-2-243)]
 
-A. H. Huang, J. L. Balestrini, B. V. Udelsman, <ins>K. C. Zhou</ins>, L. Zhao, J. Ferruzzi, B. C. Starcher, M. J. Levene, J. D. Humphrey, L. E. Niklason, "Biaxial stretch improves elastic fiber maturation, collagen arrangement, and mechanical properties in engineered arteries," *Tissue Engineering Part C: Methods* 22, 524-533 (2016) [[Link](https://www.liebertpub.com/doi/abs/10.1089/ten.TEC.2015.0309)]
+**Biaxial stretch improves elastic fiber maturation, collagen arrangement, and mechanical properties in engineered arteries**  
+A. H. Huang, J. L. Balestrini, B. V. Udelsman, <ins>K. C. Zhou</ins>, L. Zhao, J. Ferruzzi, B. C. Starcher, M. J. Levene, J. D. Humphrey, L. E. Niklason  
+*Tissue Engineering Part C: Methods* 22, 524-533 (2016) [[Link](https://www.liebertpub.com/doi/abs/10.1089/ten.TEC.2015.0309)]
 
-<ins>K. C. Zhou</ins>, B. K. Huang, U. A. Gamm, V. Bhandari, M. K. Khokha, M. A. Choma, "Particle streak velocimetry-optical coherence tomography: a novel method for multidimensional imaging of microscale fluid flows," *Biomed. Opt. Express* 7, 1590-1603 (2016)  [[Link](https://www.osapublishing.org/boe/abstract.cfm?uri=boe-7-4-1590)]
+**Particle streak velocimetry-optical coherence tomography: a novel method for multidimensional imaging of microscale fluid flows**  
+<ins>K. C. Zhou</ins>, B. K. Huang, U. A. Gamm, V. Bhandari, M. K. Khokha, M. A. Choma  
+*Biomed. Opt. Express* 7, 1590-1603 (2016)  [[Link](https://www.osapublishing.org/boe/abstract.cfm?uri=boe-7-4-1590)]
 
-<ins>K. C. Zhou</ins>, B. K. Huang, H. Tagare, M. A. Choma, "Improved velocimetry in optical coherence tomography using Bayesian analysis," *Biomed. Opt. Express* 6, 4796-4811 (2015)  [[Link](https://www.osapublishing.org/boe/abstract.cfm?uri=boe-6-12-4796)]
+**Improved velocimetry in optical coherence tomography using Bayesian analysis**  
+<ins>K. C. Zhou</ins>, B. K. Huang, H. Tagare, M. A. Choma  
+*Biomed. Opt. Express* 6, 4796-4811 (2015)  [[Link](https://www.osapublishing.org/boe/abstract.cfm?uri=boe-6-12-4796)]
 
-<ins>K. C. Zhou</ins> and C. Bowern, "Quantifying uncertainty in the phylogenetics of Australian numeral systems," *Proc. R. Soc. B* 282, 20151278 (2015) [[Link](https://royalsocietypublishing.org/doi/full/10.1098/rspb.2015.1278)]
+**Quantifying uncertainty in the phylogenetics of Australian numeral systems**  
+<ins>K. C. Zhou</ins> and C. Bowern  
+*Proc. R. Soc. B* 282, 20151278 (2015) [[Link](https://royalsocietypublishing.org/doi/full/10.1098/rspb.2015.1278)]
 
-E. A. Calle, S. Vesuna, S. Dimitrievska, <ins>K. C. Zhou</ins>, A. Huang, L. Zhao, L. E. Niklason, M. J. Levene, "The use of optical clearing and multiphoton microscopy for investigation of three-dimensional tissue-engineered constructs," *Tissue Engineering Part C: Methods* 20, 570-577 (2014) [[Link](https://www.liebertpub.com/doi/abs/10.1089/ten.tec.2013.0538)]
+**The use of optical clearing and multiphoton microscopy for investigation of three-dimensional tissue-engineered constructs**
+E. A. Calle, S. Vesuna, S. Dimitrievska, <ins>K. C. Zhou</ins>, A. Huang, L. Zhao, L. E. Niklason, M. J. Levene  
+*Tissue Engineering Part C: Methods* 20, 570-577 (2014) [[Link](https://www.liebertpub.com/doi/abs/10.1089/ten.tec.2013.0538)]
 
-E. M. Sanders, M. A. Nguyen, <ins>K. C. Zhou</ins>, M. E. Hanks, K. A. Yusuf, D. N. Cox, T. C. Dumas, "Developmental modification of synaptic NMDAR composition and maturation of glutamatergic synapses: matching postsynaptic slots with receptor pegs," *Biol. Bull.* 224, 1-13 (2013) [[Link](https://www.journals.uchicago.edu/doi/abs/10.1086/BBLv224n1p1)]
+**Developmental modification of synaptic NMDAR composition and maturation of glutamatergic synapses: matching postsynaptic slots with receptor pegs**  
+E. M. Sanders, M. A. Nguyen, <ins>K. C. Zhou</ins>, M. E. Hanks, K. A. Yusuf, D. N. Cox, T. C. Dumas  
+*Biol. Bull.* 224, 1-13 (2013) [[Link](https://www.journals.uchicago.edu/doi/abs/10.1086/BBLv224n1p1)]
 
 # Conferences and invited seminars
 <ins>K. C. Zhou</ins>, R. Qian, S. Farsiu, and J. A. Izatt, “Resolution Enhancement and Speckle Reduction in Coherence Imaging: a k-space Model of Optical Coherence Refraction Tomography (OCRT),” OSA Biophotonics Congress 2020. [[Link](https://www.osapublishing.org/abstract.cfm?uri=OCT-2020-OTu1E.2)] (*Invited talk*) (*OSA Biophotonics Student Award*)
