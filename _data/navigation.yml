@@ -4,8 +4,7 @@ main:
     url: /about/
   - title: "Publications"
     url: /publications/
-#   - title: "Teaching"
-#     url: /teaching/
-#   - title: "Awards"
-#     url: /awards/
-
+  - title: "Awards"
+    url: /awards/
+  - title: "Teaching"
+    url: /teaching/
