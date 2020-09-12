@@ -123,6 +123,10 @@ SPIE Photonics West 2019, San Francisco, CA.
 <ins>Kevin C. Zhou</ins>, Ruobing Qian, Sina Farsiu, Joseph A. Izatt  
 SPIE Photonics West 2018, San Francisco, CA.
 
+**Stimulated Raman scattering (SRS) spectroscopic OCT**  
+Francisco E. Robles, <ins>Kevin C. Zhou</ins>, Martin C. Fischer, Warren S. Warren  
+SPIE Photonics West 2017, San Francisco, CA.
+
 **Visualizing convolutional neural networks for extracting structural and chemical information from pump-probe microscopy of melanoma** (*Poster*)  
 <ins>Kevin C. Zhou</ins>, Francisco E. Robles, Martin C. Fischer, Warren S. Warren  
 World Molecular Imaging Congress 2016, New York City, NY.
