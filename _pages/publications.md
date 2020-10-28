@@ -4,7 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-**Video-rate high-precision time-frequency multiplexed 3D surface imaging**  
+**Video-rate high-precision time-frequency multiplexed 3D coherent ranging**  
 Ruobing Qian, <ins>Kevin C. Zhou</ins>, Jingkai Zhang, Christian Viehland, Al-Hafeez Dhalla, Joseph A. Izatt  
 arXiv:2008.05805 (2020)  
 [[link](https://arxiv.org/abs/2008.05805)]
