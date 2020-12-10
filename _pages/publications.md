@@ -4,6 +4,11 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+**Unified k-space theory of optical coherence tomography**  
+<ins>Kevin C. Zhou</ins>, Ruobing Qian, Al-Hafeez Dhalla, Sina Farsiu, Joseph A. Izatt   
+arXiv:2012.04875 (2020)  
+[[link](https://arxiv.org/abs/2012.04875)]
+
 **Video-rate high-precision time-frequency multiplexed 3D coherent ranging**  
 Ruobing Qian, <ins>Kevin C. Zhou</ins>, Jingkai Zhang, Christian Viehland, Al-Hafeez Dhalla, Joseph A. Izatt  
 arXiv:2008.05805 (2020)  
