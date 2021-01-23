@@ -4,6 +4,11 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+**In vivo quantitative analysis of anterior chamber white blood cell mixture composition using spectroscopic optical coherence tomography**  
+Ruobing Qian, Ryan P. McNabb, <ins>Kevin C. Zhou</ins>, Hazem M. Mousa, Daniel R. Saban, Victor L. Perez, Anthony N. Kuo, Joseph A. Izatt  
+arXiv:2101.03719 (2021)  
+[[link](https://arxiv.org/abs/2101.03719)]
+
 **Mesoscopic photogrammetry with an unstabilized phone camera**  
 <ins>Kevin C. Zhou</ins>, Colin Cooke, Jaehee Park, Ruobing Qian, Roarke Horstmeyer, Joseph A. Izatt, Sina Farsiu   
 arXiv:2012.06044 (2020)  
