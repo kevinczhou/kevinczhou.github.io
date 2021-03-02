@@ -11,7 +11,7 @@ arXiv:2101.03719 (2021)
 
 **Mesoscopic photogrammetry with an unstabilized phone camera**  
 <ins>Kevin C. Zhou</ins>, Colin Cooke, Jaehee Park, Ruobing Qian, Roarke Horstmeyer, Joseph A. Izatt, Sina Farsiu   
-arXiv:2012.06044 (2020)  
+arXiv:2012.06044 (2020) *to appear in CVPR 2021*  
 [[link](https://arxiv.org/abs/2012.06044)] [[code](https://github.com/kevinczhou/mesoscopic-photogrammetry)] [[data](https://figshare.com/articles/dataset/Mesoscopic_photogrammetry_with_an_unstabilized_phone_camera_-_datasets/13363574)]
 
 **Unified k-space theory of optical coherence tomography**  
@@ -109,6 +109,18 @@ Erin M. Sanders, Michael A. Nguyen, <ins>Kevin C. Zhou</ins>, Mary E. Hanks, Kaw
 
 
 # Conferences and invited seminars
+**Computational 3D imaging, from optical coherence tomography and microscopes to your smartphone** (*Invited seminar*)  
+<ins>Kevin C. Zhou</ins>  
+Fitzpatrick Institute for Photonics (FIP), 2021.
+
+**Snapshot3D imaging with a gigapixel-scale multi-aperture microscope** (*Talk*)  
+<ins>Kevin C. Zhou</ins>, Colin Cooke, Jaehee Park, Pavan Chandra Konda, Mark Harfouche, Roarke Horstmeyer  
+SPIE Photonics West 2021 (online conference).  
+
+**Curved micro-camera-array microscopy**  
+Vinayak Pathak, Pavan Chandra Konda, <ins>Kevin C. Zhou</ins>, Colin Cooke, Leila Ghanbari, Suhasa Kodandaramaiah, Roarke Horstmeyer  
+SPIE Photonics West 2021 (online conference).
+
 **Resolution enhancement and speckle reduction in coherence imaging: a k-space model of optical coherence refraction tomography (OCRT)**  (*Invited talk*) (*OSA Biophotonics Student Award*)  
 <ins>Kevin C. Zhou</ins>, Ruobing Qian, Sina Farsiu, Joseph A. Izatt  
 OSA Biophotonics Congress 2020.  
