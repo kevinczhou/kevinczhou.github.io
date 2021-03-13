@@ -117,10 +117,6 @@ Fitzpatrick Institute for Photonics (FIP), 2021.
 <ins>Kevin C. Zhou</ins>, Colin Cooke, Jaehee Park, Pavan Chandra Konda, Mark Harfouche, Roarke Horstmeyer  
 SPIE Photonics West 2021 (online conference).  
 
-**Curved micro-camera-array microscopy**  
-Vinayak Pathak, Pavan Chandra Konda, <ins>Kevin C. Zhou</ins>, Colin Cooke, Leila Ghanbari, Suhasa Kodandaramaiah, Roarke Horstmeyer  
-SPIE Photonics West 2021 (online conference).
-
 **Resolution enhancement and speckle reduction in coherence imaging: a k-space model of optical coherence refraction tomography (OCRT)**  (*Invited talk*) (*OSA Biophotonics Student Award*)  
 <ins>Kevin C. Zhou</ins>, Ruobing Qian, Sina Farsiu, Joseph A. Izatt  
 OSA Biophotonics Congress 2020.  
