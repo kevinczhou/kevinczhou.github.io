@@ -116,6 +116,7 @@ Fitzpatrick Institute for Photonics (FIP), 2021.
 **Snapshot3D imaging with a gigapixel-scale multi-aperture microscope** (*Talk*)  
 <ins>Kevin C. Zhou</ins>, Colin Cooke, Jaehee Park, Pavan Chandra Konda, Mark Harfouche, Roarke Horstmeyer  
 SPIE Photonics West 2021 (online conference).  
+[[link](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11649/116490C/Snapshot-3D-imaging-with-a-gigapixel-scale-multi-aperture-microscope/10.1117/12.2576903.full?SSO=1)]
 
 **Resolution enhancement and speckle reduction in coherence imaging: a k-space model of optical coherence refraction tomography (OCRT)**  (*Invited talk*) (*OSA Biophotonics Student Award*)  
 <ins>Kevin C. Zhou</ins>, Ruobing Qian, Sina Farsiu, Joseph A. Izatt  
