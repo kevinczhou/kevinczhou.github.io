@@ -32,7 +32,7 @@ Brenton Keller, Mark Draelos, <ins>Kevin C. Zhou</ins>, Ruobing Qian, Anthony N.
 **Diffraction tomography with a deep image prior**  
 <ins>Kevin C. Zhou</ins>, Roarke Horstmeyer  
 *Optics Express* 28, 12872-12896 (2020)  
-[[link](https://www.osapublishing.org/oe/abstract.cfm?uri=oe-28-9-12872)] [[code](https://github.com/kevinczhou/deep-prior-diffraction-tomography)] [[data](https://figshare.com/articles/Diffraction_tomography_with_a_deep_image_prior_-_raw_data/12081708)]
+[[link](https://www.osapublishing.org/oe/abstract.cfm?uri=oe-28-9-12872)] [[code](https://github.com/kevinczhou/deep-prior-diffraction-tomography)] [[data](https://figshare.com/articles/Diffraction_tomography_with_a_deep_image_prior_-_raw_data/12081708)] [[project page](https://deepimaging.io/projects/deep-prior-diffraction-tomography/)]
 
 **Physics-enhanced machine learning for virtual fluorescence microscopy**  
 Colin L. Cooke, Fanjie Kong, Amey Chaware, <ins>Kevin C. Zhou</ins>, Kanghyun Kim, Rong Xu, D. Michael Ando, Samuel J. Yang, Pavan Chandra Konda, Roarke Horstmeyer  
