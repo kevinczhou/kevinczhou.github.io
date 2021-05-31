@@ -12,8 +12,7 @@ Ruobing Qian, Ryan P. McNabb, <ins>Kevin C. Zhou</ins>, Hazem M. Mousa, Daniel R
 **Mesoscopic photogrammetry with an unstabilized phone camera**  
 <ins>Kevin C. Zhou</ins>, Colin Cooke, Jaehee Park, Ruobing Qian, Roarke Horstmeyer, Joseph A. Izatt, Sina Farsiu   
 arXiv:2012.06044 (2020) *to appear in CVPR 2021*  
-[[link](https://arxiv.org/abs/2012.06044)] [[code](https://github.com/kevinczhou/mesoscopic-photogrammetry)] [[data](https://figshare.com/articles/dataset/Mesoscopic_photogrammetry_with_an_unstabilized_phone_camera_-_datasets/13363574)]
-[<a href="files/paper1.pdf" target="_blank">poster</a>]
+[[link](https://arxiv.org/abs/2012.06044)] [[code](https://github.com/kevinczhou/mesoscopic-photogrammetry)] [[data](https://figshare.com/articles/dataset/Mesoscopic_photogrammetry_with_an_unstabilized_phone_camera_-_datasets/13363574)] [[poster](https://kevinczhou.github.io/files/paper1.pdf)]
 
 **Unified k-space theory of optical coherence tomography**  
 <ins>Kevin C. Zhou</ins>, Ruobing Qian, Al-Hafeez Dhalla, Sina Farsiu, Joseph A. Izatt   
