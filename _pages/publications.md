@@ -4,15 +4,15 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+**Mesoscopic photogrammetry with an unstabilized phone camera**  
+<ins>Kevin C. Zhou</ins>, Colin Cooke, Jaehee Park, Ruobing Qian, Roarke Horstmeyer, Joseph A. Izatt, Sina Farsiu   
+*CVPR* (2021)  
+[[link](https://openaccess.thecvf.com/content/CVPR2021/html/Zhou_Mesoscopic_Photogrammetry_With_an_Unstabilized_Phone_Camera_CVPR_2021_paper.html)] [[arXiv link](https://arxiv.org/abs/2012.06044)] [[code](https://github.com/kevinczhou/mesoscopic-photogrammetry)] [[data](https://figshare.com/articles/dataset/Mesoscopic_photogrammetry_with_an_unstabilized_phone_camera_-_datasets/13363574)] [[poster](https://kevinczhou.github.io/files/cvpr21_final.pdf)]
+
 **In vivo quantitative analysis of anterior chamber white blood cell mixture composition using spectroscopic optical coherence tomography**  
 Ruobing Qian, Ryan P. McNabb, <ins>Kevin C. Zhou</ins>, Hazem M. Mousa, Daniel R. Saban, Victor L. Perez, Anthony N. Kuo, Joseph A. Izatt  
 *Biomedical Optics Express* 12, 2134-2148 (2021)  
 [[link](https://doi.org/10.1364/BOE.419063)]
-
-**Mesoscopic photogrammetry with an unstabilized phone camera**  
-<ins>Kevin C. Zhou</ins>, Colin Cooke, Jaehee Park, Ruobing Qian, Roarke Horstmeyer, Joseph A. Izatt, Sina Farsiu   
-arXiv:2012.06044 (2020) *to appear in CVPR 2021*  
-[[link](https://arxiv.org/abs/2012.06044)] [[code](https://github.com/kevinczhou/mesoscopic-photogrammetry)] [[data](https://figshare.com/articles/dataset/Mesoscopic_photogrammetry_with_an_unstabilized_phone_camera_-_datasets/13363574)] [[poster](https://kevinczhou.github.io/files/cvpr21_final.pdf)]
 
 **Unified k-space theory of optical coherence tomography**  
 <ins>Kevin C. Zhou</ins>, Ruobing Qian, Al-Hafeez Dhalla, Sina Farsiu, Joseph A. Izatt   
@@ -32,7 +32,7 @@ Brenton Keller, Mark Draelos, <ins>Kevin C. Zhou</ins>, Ruobing Qian, Anthony N.
 **Diffraction tomography with a deep image prior**  
 <ins>Kevin C. Zhou</ins>, Roarke Horstmeyer  
 *Optics Express* 28, 12872-12896 (2020)  
-[[link](https://www.osapublishing.org/oe/abstract.cfm?uri=oe-28-9-12872)] [[code](https://github.com/kevinczhou/deep-prior-diffraction-tomography)] [[data](https://figshare.com/articles/Diffraction_tomography_with_a_deep_image_prior_-_raw_data/12081708)] [[project page](https://deepimaging.io/projects/deep-prior-diffraction-tomography/)]
+[[link](https://www.osapublishing.org/oe/abstract.cfm?uri=oe-28-9-12872)] [[arXiv link](https://arxiv.org/abs/1912.05330)] [[code](https://github.com/kevinczhou/deep-prior-diffraction-tomography)] [[data](https://figshare.com/articles/Diffraction_tomography_with_a_deep_image_prior_-_raw_data/12081708)] [[project page](https://deepimaging.io/projects/deep-prior-diffraction-tomography/)]
 
 **Physics-enhanced machine learning for virtual fluorescence microscopy**  
 Colin L. Cooke, Fanjie Kong, Amey Chaware, <ins>Kevin C. Zhou</ins>, Kanghyun Kim, Rong Xu, D. Michael Ando, Samuel J. Yang, Pavan Chandra Konda, Roarke Horstmeyer  
