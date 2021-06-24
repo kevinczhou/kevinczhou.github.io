@@ -4,6 +4,11 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+**Unified k-space theory of optical coherence tomography**  
+<ins>Kevin C. Zhou</ins>, Ruobing Qian, Al-Hafeez Dhalla, Sina Farsiu, Joseph A. Izatt   
+**Advances in Optics and Photonics** 13, 462-514 (2021)  
+[[link](https://www.osapublishing.org/aop/fulltext.cfm?uri=aop-13-2-462&id=452759)] [[arXiv link](https://arxiv.org/abs/2012.04875)] [[code](https://osapublishing.figshare.com/articles/software/MATLAB_code_for_generating_figures_in_Unified_k-space_theory_of_OCT_/14615778)]
+
 **Mesoscopic photogrammetry with an unstabilized phone camera**  
 <ins>Kevin C. Zhou</ins>, Colin Cooke, Jaehee Park, Ruobing Qian, Roarke Horstmeyer, Joseph A. Izatt, Sina Farsiu   
 *CVPR* (2021)  
@@ -13,11 +18,6 @@ author_profile: true
 Ruobing Qian, Ryan P. McNabb, <ins>Kevin C. Zhou</ins>, Hazem M. Mousa, Daniel R. Saban, Victor L. Perez, Anthony N. Kuo, Joseph A. Izatt  
 *Biomedical Optics Express* 12, 2134-2148 (2021)  
 [[link](https://doi.org/10.1364/BOE.419063)]
-
-**Unified k-space theory of optical coherence tomography**  
-<ins>Kevin C. Zhou</ins>, Ruobing Qian, Al-Hafeez Dhalla, Sina Farsiu, Joseph A. Izatt   
-arXiv:2012.04875 (2020)  
-[[link](https://arxiv.org/abs/2012.04875)]
 
 **Video-rate high-precision time-frequency multiplexed 3D coherent ranging**  
 Ruobing Qian, <ins>Kevin C. Zhou</ins>, Jingkai Zhang, Christian Viehland, Al-Hafeez Dhalla, Joseph A. Izatt  
