@@ -6,7 +6,7 @@ author_profile: true
 ---
 **Unified k-space theory of optical coherence tomography**  
 <ins>Kevin C. Zhou</ins>, Ruobing Qian, Al-Hafeez Dhalla, Sina Farsiu, Joseph A. Izatt   
-**Advances in Optics and Photonics** 13, 462-514 (2021)  
+*Advances in Optics and Photonics* 13, 462-514 (2021)  
 [[link](https://www.osapublishing.org/aop/fulltext.cfm?uri=aop-13-2-462&id=452759)] [[arXiv link](https://arxiv.org/abs/2012.04875)] [[code](https://osapublishing.figshare.com/articles/software/MATLAB_code_for_generating_figures_in_Unified_k-space_theory_of_OCT_/14615778)]
 
 **Mesoscopic photogrammetry with an unstabilized phone camera**  
