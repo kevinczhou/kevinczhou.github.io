@@ -4,6 +4,11 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+**High-speed multi-view imaging approaching 4pi steradians using conic section mirrors**  
+<ins>Kevin C. Zhou</ins>, Al-Hafeez Dhalla, Ryan P. McNabb, Ruobing Qian, Sina Farsiu, Joseph A. Izatt  
+arXiv:2106.15826 (2021)  
+[[link](https://arxiv.org/abs/2106.15826)]
+
 **Unified k-space theory of optical coherence tomography**  
 <ins>Kevin C. Zhou</ins>, Ruobing Qian, Al-Hafeez Dhalla, Sina Farsiu, Joseph A. Izatt   
 *Advances in Optics and Photonics* 13, 462-514 (2021)  
