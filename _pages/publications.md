@@ -4,6 +4,11 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+**Imaging dynamics beneath turbid media via parallelized single-photon detection**  
+Shiqi Xu, Xi Yang, Wenhui Liu, Joakim Jonsson, Ruobing Qian, Pavan Chandra Konda, <ins>Kevin C. Zhou</ins>, Qionghai Dai, Haoqian Wang, Edouard Berrocal, Roarke Horstmeyer  
+arXiv:2107.01422 (2021)  
+[[link](https://arxiv.org/abs/2107.01422)]
+
 **High-speed multi-view imaging approaching 4pi steradians using conic section mirrors**  
 <ins>Kevin C. Zhou</ins>, Al-Hafeez Dhalla, Ryan P. McNabb, Ruobing Qian, Sina Farsiu, Joseph A. Izatt  
 arXiv:2106.15826 (2021)  
