@@ -5,6 +5,7 @@ permalink: /awards/
 author_profile: true
 ---
 
+- OSA Imaging and Applied Optics Congress Student Paper Award (2021)
 - OSA Biophotonics Congress: Biomedical Optics Student Paper Award (2020)  
 - [NSF Graduate Research Fellowship](https://www.nsfgrfp.org/) (2016-2019)  
 - [James B. Duke Fellowship](https://gradschool.duke.edu/financial-support/find-funding/james-b-duke-fellowship) (2015-2019)  
