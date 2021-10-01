@@ -44,7 +44,7 @@ Brenton Keller, Mark Draelos, <ins>Kevin C. Zhou</ins>, Ruobing Qian, Anthony N.
 *Optics Express* 28, 12872-12896 (2020)  
 [[link](https://www.osapublishing.org/oe/abstract.cfm?uri=oe-28-9-12872)] [[arXiv link](https://arxiv.org/abs/1912.05330)] [[code](https://github.com/kevinczhou/deep-prior-diffraction-tomography)] [[data](https://figshare.com/articles/Diffraction_tomography_with_a_deep_image_prior_-_raw_data/12081708)] [[project page](https://deepimaging.io/projects/deep-prior-diffraction-tomography/)]
 
-**Physics-enhanced machine learning for virtual fluorescence microscopy**  
+**Physics-enhanced machine learning for virtual fluorescence microscopy**  (to appear in ICCV 2021)  
 Colin L. Cooke, Fanjie Kong, Amey Chaware, <ins>Kevin C. Zhou</ins>, Kanghyun Kim, Rong Xu, D. Michael Ando, Samuel J. Yang, Pavan Chandra Konda, Roarke Horstmeyer  
 arXiv:2004.04306 (2020)  
 [[link](https://arxiv.org/abs/2004.04306)] [[code](https://github.com/clvcooke/virtual-fluorescence)]
@@ -136,7 +136,7 @@ OSA Imaging and Applied Optics Congress (2021)
 <ins>Kevin C. Zhou</ins>  
 Fitzpatrick Institute for Photonics (FIP), 2021.
 
-**Snapshot3D imaging with a gigapixel-scale multi-aperture microscope** (*Talk*)  
+**Snapshot 3D imaging with a gigapixel-scale multi-aperture microscope** (*Talk*)  
 <ins>Kevin C. Zhou</ins>, Colin Cooke, Jaehee Park, Pavan Chandra Konda, Mark Harfouche, Roarke Horstmeyer  
 SPIE Photonics West 2021 (online conference).  
 [[link](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11649/116490C/Snapshot-3D-imaging-with-a-gigapixel-scale-multi-aperture-microscope/10.1117/12.2576903.full?SSO=1)]
