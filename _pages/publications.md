@@ -122,6 +122,7 @@ Erin M. Sanders, Michael A. Nguyen, <ins>Kevin C. Zhou</ins>, Mary E. Hanks, Kaw
 **Imaging anisotropy with vectorial Fourier ptychography**  
 Shiqi Xu, Xiang Dai, Xi Yang, <ins>Kevin C. Zhou</ins>, Pavan Konda, and Roarke Horstmeyer  
 Computational Optics 2021, SPIE (2021)  
+[[link](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11875/118750F/Imaging-anisotropy-with-vectorial-Fourier-ptychography/10.1117/12.2598999.short?SSO=1)]
 
 **Incoherent 3D k-space synthesis with volumetric optical coherence refraction tomography** (*Best student paper award*)  
 <ins>Kevin C. Zhou</ins>, Ruobing Qian, Al-Hafeez Dhalla, Sina Farsiu, and Joseph A. Izatt  
