@@ -4,6 +4,11 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+**Physics-enhanced machine learning for virtual fluorescence microscopy**  
+Colin L. Cooke, Fanjie Kong, Amey Chaware, <ins>Kevin C. Zhou</ins>, Kanghyun Kim, Rong Xu, D. Michael Ando, Samuel J. Yang, Pavan Chandra Konda, Roarke Horstmeyer  
+*ICCV* (2021)  
+[[link](https://arxiv.org/abs/2004.04306)] [[code](https://github.com/clvcooke/virtual-fluorescence)]
+
 **Imaging dynamics beneath turbid media via parallelized single-photon detection**  
 Shiqi Xu, Xi Yang, Wenhui Liu, Joakim Jonsson, Ruobing Qian, Pavan Chandra Konda, <ins>Kevin C. Zhou</ins>, Qionghai Dai, Haoqian Wang, Edouard Berrocal, Roarke Horstmeyer  
 arXiv:2107.01422 (2021)  
@@ -43,11 +48,6 @@ Brenton Keller, Mark Draelos, <ins>Kevin C. Zhou</ins>, Ruobing Qian, Anthony N.
 <ins>Kevin C. Zhou</ins>, Roarke Horstmeyer  
 *Optics Express* 28, 12872-12896 (2020)  
 [[link](https://www.osapublishing.org/oe/abstract.cfm?uri=oe-28-9-12872)] [[arXiv link](https://arxiv.org/abs/1912.05330)] [[code](https://github.com/kevinczhou/deep-prior-diffraction-tomography)] [[data](https://figshare.com/articles/Diffraction_tomography_with_a_deep_image_prior_-_raw_data/12081708)] [[project page](https://deepimaging.io/projects/deep-prior-diffraction-tomography/)]
-
-**Physics-enhanced machine learning for virtual fluorescence microscopy**  (to appear in ICCV 2021)  
-Colin L. Cooke, Fanjie Kong, Amey Chaware, <ins>Kevin C. Zhou</ins>, Kanghyun Kim, Rong Xu, D. Michael Ando, Samuel J. Yang, Pavan Chandra Konda, Roarke Horstmeyer  
-arXiv:2004.04306 (2020)  
-[[link](https://arxiv.org/abs/2004.04306)] [[code](https://github.com/clvcooke/virtual-fluorescence)]
 
 **Spectroscopic optical coherence refraction tomography**  
 <ins>Kevin C. Zhou</ins>, Ruobing Qian, Sina Farsiu, Joseph A. Izatt  
