@@ -7,7 +7,7 @@ author_profile: true
 **Physics-enhanced machine learning for virtual fluorescence microscopy**  
 Colin L. Cooke, Fanjie Kong, Amey Chaware, <ins>Kevin C. Zhou</ins>, Kanghyun Kim, Rong Xu, D. Michael Ando, Samuel J. Yang, Pavan Chandra Konda, Roarke Horstmeyer  
 *ICCV* (2021)  
-[[link](https://arxiv.org/abs/2004.04306)] [[code](https://github.com/clvcooke/virtual-fluorescence)]
+[[link](https://openaccess.thecvf.com/content/ICCV2021/html/Cooke_Physics-Enhanced_Machine_Learning_for_Virtual_Fluorescence_Microscopy_ICCV_2021_paper.html)] [[arXiv link](https://arxiv.org/abs/2004.04306)] [[code](https://github.com/clvcooke/virtual-fluorescence)]
 
 **Imaging dynamics beneath turbid media via parallelized single-photon detection**  
 Shiqi Xu, Xi Yang, Wenhui Liu, Joakim Jonsson, Ruobing Qian, Pavan Chandra Konda, <ins>Kevin C. Zhou</ins>, Qionghai Dai, Haoqian Wang, Edouard Berrocal, Roarke Horstmeyer  
