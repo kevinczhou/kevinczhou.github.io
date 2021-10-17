@@ -4,6 +4,11 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+**Increasing a microscope's effective field of view via overlapped imaging and machine learning**  
+Xing Yao, Vinayak Pathak, Haoran Xi, Amey Chaware, Colin Cooke, Kanghyun Kim, Shiqi Xu, Yuting Li, Timothy Dunn, Pavan Chandra Konda, <ins>Kevin C. Zhou</ins>, Roarke Horstmeyer  
+*arXiv:2110.04921* (2021)  
+[[link](https://arxiv.org/abs/2110.04921)]  
+
 **Quantitative Jones matrix imaging using vectorial Fourier ptychography**  
 Xiang Dai, Shiqi Xu, Xi Yang, <ins>Kevin C. Zhou</ins>, Carolyn Glass, Pavan Chandra Konda, Roarke Horstmeyer  
 *arXiv:2110.00076* (2021)  
