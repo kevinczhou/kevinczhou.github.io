@@ -136,7 +136,8 @@ Computational Optics 2021, SPIE (2021)
 
 **Incoherent 3D k-space synthesis with volumetric optical coherence refraction tomography** (*Best student paper award*)  
 <ins>Kevin C. Zhou</ins>, Ruobing Qian, Al-Hafeez Dhalla, Sina Farsiu, and Joseph A. Izatt  
-OSA Imaging and Applied Optics Congress (2021)
+OSA Imaging and Applied Optics Congress (2021)  
+[[link](https://www.osapublishing.org/abstract.cfm?uri=COSI-2021-CW4H.1)]  
 
 **Increasing a microscope’s effective field of view via overlapped imaging and machine learning**  
 Xing Yao, Haoran Xi, <ins>Kevin C. Zhou</ins>, Amey Chaware, Colin Cooke, Yuting Li, Timothy Dunn, Pavan Konda, and Roarke Horstmeyer  
