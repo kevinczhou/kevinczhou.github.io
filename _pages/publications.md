@@ -4,7 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-**High-speed multi-view imaging approaching 4pi steradians using conic section mirrors: theoretical and practical considerations**  
+**High-speed multi-view imaging approaching 4pi steradians using conic section mirrors: theoretical and practical considerations** (*Editor's Pick*)  
 <ins>Kevin C. Zhou</ins>, Al-Hafeez Dhalla, Ryan P. McNabb, Ruobing Qian, Sina Farsiu, Joseph A. Izatt  
 *JOSA A* 38, 1810-1822 (2021)  
 [[Link](https://www.osapublishing.org/josaa/abstract.cfm?uri=josaa-38-12-1810)] [[arXiv link](https://arxiv.org/abs/2106.15826)]
