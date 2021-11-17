@@ -7,7 +7,12 @@ author_profile: true
 **High-speed multi-view imaging approaching 4pi steradians using conic section mirrors: theoretical and practical considerations** (*Editor's Pick*)  
 <ins>Kevin C. Zhou</ins>, Al-Hafeez Dhalla, Ryan P. McNabb, Ruobing Qian, Sina Farsiu, Joseph A. Izatt  
 *JOSA A* 38, 1810-1822 (2021)  
-[[link](https://www.osapublishing.org/josaa/abstract.cfm?uri=josaa-38-12-1810)] [[arXiv link](https://arxiv.org/abs/2106.15826)]
+[[link](https://www.osapublishing.org/josaa/abstract.cfm?uri=josaa-38-12-1810)] [[arXiv link](https://arxiv.org/abs/2106.15826)] [[code](https://osapublishing.figshare.com/articles/software/archived_zemax_files_zip/16305270/1)]
+
+**Optical coherence refraction tomography** (non-peer-reviewed publication)  
+<ins>Kevin C. Zhou</ins>, Sina Farsiu, Joseph A. Izatt  
+*Optics and Photonics News* 32, 30-37 (2021)  
+[[link](https://www.optica-opn.org/home/articles/volume_32/november_2021/features/optical_coherence_refraction_tomography/)]  [[nature photonics link](https://www.nature.com/articles/s41566-019-0508-1)]
 
 **Increasing a microscope's effective field of view via overlapped imaging and machine learning**  
 Xing Yao, Vinayak Pathak, Haoran Xi, Amey Chaware, Colin Cooke, Kanghyun Kim, Shiqi Xu, Yuting Li, Timothy Dunn, Pavan Chandra Konda, <ins>Kevin C. Zhou</ins>, Roarke Horstmeyer  
