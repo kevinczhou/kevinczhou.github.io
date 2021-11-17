@@ -7,7 +7,7 @@ author_profile: true
 **High-speed multi-view imaging approaching 4pi steradians using conic section mirrors: theoretical and practical considerations** (*Editor's Pick*)  
 <ins>Kevin C. Zhou</ins>, Al-Hafeez Dhalla, Ryan P. McNabb, Ruobing Qian, Sina Farsiu, Joseph A. Izatt  
 *JOSA A* 38, 1810-1822 (2021)  
-[[Link](https://www.osapublishing.org/josaa/abstract.cfm?uri=josaa-38-12-1810)] [[arXiv link](https://arxiv.org/abs/2106.15826)]
+[[link](https://www.osapublishing.org/josaa/abstract.cfm?uri=josaa-38-12-1810)] [[arXiv link](https://arxiv.org/abs/2106.15826)]
 
 **Increasing a microscope's effective field of view via overlapped imaging and machine learning**  
 Xing Yao, Vinayak Pathak, Haoran Xi, Amey Chaware, Colin Cooke, Kanghyun Kim, Shiqi Xu, Yuting Li, Timothy Dunn, Pavan Chandra Konda, <ins>Kevin C. Zhou</ins>, Roarke Horstmeyer  
@@ -70,7 +70,7 @@ Pavan Chandra Konda\*, Lars Loetgering\*, <ins>Kevin C. Zhou</ins>\*, Shiqi Xu, 
 *Optics Express* 28, 9603-9630 (2020)  
 [[link](https://www.osapublishing.org/oe/abstract.cfm?uri=oe-28-7-9603)]
 
-**Learned sensing: jointly optimized microscope hardware for accurate image classification**  
+**Learned sensing: jointly optimized microscope hardware for accurate image classification** (*Editor's Pick*)  
 Alex Muthumbi, Amey Chaware, Kanghyun Kim, <ins>Kevin C. Zhou</ins>, Pavan Chandra Konda, Richard Chen, Benjamin Judkewitz, Andreas Erdmann, Barbara Kappes, Roarke Horstmeyer  
 *Biomedical Optics Express* 10, 6351-6369 (2019)  
 [[link](https://www.osapublishing.org/boe/abstract.cfm?uri=boe-10-12-6351)]  [[code](https://figshare.com/s/1a568a659f3ae88eb660)] [[data](https://figshare.com/s/db537c5b89d3efa0f481)]
