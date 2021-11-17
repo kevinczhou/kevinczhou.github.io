@@ -4,6 +4,11 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+**High-speed multi-view imaging approaching 4pi steradians using conic section mirrors: theoretical and practical considerations**  
+<ins>Kevin C. Zhou</ins>, Al-Hafeez Dhalla, Ryan P. McNabb, Ruobing Qian, Sina Farsiu, Joseph A. Izatt  
+*JOSA A* 38, 1810-1822 (2021)  
+[[Link](https://www.osapublishing.org/josaa/abstract.cfm?uri=josaa-38-12-1810)] [[arXiv link](https://arxiv.org/abs/2106.15826)]
+
 **Increasing a microscope's effective field of view via overlapped imaging and machine learning**  
 Xing Yao, Vinayak Pathak, Haoran Xi, Amey Chaware, Colin Cooke, Kanghyun Kim, Shiqi Xu, Yuting Li, Timothy Dunn, Pavan Chandra Konda, <ins>Kevin C. Zhou</ins>, Roarke Horstmeyer  
 *arXiv:2110.04921* (2021)  
@@ -23,11 +28,6 @@ Colin L. Cooke, Fanjie Kong, Amey Chaware, <ins>Kevin C. Zhou</ins>, Kanghyun Ki
 Shiqi Xu, Xi Yang, Wenhui Liu, Joakim Jonsson, Ruobing Qian, Pavan Chandra Konda, <ins>Kevin C. Zhou</ins>, Qionghai Dai, Haoqian Wang, Edouard Berrocal, Roarke Horstmeyer  
 arXiv:2107.01422 (2021)  
 [[link](https://arxiv.org/abs/2107.01422)]
-
-**High-speed multi-view imaging approaching 4pi steradians using conic section mirrors**  
-<ins>Kevin C. Zhou</ins>, Al-Hafeez Dhalla, Ryan P. McNabb, Ruobing Qian, Sina Farsiu, Joseph A. Izatt  
-arXiv:2106.15826 (2021)  
-[[link](https://arxiv.org/abs/2106.15826)]
 
 **Unified k-space theory of optical coherence tomography**  
 <ins>Kevin C. Zhou</ins>, Ruobing Qian, Al-Hafeez Dhalla, Sina Farsiu, Joseph A. Izatt   
