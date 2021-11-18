@@ -181,7 +181,8 @@ Advanced Research Center for Nanolithography (ARCNL), Netherlands, 2019.
 
 **Improving diffraction tomography with intensity-only images** (*Invited talk*)  
 <ins>Kevin C. Zhou</ins>  
-Face2phase 2019, TU Delft Science Center, Delft, Netherlands. 
+Face2phase 2019, TU Delft Science Center, Delft, Netherlands.  
+[[link](https://www.face2phase.nl/wiki/458673/abstract-of-invited-speakers)]  
 
 **Spectroscopic optical coherence refraction tomography for isotropically resolved imaging with simultaneously high spatial and spectral resolution** (*Talk*)  
 <ins>Kevin C. Zhou</ins>, Ruobing Qian, Sina Farsiu, Joseph A. Izatt  
