@@ -219,4 +219,4 @@ SPIE Photonics West 2016, San Francisco, CA.
 Michael J. Levene, <ins>Kevin C. Zhou</ins>, Sam Vesuna, Richard Torres  
 OSA Novel Techniques in Microscopy 2013, Waikoloa Beach, Hawaii.  
 [[link](https://www.osapublishing.org/abstract.cfm?uri=NTM-2013-NT3B.2)]
-{: reversed="reversed"}
+
