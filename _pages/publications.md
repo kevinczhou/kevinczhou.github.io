@@ -14,11 +14,6 @@ Xing Yao, Vinayak Pathak, Haoran Xi, Amey Chaware, Colin Cooke, Kanghyun Kim, Sh
 *JOSA A* 38, 1810-1822 (2021)  
 [[link](https://www.osapublishing.org/josaa/abstract.cfm?uri=josaa-38-12-1810)] [[arXiv link](https://arxiv.org/abs/2106.15826)] [[code](https://osapublishing.figshare.com/articles/software/archived_zemax_files_zip/16305270/1)]
 
-1. **Optical coherence refraction tomography** (non-peer-reviewed publication)  
-<ins>Kevin C. Zhou</ins>, Sina Farsiu, Joseph A. Izatt  
-*Optics and Photonics News* 32, 30-37 (2021)  
-[[link](https://www.optica-opn.org/home/articles/volume_32/november_2021/features/optical_coherence_refraction_tomography/)]  [[nature photonics link](https://www.nature.com/articles/s41566-019-0508-1)]
-
 1. **Quantitative Jones matrix imaging using vectorial Fourier ptychography**  
 Xiang Dai, Shiqi Xu, Xi Yang, <ins>Kevin C. Zhou</ins>, Carolyn Glass, Pavan Chandra Konda, Roarke Horstmeyer  
 *arXiv:2110.00076* (2021)  
@@ -134,10 +129,18 @@ Erin M. Sanders, Michael A. Nguyen, <ins>Kevin C. Zhou</ins>, Mary E. Hanks, Kaw
 
 
 # Conferences and invited seminars
-1. **3D optical coherence refraction tomography using a parabolic mirror**  
+1. **3D optical coherence refraction tomography using a parabolic mirror** (*Talk*)  
 <ins>Kevin C. Zhou</ins>, Ryan P. McNabb, Ruobing Qian, Simone Degan, Al-Hafeez Dhalla, Sina Farsiu, and Joseph A. Izatt  
-SPIE Photonics West 2022  
+SPIE Photonics West (2022)  
 [[link](https://spie.org/photonics-west/presentation/3D-optical-coherence-refraction-tomography-using-a-parabolic-mirror/11948-42)]
+
+1. **Real-time FMCW 3D imaging for various room-scale applications**  
+Jingkai Zhang, Joseph A. Izatt, Ruobing Qian, Al-Hafeez Dhalla, <ins>Kevin C. Zhou</ins>, and Christian Viehland.  
+SPIE Photonics West (2022)  
+
+1. **Miniature micro camera arrays for imaging curved surfaces at small working distances**  
+Vinayak Pathak, Ridwan Fayaz Hossain, <ins>Kevin C. Zhou</ins>, Pavan C. Konda, Roarke Horstmeyer, and Suhasa B. Kodandaramaiah.  
+SPIE Photonics West (2022)  
 
 1. **Imaging anisotropy with vectorial Fourier ptychography**  
 Shiqi Xu, Xiang Dai, Xi Yang, <ins>Kevin C. Zhou</ins>, Pavan Konda, and Roarke Horstmeyer  
@@ -219,4 +222,11 @@ SPIE Photonics West 2016, San Francisco, CA.
 Michael J. Levene, <ins>Kevin C. Zhou</ins>, Sam Vesuna, Richard Torres  
 OSA Novel Techniques in Microscopy 2013, Waikoloa Beach, Hawaii.  
 [[link](https://www.osapublishing.org/abstract.cfm?uri=NTM-2013-NT3B.2)]
+
+
+# Non-peer-reviewed publications
+1. **Optical coherence refraction tomography**
+<ins>Kevin C. Zhou</ins>, Sina Farsiu, Joseph A. Izatt  
+*Optics and Photonics News* 32, 30-37 (2021)  
+[[link](https://www.optica-opn.org/home/articles/volume_32/november_2021/features/optical_coherence_refraction_tomography/)]  [[nature photonics link](https://www.nature.com/articles/s41566-019-0508-1)]
 
