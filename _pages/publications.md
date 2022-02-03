@@ -138,10 +138,6 @@ SPIE Photonics West (2022)
 Jingkai Zhang, Joseph A. Izatt, Ruobing Qian, Al-Hafeez Dhalla, <ins>Kevin C. Zhou</ins>, and Christian Viehland.  
 SPIE Photonics West (2022)  
 
-1. **Miniature micro camera arrays for imaging curved surfaces at small working distances**  
-Vinayak Pathak, Ridwan Fayaz Hossain, <ins>Kevin C. Zhou</ins>, Pavan C. Konda, Roarke Horstmeyer, and Suhasa B. Kodandaramaiah.  
-SPIE Photonics West (2022)  
-
 1. **Imaging anisotropy with vectorial Fourier ptychography**  
 Shiqi Xu, Xiang Dai, Xi Yang, <ins>Kevin C. Zhou</ins>, Pavan Konda, and Roarke Horstmeyer  
 Computational Optics 2021, SPIE (2021)  
@@ -223,6 +219,9 @@ Michael J. Levene, <ins>Kevin C. Zhou</ins>, Sam Vesuna, Richard Torres
 OSA Novel Techniques in Microscopy 2013, Waikoloa Beach, Hawaii.  
 [[link](https://www.osapublishing.org/abstract.cfm?uri=NTM-2013-NT3B.2)]
 
+<!--1. **Miniature micro camera arrays for imaging curved surfaces at small working distances**  
+Vinayak Pathak, Ridwan Fayaz Hossain, <ins>Kevin C. Zhou</ins>, Pavan C. Konda, Roarke Horstmeyer, and Suhasa B. Kodandaramaiah.  
+SPIE Photonics West (2022)  -->
 
 # Non-peer-reviewed publications
 1. **Optical coherence refraction tomography**
