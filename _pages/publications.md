@@ -4,6 +4,11 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+1. **Quantitative Jones matrix imaging using vectorial Fourier ptychography**  
+Xiang Dai, Shiqi Xu, Xi Yang, <ins>Kevin C. Zhou</ins>, Carolyn Glass, Pavan Chandra Konda, Roarke Horstmeyer  
+*Biomedical Optics Express* 13, 1457-1470 (2022)  
+[[link](https://opg.optica.org/boe/fulltext.cfm?uri=boe-13-3-1457&id=469435)] [[arXiv link](https://arxiv.org/abs/2110.00076)]  
+
 1. **Increasing a microscope's effective field of view via overlapped imaging and machine learning**  
 Xing Yao, Vinayak Pathak, Haoran Xi, Amey Chaware, Colin Cooke, Kanghyun Kim, Shiqi Xu, Yuting Li, Timothy Dunn, Pavan Chandra Konda, <ins>Kevin C. Zhou</ins>, Roarke Horstmeyer  
 *Optics Express* 30, 1745-1761 (2022)  
@@ -13,11 +18,6 @@ Xing Yao, Vinayak Pathak, Haoran Xi, Amey Chaware, Colin Cooke, Kanghyun Kim, Sh
 <ins>Kevin C. Zhou</ins>, Al-Hafeez Dhalla, Ryan P. McNabb, Ruobing Qian, Sina Farsiu, Joseph A. Izatt  
 *JOSA A* 38, 1810-1822 (2021)  
 [[link](https://www.osapublishing.org/josaa/abstract.cfm?uri=josaa-38-12-1810)] [[arXiv link](https://arxiv.org/abs/2106.15826)] [[code](https://osapublishing.figshare.com/articles/software/archived_zemax_files_zip/16305270/1)]
-
-1. **Quantitative Jones matrix imaging using vectorial Fourier ptychography**  
-Xiang Dai, Shiqi Xu, Xi Yang, <ins>Kevin C. Zhou</ins>, Carolyn Glass, Pavan Chandra Konda, Roarke Horstmeyer  
-*arXiv:2110.00076* (2021)  
-[[link](https://arxiv.org/abs/2110.00076)]
 
 1. **Physics-enhanced machine learning for virtual fluorescence microscopy**  
 Colin L. Cooke, Fanjie Kong, Amey Chaware, <ins>Kevin C. Zhou</ins>, Kanghyun Kim, Rong Xu, D. Michael Ando, Samuel J. Yang, Pavan Chandra Konda, Roarke Horstmeyer  
