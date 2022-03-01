@@ -9,7 +9,7 @@ author_profile: true
 arXiv:2202.11837 (2022)  
 [[link](https://arxiv.org/abs/2202.11837)]
 
-1. **Quantitative Jones matrix imaging using vectorial Fourier ptychography**  
+1. **Quantitative Jones matrix imaging using vectorial Fourier ptychography** (*Editor's Pick*)  
 Xiang Dai, Shiqi Xu, Xi Yang, <ins>Kevin C. Zhou</ins>, Carolyn Glass, Pavan Chandra Konda, Roarke Horstmeyer  
 *Biomedical Optics Express* 13, 1457-1470 (2022)  
 [[link](https://opg.optica.org/boe/fulltext.cfm?uri=boe-13-3-1457&id=469435)] [[arXiv link](https://arxiv.org/abs/2110.00076)]  
