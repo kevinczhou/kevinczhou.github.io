@@ -4,6 +4,11 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+1. **Video-rate high-precision time-frequency multiplexed 3D coherent ranging**  
+Ruobing Qian, <ins>Kevin C. Zhou</ins>, Jingkai Zhang, Christian Viehland, Al-Hafeez Dhalla, Joseph A. Izatt  
+*Nature Communications* 13, 1476 (2022)  
+[[Link](https://www.nature.com/articles/s41467-022-29177-9)] [[arXiv link](https://arxiv.org/abs/2008.05805)]
+
 1. **Computational 3D microscopy with optical coherence refraction tomography**  
 <ins>Kevin C. Zhou</ins>, Ryan P. McNabb, Ruobing Qian, Simone Degan, Al-Hafeez Dhalla, Sina Farsiu, Joseph A. Izatt  
 arXiv:2202.11837 (2022)  
@@ -48,11 +53,6 @@ arXiv:2107.01422 (2021)
 Ruobing Qian, Ryan P. McNabb, <ins>Kevin C. Zhou</ins>, Hazem M. Mousa, Daniel R. Saban, Victor L. Perez, Anthony N. Kuo, Joseph A. Izatt  
 *Biomedical Optics Express* 12, 2134-2148 (2021)  
 [[link](https://doi.org/10.1364/BOE.419063)]
-
-1. **Video-rate high-precision time-frequency multiplexed 3D coherent ranging**  
-Ruobing Qian, <ins>Kevin C. Zhou</ins>, Jingkai Zhang, Christian Viehland, Al-Hafeez Dhalla, Joseph A. Izatt  
-arXiv:2008.05805 (2020)  
-[[link](https://arxiv.org/abs/2008.05805)]
 
 1. **Optical coherence tomography-guided robotic ophthalmic microsurgery via reinforcement learning from demonstration**  
 Brenton Keller, Mark Draelos, <ins>Kevin C. Zhou</ins>, Ruobing Qian, Anthony N. Kuo, George Konidaris, Kris Hauser, Joseph A. Izatt  
