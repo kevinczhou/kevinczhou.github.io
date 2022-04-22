@@ -4,6 +4,11 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+1. **Transient motion classification through turbid volumes via parallelized single-photon detection and deep contrastive embedding**  
+Shiqi Xu, Wenhui Liu, Xi Yang, Joakim Jönsson, Ruobing Qian, Paul McKee, Kanghyun Kim, Pavan Chandra Konda, <ins>Kevin C. Zhou</ins>, Lucas Kreiß, Haoqian Wang, Edouard Berrocal, Scott Huettel, Roarke Horstmeyer  
+arXiv:2204.01733 (2022)  
+[[link](https://arxiv.org/abs/2204.01733)]  
+
 1. **Video-rate high-precision time-frequency multiplexed 3D coherent ranging**  
 Ruobing Qian, <ins>Kevin C. Zhou</ins>, Jingkai Zhang, Christian Viehland, Al-Hafeez Dhalla, Joseph A. Izatt  
 *Nature Communications* 13, 1476 (2022)  
