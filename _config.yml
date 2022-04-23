@@ -75,8 +75,9 @@ social:
 analytics:
   provider               :  "google-gtag" #"google-universal" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          : "UA-175913330-1"
+    #tracking_id          : "UA-175913330-1"
     measurement_id       : "G-MWXE5JW67T"
+    anonymize_ip         : false
 
 
 # Site Author
