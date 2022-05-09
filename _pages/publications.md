@@ -144,6 +144,11 @@ Erin M. Sanders, Michael A. Nguyen, <ins>Kevin C. Zhou</ins>, Mary E. Hanks, Kaw
 
 
 # Conferences and invited seminars
+1. **Parallelized microscopy for teravoxel whole-slide imaging**  
+Roarke Horstmeyer, Kanghyun Kim, Mark Harfouche, Gregor Horstmeyer, Paul Reamey, Shiqi Xu, Vinayak Pathak, <ins>Kevin C. Zhou</ins>, Amey Chaware, and
+Sara Jiang  
+Optica Biophotonics (2022)  
+
 1. **3D optical coherence refraction tomography using a parabolic mirror** (*Talk*)  
 <ins>Kevin C. Zhou</ins>, Ryan P. McNabb, Ruobing Qian, Simone Degan, Al-Hafeez Dhalla, Sina Farsiu, and Joseph A. Izatt  
 SPIE Photonics West (2022)  
