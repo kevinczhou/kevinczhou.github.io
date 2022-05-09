@@ -4,6 +4,11 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+1. **Tensorial tomographic differential phase-contrast microscopy**  
+Shiqi Xu, Xiang Dai, Xi Yang, <ins>Kevin C. Zhou</ins>, Kanghyun Kim, Vinayak Pathak, Carolyn Glass, and Roarke Horstmeyer  
+arXiv:2204.11397 (2022)  
+[[link](https://arxiv.org/abs/2204.11397)]  
+
 1. **Transient motion classification through turbid volumes via parallelized single-photon detection and deep contrastive embedding**  
 Shiqi Xu, Wenhui Liu, Xi Yang, Joakim Jönsson, Ruobing Qian, Paul McKee, Kanghyun Kim, Pavan Chandra Konda, <ins>Kevin C. Zhou</ins>, Lucas Kreiß, Haoqian Wang, Edouard Berrocal, Scott Huettel, Roarke Horstmeyer  
 arXiv:2204.01733 (2022)  
@@ -234,7 +239,7 @@ Vinayak Pathak, Ridwan Fayaz Hossain, <ins>Kevin C. Zhou</ins>, Pavan C. Konda, 
 SPIE Photonics West (2022)  -->
 
 # Non-peer-reviewed publications
-1. **Optical coherence refraction tomography**
+1. **Optical coherence refraction tomography**  
 <ins>Kevin C. Zhou</ins>, Sina Farsiu, Joseph A. Izatt  
 *Optics and Photonics News* 32, 30-37 (2021)  
 [[link](https://www.optica-opn.org/home/articles/volume_32/november_2021/features/optical_coherence_refraction_tomography/)]  [[nature photonics link](https://www.nature.com/articles/s41566-019-0508-1)]
