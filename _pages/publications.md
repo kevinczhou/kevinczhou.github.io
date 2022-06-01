@@ -244,6 +244,10 @@ Vinayak Pathak, Ridwan Fayaz Hossain, <ins>Kevin C. Zhou</ins>, Pavan C. Konda, 
 SPIE Photonics West (2022)  -->
 
 # Non-peer-reviewed publications
+1. **Introduction to Fourier Ptychography: Part I**  
+<ins>Kevin C. Zhou</ins>, Tomas Aidukas, Lars Loetgering, Felix Wechsler, Roarke Horstmeyer  
+*Microscopy Today* 30, 36-41 (2022)  
+
 1. **Optical coherence refraction tomography**  
 <ins>Kevin C. Zhou</ins>, Sina Farsiu, Joseph A. Izatt  
 *Optics and Photonics News* 32, 30-37 (2021)  
