@@ -4,6 +4,11 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+1. **Computational 3D microscopy with optical coherence refraction tomography**  
+<ins>Kevin C. Zhou</ins>, Ryan P. McNabb, Ruobing Qian, Simone Degan, Al-Hafeez Dhalla, Sina Farsiu, Joseph A. Izatt  
+*Optica* 9, 593-601 (2022)  
+[[link](https://doi.org/10.1364/OPTICA.454860)] [[arXiv link](https://arxiv.org/abs/2202.11837)] [[code](https://github.com/kevinczhou/3d-ocrt)] [[data](https://doi.org/10.7924/r46h4pk10)]
+
 1. **Tensorial tomographic differential phase-contrast microscopy**  
 Shiqi Xu, Xiang Dai, Xi Yang, <ins>Kevin C. Zhou</ins>, Kanghyun Kim, Vinayak Pathak, Carolyn Glass, and Roarke Horstmeyer  
 arXiv:2204.11397 (2022)  
@@ -18,11 +23,6 @@ arXiv:2204.01733 (2022)
 Ruobing Qian, <ins>Kevin C. Zhou</ins>, Jingkai Zhang, Christian Viehland, Al-Hafeez Dhalla, Joseph A. Izatt  
 *Nature Communications* 13, 1476 (2022)  
 [[Link](https://www.nature.com/articles/s41467-022-29177-9)] [[arXiv link](https://arxiv.org/abs/2008.05805)]
-
-1. **Computational 3D microscopy with optical coherence refraction tomography**  
-<ins>Kevin C. Zhou</ins>, Ryan P. McNabb, Ruobing Qian, Simone Degan, Al-Hafeez Dhalla, Sina Farsiu, Joseph A. Izatt  
-arXiv:2202.11837 (2022)  
-[[link](https://arxiv.org/abs/2202.11837)]
 
 1. **Quantitative Jones matrix imaging using vectorial Fourier ptychography** (*Editor's Pick*)  
 Xiang Dai, Shiqi Xu, Xi Yang, <ins>Kevin C. Zhou</ins>, Carolyn Glass, Pavan Chandra Konda, Roarke Horstmeyer  
