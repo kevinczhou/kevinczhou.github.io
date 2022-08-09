@@ -4,6 +4,16 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+1. **Real-time wide-field spectral-scanning FMCW coherent 3D imaging and velocimetry**  
+Jingkai Zhang, Ruobing Qian, <ins>Kevin C. Zhou</ins>, Christian Viehland, Mark Draelos, Al-Hafeez Dhalla, Joseph A. Izatt  
+*Optics Letters* 47, 4064-4067 (2022)  
+[[link](https://opg.optica.org/ol/abstract.cfm?uri=ol-47-16-4064)]  
+
+1. **Transient motion classification through turbid volumes via parallelized single-photon detection and deep contrastive embedding**  
+Shiqi Xu, Wenhui Liu, Xi Yang, Joakim Jönsson, Ruobing Qian, Paul McKee, Kanghyun Kim, Pavan Chandra Konda, <ins>Kevin C. Zhou</ins>, Lucas Kreiß, Haoqian Wang, Edouard Berrocal, Scott Huettel, Roarke Horstmeyer  
+*Frontiers in Neuroscience* 16 (2022)  
+[[link](https://www.frontiersin.org/articles/10.3389/fnins.2022.908770/full)] [[arXiv link](https://arxiv.org/abs/2204.01733)]  
+
 1. **Computational 3D microscopy with optical coherence refraction tomography**  
 <ins>Kevin C. Zhou</ins>, Ryan P. McNabb, Ruobing Qian, Simone Degan, Al-Hafeez Dhalla, Sina Farsiu, Joseph A. Izatt  
 *Optica* 9, 593-601 (2022)  
@@ -13,11 +23,6 @@ author_profile: true
 Shiqi Xu, Xiang Dai, Xi Yang, <ins>Kevin C. Zhou</ins>, Kanghyun Kim, Vinayak Pathak, Carolyn Glass, and Roarke Horstmeyer  
 arXiv:2204.11397 (2022)  
 [[link](https://arxiv.org/abs/2204.11397)]  
-
-1. **Transient motion classification through turbid volumes via parallelized single-photon detection and deep contrastive embedding**  
-Shiqi Xu, Wenhui Liu, Xi Yang, Joakim Jönsson, Ruobing Qian, Paul McKee, Kanghyun Kim, Pavan Chandra Konda, <ins>Kevin C. Zhou</ins>, Lucas Kreiß, Haoqian Wang, Edouard Berrocal, Scott Huettel, Roarke Horstmeyer  
-arXiv:2204.01733 (2022)  
-[[link](https://arxiv.org/abs/2204.01733)]  
 
 1. **Video-rate high-precision time-frequency multiplexed 3D coherent ranging**  
 Ruobing Qian, <ins>Kevin C. Zhou</ins>, Jingkai Zhang, Christian Viehland, Al-Hafeez Dhalla, Joseph A. Izatt  
