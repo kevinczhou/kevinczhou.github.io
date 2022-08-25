@@ -5,6 +5,11 @@ permalink: /publications/
 author_profile: true
 ---
 
+1. **Multi-modal imaging using a cascaded microscope design**  
+Xi Yang, Mark Harfouche, <ins>Kevin C. Zhou</ins>, Lucas Kreiss, Shiqi Xu, Kanghyun Kim, Roarke Horstmeyer  
+arXiv:2208.08875 (2022)  
+[[link](https://arxiv.org/abs/2208.08875)]  
+
 1. **Real-time wide-field spectral-scanning FMCW coherent 3D imaging and velocimetry**  
 Jingkai Zhang, Ruobing Qian, <ins>Kevin C. Zhou</ins>, Christian Viehland, Mark Draelos, Al-Hafeez Dhalla, Joseph A. Izatt  
 *Optics Letters* 47, 4064-4067 (2022)  
