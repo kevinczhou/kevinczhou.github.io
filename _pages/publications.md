@@ -258,6 +258,7 @@ SPIE Photonics West (2022)  -->
 1. **Introduction to Fourier Ptychography: Part I**  
 <ins>Kevin C. Zhou</ins>, Tomas Aidukas, Lars Loetgering, Felix Wechsler, Roarke Horstmeyer  
 *Microscopy Today* 30, 36-41 (2022)  
+[[link](https://www.cambridge.org/core/journals/microscopy-today/article/introduction-to-fourier-ptychography-part-i/6F0B209602FFCE751F5DAF84E1A8E036)]
 
 1. **Optical coherence refraction tomography**  
 <ins>Kevin C. Zhou</ins>, Sina Farsiu, Joseph A. Izatt  
