@@ -255,9 +255,14 @@ Vinayak Pathak, Ridwan Fayaz Hossain, <ins>Kevin C. Zhou</ins>, Pavan C. Konda, 
 SPIE Photonics West (2022)  -->
 
 # Non-peer-reviewed publications
+1. **Fourier Ptychography Part II: Phase Retrieval and High-Resolution Image Formation**  
+Lars Loetgering, Tomas Aidukas, <ins>Kevin C. Zhou</ins>, Felix Wechsler, Roarke Horstmeyer  
+*Microscopy Today* 30(5), 36-39 (2022)  
+[[link](https://www.cambridge.org/core/journals/microscopy-today/article/fourier-ptychography-part-ii-phase-retrieval-and-highresolution-image-formation/120C4CF20947DA5F041CAB24708538A9)]  
+
 1. **Introduction to Fourier Ptychography: Part I**  
 <ins>Kevin C. Zhou</ins>, Tomas Aidukas, Lars Loetgering, Felix Wechsler, Roarke Horstmeyer  
-*Microscopy Today* 30, 36-41 (2022)  
+*Microscopy Today* 30(3), 36-41 (2022)  
 [[link](https://www.cambridge.org/core/journals/microscopy-today/article/introduction-to-fourier-ptychography-part-i/6F0B209602FFCE751F5DAF84E1A8E036)]
 
 1. **Optical coherence refraction tomography**  
