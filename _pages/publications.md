@@ -260,6 +260,11 @@ Lars Loetgering, Tomas Aidukas, <ins>Kevin C. Zhou</ins>, Felix Wechsler, Roarke
 *Microscopy Today* 30(5), 36-39 (2022)  
 [[link](https://www.cambridge.org/core/journals/microscopy-today/article/fourier-ptychography-part-ii-phase-retrieval-and-highresolution-image-formation/120C4CF20947DA5F041CAB24708538A9)]  
 
+1. **Spotlight on optics: Simultaneous multiple time scale imaging for kHz–MHz high-speed accelerometry**  
+<ins>Kevin C. Zhou</ins>  
+Spotlight summary of Photon. Res. 10(7) 1712-1722 (2022)  
+[[link](https://opg.optica.org/spotlight/summary.cfm?id=477408)] [[link to summarized paper](https://opg.optica.org/prj/fulltext.cfm?uri=prj-10-7-1712&id=477408)]  
+
 1. **Introduction to Fourier Ptychography: Part I**  
 <ins>Kevin C. Zhou</ins>, Tomas Aidukas, Lars Loetgering, Felix Wechsler, Roarke Horstmeyer  
 *Microscopy Today* 30(3), 36-41 (2022)  
