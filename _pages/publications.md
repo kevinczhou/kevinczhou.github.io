@@ -155,6 +155,24 @@ Erin M. Sanders, Michael A. Nguyen, <ins>Kevin C. Zhou</ins>, Mary E. Hanks, Kaw
 
 
 # Conferences and invited seminars
+1. **Gigapixel-per-second, wide-field 3D topographic imaging with physics-supervised learning**  
+<ins>Kevin C. Zhou</ins>, Mark Harfouche, Colin Cooke, Jaehee Park, Pavan Konda, Jed Doman, Paul Reamey, Veton Saliu, Maxwell Zheng, Gregor Horstmeyer, Roarke Horstmeyer
+Imaging and Applied Optics Congress 2022  
+[[link](https://opg.optica.org/abstract.cfm?uri=COSI-2022-JW4C.4)]  
+
+1. **Parallelized 16-gigapixel microscopy for rapid imaging of multiple whole slides**  
+Kanghyun Kim, <ins>Kevin C. Zhou</ins>, Mark Harfouche, Roarke Horstmeyer  
+Imaging and Applied Optics Congress 2022  
+[[link](https://opg.optica.org/abstract.cfm?uri=ISA-2022-IW1C.3)]
+
+1. **Towards gigavoxel computational 3D imaging at the mesoscale** (*Invited joint seminar*)  
+<ins>Kevin C. Zhou</ins>, Roarke Horstmeyer  
+HHMI Janelia Research Campus (2022)  
+
+1. **High-throughput computational 3D imaging with a synchronized camera array**  
+<ins>Kevin C. Zhou</ins>, Mark Harfouche, Roarke Horstmeyer  
+Gordon Image Science Conference (2022)  
+
 1. **Parallelized microscopy for teravoxel whole-slide imaging**  
 Roarke Horstmeyer, Kanghyun Kim, Mark Harfouche, Gregor Horstmeyer, Paul Reamey, Shiqi Xu, Vinayak Pathak, <ins>Kevin C. Zhou</ins>, Amey Chaware, and
 Sara Jiang  
