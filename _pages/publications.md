@@ -155,6 +155,16 @@ Erin M. Sanders, Michael A. Nguyen, <ins>Kevin C. Zhou</ins>, Mary E. Hanks, Kaw
 
 
 # Conferences and invited seminars
+1. **Real-time, wide-FOV spectral-scanning FMCW 3D imaging and velocimetry**  
+Jingkai Zhang, Ruobing Qian, <ins>Kevin C. Zhou</ins>, Christian Viehland, Al-Hafeez Dhalla, and Joseph A. Izatt  
+Frontiers in Optics + Laser Science 2022
+
+1. **Using machine learning to accelerate image classification and quantification in highly parallelized gigapixel
+multi-camera array microscopes**  
+Mark Harfouche, John Efromson, Thomas Doman, Paul Reamey, Veton Saliu, Ron Appel, Jack Bechtel, <ins>Kevin C. Zhou</ins>, Kanghyun Kim, Eric Thomson, and
+Guiliano Ferrero  
+Frontiers in Optics + Laser Science 2022
+
 1. **Gigapixel-per-second, wide-field 3D topographic imaging with physics-supervised learning**  
 <ins>Kevin C. Zhou</ins>, Mark Harfouche, Colin Cooke, Jaehee Park, Pavan Konda, Jed Doman, Paul Reamey, Veton Saliu, Maxwell Zheng, Gregor Horstmeyer, Roarke Horstmeyer
 Imaging and Applied Optics Congress 2022  
@@ -273,6 +283,11 @@ Vinayak Pathak, Ridwan Fayaz Hossain, <ins>Kevin C. Zhou</ins>, Pavan C. Konda, 
 SPIE Photonics West (2022)  -->
 
 # Non-peer-reviewed publications
+1. **Applications and Extensions of Fourier Ptychography**  
+Tomas Aidukas, Felix Wechsler, Lars Loetgering, <ins>Kevin C. Zhou</ins>, Roarke Horstmeyer  
+*Microscopy Today* 30(6), 40-45 (2022)  
+[[link](https://www.cambridge.org/core/journals/microscopy-today/article/applications-and-extensions-of-fourier-ptychography/775BCAA7142953570F3CFC96D9BE9FA6)]  
+
 1. **Fourier Ptychography Part II: Phase Retrieval and High-Resolution Image Formation**  
 Lars Loetgering, Tomas Aidukas, <ins>Kevin C. Zhou</ins>, Felix Wechsler, Roarke Horstmeyer  
 *Microscopy Today* 30(5), 36-39 (2022)  
@@ -280,7 +295,7 @@ Lars Loetgering, Tomas Aidukas, <ins>Kevin C. Zhou</ins>, Felix Wechsler, Roarke
 
 1. **Spotlight on optics: Simultaneous multiple time scale imaging for kHz–MHz high-speed accelerometry**  
 <ins>Kevin C. Zhou</ins>  
-Spotlight summary of Photon. Res. 10(7) 1712-1722 (2022)  
+Spotlight summary of *Photon. Res.* 10(7) 1712-1722 (2022)  
 [[link](https://opg.optica.org/spotlight/summary.cfm?id=477408)] [[link to summarized paper](https://opg.optica.org/prj/fulltext.cfm?uri=prj-10-7-1712&id=477408)]  
 
 1. **Introduction to Fourier Ptychography: Part I**  
