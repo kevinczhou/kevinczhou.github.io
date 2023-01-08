@@ -23,12 +23,14 @@ OCRT is a new computational 3D microscopy technique that incorporates extreme an
 
 OCRT registers multi-angle OCT images or volumes by solving an inverse refraction problem, a process that also computationally reconstructs a 3D refractive index map of the sample. The following videos demonstrate the marked improvement of 3D OCRT over conventional OCT volumetric data (zebrafish larva and mouse esophagus, respectively):
 
+<center>
 <video width="500" controls>
   <source src="/images/OCRT_example1.mp4" type="video/mp4">
 </video>
 <video width="500" controls>
   <source src="/images/OCRT_example2.mp4" type="video/mp4">
 </video>
+</center>
 
 **Relevant publications**
 - [KC Zhou et al., Computational 3D microscopy with optical coherence refraction tomography, *Optica* 9, 593-601 (2022)](https://doi.org/10.1364/OPTICA.454860)
