@@ -19,7 +19,7 @@ Coming soon!
 ## Optical coherence refraction tomography (OCRT)
 OCRT is a new computational 3D microscopy technique that incorporates extreme angular diversity to incoherently enhance resolution and reduce speckle of conventional OCT.
 
-<img src="/images/OCRT_overview.jpg" alt="OCRT k-space synthesis" width="500"/>
+<center><img src="/images/OCRT_overview.jpg" alt="OCRT k-space synthesis" width="500"/></center>
 
 OCRT registers multi-angle OCT images or volumes by solving an inverse refraction problem, a process that also computationally reconstructs a 3D refractive index map of the sample. The following videos demonstrate the marked improvement of 3D OCRT over conventional OCT volumetric data (zebrafish larva and mouse esophagus, respectively):
 
