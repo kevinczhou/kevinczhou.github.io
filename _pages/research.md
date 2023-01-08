@@ -17,6 +17,6 @@ Coming soon!
 Coming soon!
 
 ## Optical coherence refraction tomography (OCRT)
-![OCRT k-space synthesis](/kevinczhou.github.io/images/OCRT_method.pdf)
+![OCRT k-space synthesis](/images/OCRT_overview.pdf)
 
 
