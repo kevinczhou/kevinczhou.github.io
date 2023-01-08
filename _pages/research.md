@@ -14,7 +14,7 @@ A major theme of my research is high-throughput computational 3D imaging techniq
 Coming soon!
 
 ## Multiview imaging over extremely wide angular ranges
-Coming soon!
+<center><img src="/images/parabolic_mirror.jpg" alt="multiangle imaging with parabolic mirror" width="800"/></center>
 
 ## Optical coherence refraction tomography (OCRT)
 OCRT is a new computational 3D microscopy technique that incorporates extreme angular diversity to incoherently enhance resolution and reduce speckle of conventional OCT.
