@@ -33,10 +33,10 @@ OCRT registers multi-angle OCT images or volumes by solving an inverse refractio
 </center>
 
 **Relevant publications**
-- [KC Zhou et al., Computational 3D microscopy with optical coherence refraction tomography, *Optica* 9, 593-601 (2022)](https://doi.org/10.1364/OPTICA.454860)
-- [KC Zhou et al., Unified k-space theory of optical coherence tomography, *Advances in Optics and Photonics* 13, 462-514 (2021)](https://www.osapublishing.org/aop/fulltext.cfm?uri=aop-13-2-462&id=452759)
-- [KC Zhou et al., Spectroscopic optical coherence refraction tomography, *Optics Letters* 45, 2091-2094 (2020)](https://www.osapublishing.org/ol/abstract.cfm?uri=ol-45-7-2091)
-- [KC Zhou et al., Optical coherence refraction tomography, *Nature Photonics* 13, 794–802 (2019)](https://www.nature.com/articles/s41566-019-0508-1)
+- KC Zhou et al., [Computational 3D microscopy with optical coherence refraction tomography](https://doi.org/10.1364/OPTICA.454860), *Optica* 9, 593-601 (2022)
+- KC Zhou et al., [Unified k-space theory of optical coherence tomography](https://www.osapublishing.org/aop/fulltext.cfm?uri=aop-13-2-462&id=452759), *Advances in Optics and Photonics* 13, 462-514 (2021)
+- KC Zhou et al., [Spectroscopic optical coherence refraction tomography](https://www.osapublishing.org/ol/abstract.cfm?uri=ol-45-7-2091), *Optics Letters* 45, 2091-2094 (2020)
+- KC Zhou et al., [Optical coherence refraction tomography](https://www.nature.com/articles/s41566-019-0508-1), *Nature Photonics* 13, 794–802 (2019)
 
 **Code**
 - [https://github.com/kevinczhou/3d-ocrt](https://github.com/kevinczhou/3d-ocrt)
