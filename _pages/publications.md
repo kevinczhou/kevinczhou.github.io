@@ -10,6 +10,11 @@ Xi Yang, Mark Harfouche, <ins>Kevin C. Zhou</ins>, Lucas Kreiss, Shiqi Xu, Kangh
 arXiv:2208.08875 (2022)  
 [[link](https://arxiv.org/abs/2208.08875)]  
 
+1. **Tensorial tomographic differential phase-contrast microscopy**  
+Shiqi Xu, Xiang Dai, Xi Yang, <ins>Kevin C. Zhou</ins>, Kanghyun Kim, Vinayak Pathak, Carolyn Glass, and Roarke Horstmeyer  
+*ICCP* (2022)  
+[[link](https://ieeexplore.ieee.org/document/9887674)] [[arXiv link](https://arxiv.org/abs/2204.11397)]  
+
 1. **Real-time wide-field spectral-scanning FMCW coherent 3D imaging and velocimetry**  
 Jingkai Zhang, Ruobing Qian, <ins>Kevin C. Zhou</ins>, Christian Viehland, Mark Draelos, Al-Hafeez Dhalla, Joseph A. Izatt  
 *Optics Letters* 47, 4064-4067 (2022)  
@@ -20,15 +25,15 @@ Shiqi Xu, Wenhui Liu, Xi Yang, Joakim Jönsson, Ruobing Qian, Paul McKee, Kanghy
 *Frontiers in Neuroscience* 16 (2022)  
 [[link](https://www.frontiersin.org/articles/10.3389/fnins.2022.908770/full)] [[arXiv link](https://arxiv.org/abs/2204.01733)]  
 
+1. **Imaging dynamics beneath turbid media via parallelized single-photon detection**  
+Shiqi Xu, Xi Yang, Wenhui Liu, Joakim Jonsson, Ruobing Qian, Pavan Chandra Konda, <ins>Kevin C. Zhou</ins>, Qionghai Dai, Haoqian Wang, Edouard Berrocal, Roarke Horstmeyer  
+*Advanced Science* 9(24) (2022)  
+[[link](https://onlinelibrary.wiley.com/doi/full/10.1002/advs.202201885)] [[arXiv link](https://arxiv.org/abs/2107.01422)]
+
 1. **Computational 3D microscopy with optical coherence refraction tomography**  
 <ins>Kevin C. Zhou</ins>, Ryan P. McNabb, Ruobing Qian, Simone Degan, Al-Hafeez Dhalla, Sina Farsiu, Joseph A. Izatt  
 *Optica* 9, 593-601 (2022)  
 [[link](https://doi.org/10.1364/OPTICA.454860)] [[arXiv link](https://arxiv.org/abs/2202.11837)] [[code](https://github.com/kevinczhou/3d-ocrt)] [[data](https://doi.org/10.7924/r46h4pk10)]
-
-1. **Tensorial tomographic differential phase-contrast microscopy**  
-Shiqi Xu, Xiang Dai, Xi Yang, <ins>Kevin C. Zhou</ins>, Kanghyun Kim, Vinayak Pathak, Carolyn Glass, and Roarke Horstmeyer  
-arXiv:2204.11397 (2022)  
-[[link](https://arxiv.org/abs/2204.11397)]  
 
 1. **Video-rate high-precision time-frequency multiplexed 3D coherent ranging**  
 Ruobing Qian, <ins>Kevin C. Zhou</ins>, Jingkai Zhang, Christian Viehland, Al-Hafeez Dhalla, Joseph A. Izatt  
@@ -54,11 +59,6 @@ Xing Yao, Vinayak Pathak, Haoran Xi, Amey Chaware, Colin Cooke, Kanghyun Kim, Sh
 Colin L. Cooke, Fanjie Kong, Amey Chaware, <ins>Kevin C. Zhou</ins>, Kanghyun Kim, Rong Xu, D. Michael Ando, Samuel J. Yang, Pavan Chandra Konda, Roarke Horstmeyer  
 *ICCV* (2021)  
 [[link](https://openaccess.thecvf.com/content/ICCV2021/html/Cooke_Physics-Enhanced_Machine_Learning_for_Virtual_Fluorescence_Microscopy_ICCV_2021_paper.html)] [[arXiv link](https://arxiv.org/abs/2004.04306)] [[code](https://github.com/clvcooke/virtual-fluorescence)]
-
-1. **Imaging dynamics beneath turbid media via parallelized single-photon detection**  
-Shiqi Xu, Xi Yang, Wenhui Liu, Joakim Jonsson, Ruobing Qian, Pavan Chandra Konda, <ins>Kevin C. Zhou</ins>, Qionghai Dai, Haoqian Wang, Edouard Berrocal, Roarke Horstmeyer  
-arXiv:2107.01422 (2021)  
-[[link](https://arxiv.org/abs/2107.01422)]
 
 1. **Unified k-space theory of optical coherence tomography**  
 <ins>Kevin C. Zhou</ins>, Ruobing Qian, Al-Hafeez Dhalla, Sina Farsiu, Joseph A. Izatt   
