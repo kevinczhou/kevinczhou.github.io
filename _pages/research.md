@@ -9,6 +9,7 @@ A major theme of my research is high-throughput computational 3D imaging techniq
 - [Computational 3D imaging with camera arrays](#computational-3d-imaging-with-camera-arrays)
 - [Optical coherence refraction tomography (OCRT)](#optical-coherence-refraction-tomography-ocrt)
 - [Multiview imaging over extremely wide angular ranges](#multiview-imaging-over-extremely-wide-angular-ranges)
+- [Diffraction tomography with a deep image prior](#diffraction-tomography-with-a-deep-image-prior)
 
 ## Computational 3D imaging with camera arrays
 <center><img src="/images/3d-rapid.jpg" alt="3D-RAPID" width="900"/></center>
@@ -52,3 +53,15 @@ The above figure shows multi-view OCT imaging of a fruit fly head from up to ±7
 - KC Zhou et al., [Computational 3D microscopy with optical coherence refraction tomography](https://doi.org/10.1364/OPTICA.454860), *Optica* 9, 593-601 (2022)
 - KC Zhou et al., [High-speed multi-view imaging approaching 4pi steradians using conic section mirrors: theoretical and practical considerations](https://www.osapublishing.org/josaa/abstract.cfm?uri=josaa-38-12-1810), *JOSA A* 38, 1810-1822 (2021)  
 
+## Diffraction tomography with a deep image prior
+Optical diffraction tomography is a coherent 3D imaging modality that reconstructs a 3D refractive index (RI) distribution based on multi-angle diffraction patterns. A well-known problem particularly when using low-NA objectives is the "missing cone" centered about the *k<sub>z</sub>* axis in the Fourier domain, which reduces the axial resolution. At the same time, however, low-NA objectives tend to have higher space-bandwidth products (SBPs), a property exploited in Fourier ptychography for 2D samples. 
+<center><img src="/images/teaser.png" alt="deep prior diffraction tomography" width="600"/></center>  
+To combat the missing cone problem, we reparameterized the 3D RI distribution as the output of an untrained CNN, and optimized its parameters instead of the 3D volume directly during the 3D reconstruction process. Interestingly, the inherent biases of the CNN structure, even without pretraining, are enough to fill in the missing cone!  
+
+
+
+**Relevant publications**  
+- KC Zhou & R Horstmeyer, [Diffraction tomography with a deep image prior](https://www.osapublishing.org/oe/abstract.cfm?uri=oe-28-9-12872), *Optics Express* 28, 12872-12896 (2020)  
+
+**Code**  
+- [https://github.com/kevinczhou/deep-prior-diffraction-tomography](https://github.com/kevinczhou/deep-prior-diffraction-tomography)
