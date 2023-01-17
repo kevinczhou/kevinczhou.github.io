@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-A major theme of my research is high-throughput computational 3D imaging techniques. Some projects include:
+A major theme of my research is developing both software and hardware for high-throughput computational 3D imaging techniques. My interests span the broadest, most inclusive interpretation of "3D", ranging from dense 3D tomography to sparse 3D topography, from the microscale to the mesoscale and macroscale. Some projects include:
 - [Computational 3D imaging with camera arrays](#computational-3d-imaging-with-camera-arrays)
 - [Optical coherence refraction tomography (OCRT)](#optical-coherence-refraction-tomography-ocrt)
 - [Multiview imaging over extremely wide angular ranges](#multiview-imaging-over-extremely-wide-angular-ranges)
