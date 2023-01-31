@@ -5,6 +5,11 @@ permalink: /publications/
 author_profile: true
 ---
 
+1. **Parallelized computational 3D video microscopy of freely moving organisms at multiple gigapixels per second**  
+<ins>Kevin C. Zhou</ins>, Mark Harfouche, Colin Cooke, Jaehee Park, ..., Michel Bagnat, Roarke Horstmeyer  
+arXiv:2301.08351 (2023)  
+[[link](https://arxiv.org/abs/2301.08351)] [[code](https://github.com/kevinczhou/3D-RAPID)] [[data](https://doi.org/10.7924/r4db86b1q)]  
+
 1. **Multi-scale gigapixel microscopy using a multi-camera array microscope**  
 Mark Harfouche, Kanghyun Kim, <ins>Kevin C. Zhou</ins>, Pavan C. Konda, Sunanda Sharma, ..., Eva Naumann, Roarke Horstmeyer  
 arXiv:2212.00027 (2022)  
