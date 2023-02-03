@@ -114,7 +114,7 @@ Alex Muthumbi, Amey Chaware, Kanghyun Kim, <ins>Kevin C. Zhou</ins>, Pavan Chand
 1. **Optical coherence refraction tomography**  
 <ins>Kevin C. Zhou</ins>, Ruobing Qian, Simone Degan, Sina Farsiu, Joseph A. Izatt  
 *Nature Photonics* 13, 794–802 (2019)  
-[[link](https://www.nature.com/articles/s41566-019-0508-1)]  [[open access link](https://rdcu.be/bO6eQ)] [[code](https://github.com/kevinczhou/optical-coherence-refraction-tomography)] [[data](https://figshare.com/articles/Biological_datasets_for_optical_coherence_refraction_tomography_OCRT_/8297138)]  
+[[link](https://www.nature.com/articles/s41566-019-0508-1)]  [[open access link 1](https://rdcu.be/bO6eQ)] [[open access link 2](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8982998/)] [[code](https://github.com/kevinczhou/optical-coherence-refraction-tomography)] [[data](https://figshare.com/articles/Biological_datasets_for_optical_coherence_refraction_tomography_OCRT_/8297138)]  
 *Featured in [Nature Methods](https://www.nature.com/articles/s41592-019-0604-7), [Optics & Photonics News](https://www.osa-opn.org/home/newsroom/2019/august/improving_oct_s_lateral_resolution/?feed=News), and [Scientific American](https://www.scientificamerican.com/article/test-pilot-geese-planetary-wrecking-balls-and-super-ai-vision-the-weeks-best-science-gifs1/)*
 
 1. **Ocular anterior chamber blood cell population differentiation using spectroscopic optical coherence tomography**  
