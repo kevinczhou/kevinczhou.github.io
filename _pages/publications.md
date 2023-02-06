@@ -48,7 +48,7 @@ Shiqi Xu, Xi Yang, Wenhui Liu, Joakim Jonsson, Ruobing Qian, Pavan Chandra Konda
 1. **Video-rate high-precision time-frequency multiplexed 3D coherent ranging**  
 Ruobing Qian, <ins>Kevin C. Zhou</ins>, Jingkai Zhang, Christian Viehland, Al-Hafeez Dhalla, Joseph A. Izatt  
 *Nature Communications* 13, 1476 (2022)  
-[[Link](https://www.nature.com/articles/s41467-022-29177-9)] [[arXiv link](https://arxiv.org/abs/2008.05805)]
+[[link](https://www.nature.com/articles/s41467-022-29177-9)] [[arXiv link](https://arxiv.org/abs/2008.05805)]
 
 1. **Quantitative Jones matrix imaging using vectorial Fourier ptychography** (*Editor's Pick*)  
 Xiang Dai, Shiqi Xu, Xi Yang, <ins>Kevin C. Zhou</ins>, Carolyn Glass, Pavan Chandra Konda, Roarke Horstmeyer  
