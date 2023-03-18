@@ -15,7 +15,11 @@ A major theme of my research is developing both software and hardware for high-t
 We present 3D-RAPID (<ins>3D</ins> <ins>R</ins>econstruction with an <ins>A</ins>rray-based <ins>P</ins>arallelized <ins>I</ins>maging <ins>D</ins>evice), a computational 3D imaging technique based on an array of 12-megapixel cameras capable of imaging at extremely high spatiotemporal throughts (>5 gigapixels/sec). 3D-RAPID features a spatiotemporally scalable, physics/self-supervised algorithm that enables simultaneous 3D reconstruction and stitching of arbitrarily many cameras across arbitrarily many temporal frames.
 <center><img src="/images/3d-rapid.jpg" alt="3D-RAPID" width="900"/></center>
 
-
+<center>
+<video width="700" controls>
+  <source src="/images/zebrafish_60fps_tracked.mp4" type="video/mp4">
+</video>
+</center>
 
 **Relevant publications**
 - KC Zhou et al., [Parallelized computational 3D video microscopy of freely moving organisms at multiple gigapixels per second](https://www.nature.com/articles/s41566-023-01171-7), *Nature Photonics* (2023)
