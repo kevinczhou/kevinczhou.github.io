@@ -22,6 +22,12 @@ Our high spatiotemporal throughputs (>5 GP/sec) enable high-resolution 3D imagin
 </video>
 </center>
 The left panel shows the zoomed-out view of the entire arena of freely swimming zebrafish; the right panels show the zoomed-in individually tracked zebrafish. The video alternates between photometric (RGB) and 3D height information.
+<center>
+<video width="700" controls>
+  <source src="/images/S12_ants_230fps_compressed.mp4" type="video/mp4">
+</video>
+</center>
+Freely moving harvester ants (left: photometric frame, right: 3D height map).
 
 For more videos, see the supplementary materials of the accompanying publication below. See also [https://gigazoom.rc.duke.edu/](https://gigazoom.rc.duke.edu/) for interactive views of full video frames.
 
