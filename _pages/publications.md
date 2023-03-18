@@ -7,13 +7,18 @@ author_profile: true
 
 1. **Parallelized computational 3D video microscopy of freely moving organisms at multiple gigapixels per second**  
 <ins>Kevin C. Zhou</ins>, Mark Harfouche, Colin Cooke, Jaehee Park, ..., Michel Bagnat, Roarke Horstmeyer  
-arXiv:2301.08351 (2023)  
-[[link](https://arxiv.org/abs/2301.08351)] [[code](https://github.com/kevinczhou/3D-RAPID)] [[data](https://doi.org/10.7924/r4db86b1q)]  
+*Nature Photonics* (2023)  
+[[link](https://www.nature.com/articles/s41566-023-01171-7)] [[arXiv link](https://arxiv.org/abs/2301.08351)] [[code](https://github.com/kevinczhou/3D-RAPID)] [[data](https://doi.org/10.7924/r4db86b1q)]  
 
-1. **Multi-scale gigapixel microscopy using a multi-camera array microscope**  
+1. **Imaging across multiple spatial scales with the multi-camera array microscope**  
 Mark Harfouche, Kanghyun Kim, <ins>Kevin C. Zhou</ins>, Pavan C. Konda, Sunanda Sharma, ..., Eva Naumann, Roarke Horstmeyer  
-arXiv:2212.00027 (2022)  
-[[link](https://arxiv.org/abs/2212.00027)]  
+*Optica* (2023)  
+[[link](https://opg.optica.org/optica/abstract.cfm?doi=10.1364/OPTICA.478010)] [[arXiv link](https://arxiv.org/abs/2212.00027)]
+
+1. **Digital staining in optical microscopy using deep learning–a review**  
+Lucas Kreiss, Shaowei Jiang, Xiang Li, Shiqi Xu, <ins>Kevin C. Zhou</ins>, Alexander Mühlberg, Kyung Chul Lee, ..., Roarke Horstmeyer  
+arXiv:2303.08140 (2023)  
+[[link](https://arxiv.org/abs/2303.08140)]  
 
 1. **Multi-modal imaging using a cascaded microscope design**  
 Xi Yang, Mark Harfouche, <ins>Kevin C. Zhou</ins>, Lucas Kreiss, Shiqi Xu, Kanghyun Kim, Roarke Horstmeyer  
