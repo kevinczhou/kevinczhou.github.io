@@ -15,6 +15,13 @@ A major theme of my research is developing both software and hardware for high-t
 <center><img src="/images/3d-rapid.jpg" alt="3D-RAPID" width="900"/></center>
 Details coming soon!
 
+
+**Relevant publications**
+- KC Zhou et al., [Parallelized computational 3D video microscopy of freely moving organisms at multiple gigapixels per second](https://www.nature.com/articles/s41566-023-01171-7), *Nature Photonics* (2023)
+
+**Code**  
+- [https://github.com/kevinczhou/3D-RAPID](https://github.com/kevinczhou/3D-RAPID)  
+
 ## Optical coherence refraction tomography (OCRT)
 OCRT is a new computational 3D microscopy technique that incorporates extreme angular diversity to incoherently enhance resolution and reduce speckle of conventional OCT.
 
