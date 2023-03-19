@@ -6,10 +6,14 @@ author_profile: true
 ---
 
 A major theme of my research is developing both software and hardware for high-throughput computational 3D imaging techniques. My interests span the broadest, most inclusive interpretation of "3D", ranging from dense 3D tomography to sparse 3D topography, from the microscale to the mesoscale and macroscale. Some projects include:
+- [2π Fourier light field tomography](#2π-Fourier-light-field-tomography)
 - [High-throughput computational 3D imaging with camera arrays](#high-throughput-computational-3d-imaging-with-camera-arrays)
 - [Optical coherence refraction tomography (OCRT)](#optical-coherence-refraction-tomography-ocrt)
 - [Multiview imaging over extremely wide angular ranges](#multiview-imaging-over-extremely-wide-angular-ranges)
 - [Diffraction tomography with a deep image prior](#diffraction-tomography-with-a-deep-image-prior)
+
+## 2π Fourier light field tomography
+Coming soon!
 
 ## High-throughput computational 3D imaging with camera arrays
 We present 3D-RAPID (<ins>3D</ins> <ins>R</ins>econstruction with an <ins>A</ins>rray-based <ins>P</ins>arallelized <ins>I</ins>maging <ins>D</ins>evice), a computational 3D imaging technique based on an array of 12-megapixel cameras capable of imaging at extremely high spatiotemporal throughts (>5 gigapixels/sec). 3D-RAPID features a spatiotemporally scalable, physics/self-supervised algorithm that enables simultaneous 3D reconstruction and stitching of arbitrarily many cameras across arbitrarily many temporal frames.
