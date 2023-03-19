@@ -6,13 +6,13 @@ author_profile: true
 ---
 
 A major theme of my research is developing both software and hardware for high-throughput computational 3D imaging techniques. My interests span the broadest, most inclusive interpretation of "3D", ranging from dense 3D tomography to sparse 3D topography, from the microscale to the mesoscale and macroscale. Some projects include:
-- [2π Fourier light field tomography](#2π-Fourier-light-field-tomography)
+- [High-speed volumetric imaging with 2π Fourier light field tomography](#High-speed-volumetric-imaging-with-2π-Fourier-light-field-tomography)
 - [High-throughput computational 3D imaging with camera arrays](#high-throughput-computational-3d-imaging-with-camera-arrays)
 - [Optical coherence refraction tomography (OCRT)](#optical-coherence-refraction-tomography-ocrt)
 - [Multiview imaging over extremely wide angular ranges](#multiview-imaging-over-extremely-wide-angular-ranges)
 - [Diffraction tomography with a deep image prior](#diffraction-tomography-with-a-deep-image-prior)
 
-## 2π Fourier light field tomography
+## High-speed volumetric imaging with 2π Fourier light field tomography
 Coming soon!
 
 ## High-throughput computational 3D imaging with camera arrays
