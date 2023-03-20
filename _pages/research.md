@@ -21,7 +21,7 @@ Sample multi-view video acquisition of a fruitfly larva:
   <source src="/images/fruitfly_larva_multiview.mp4" type="video/mp4">
 </video>
 </center>
-Sample tomographic video reconstruction:
+Sample tomographic video reconstruction of a freely swimming GFP-expressing zebrafish:
 <center>
 <video width="400" controls>
   <source src="/images/zebrafish_fluorescence.mp4" type="video/mp4">
