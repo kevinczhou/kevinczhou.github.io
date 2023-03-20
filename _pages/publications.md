@@ -170,6 +170,16 @@ Erin M. Sanders, Michael A. Nguyen, <ins>Kevin C. Zhou</ins>, Mary E. Hanks, Kaw
 
 
 # Conferences and invited seminars
+1. **High-throughput tomographic fluorescence imaging with a synchronized camera array**  
+<ins>Kevin C. Zhou</ins>, Joakim Jönsson, Clare Cook, Kyung Chul Lee, Xi Yang, Shiqi Xu, Jennifer Bagwell, Archan Chakraborty, Donald Fox, Michel Bagnat, and Roarke Horstmeyer  
+SPIE Photonics West (2023)  
+[[link](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/PC12390/PC123900C/High-throughput-tomographic-fluorescence-imaging-with-a-synchronized-camera-array/10.1117/12.2649458.short)]  
+
+1. **Multi-modal imaging with a parallelized 16-gigapixel microscope**  
+Kamghyun Kim, <ins>Kevin C. Zhou</ins>, Mark Harfouche, and Roarke Horstmeyer  
+SPIE Photonics West (2023)  
+[[link](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/PC12383/PC1238303/Multi-modal-imaging-with-a-parallelized-16-gigapixel-microscope-Conference/10.1117/12.2649472.short)]  
+
 1. **Real-time, wide-FOV spectral-scanning FMCW 3D imaging and velocimetry**  
 Jingkai Zhang, Ruobing Qian, <ins>Kevin C. Zhou</ins>, Christian Viehland, Al-Hafeez Dhalla, and Joseph A. Izatt  
 Frontiers in Optics + Laser Science 2022
