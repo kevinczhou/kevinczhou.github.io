@@ -15,8 +15,8 @@ A major theme of my research is developing both software and hardware for high-t
 ## High-speed volumetric imaging with 2π Fourier light field tomography
 We developed a Fourier light field system that can capture synchronized video from perspectives spanning 2pi steradians, enabling multimodal volumetric video at up to 120 fps.
 <center>
-<video width="500" controls>
-  <source src="/images/zebrafish_fluorescence_trim.mp4" type="video/mp4">
+<video width="900" controls>
+  <source src="/images/fruitfly_larva_multiview.mp4" type="video/mp4">
 </video>
 </center>
 
