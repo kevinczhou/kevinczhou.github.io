@@ -19,6 +19,11 @@ We developed a Fourier light field system that can capture synchronized video fr
   <source src="/images/fruitfly_larva_multiview.mp4" type="video/mp4">
 </video>
 </center>
+<center>
+<video width="400" controls>
+  <source src="/images/zebrafish_fluorescence.mp4" type="video/mp4">
+</video>
+</center>
 
 Details coming soon!
 
