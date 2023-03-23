@@ -25,6 +25,11 @@ Lucas Kreiss, Shaowei Jiang, Xiang Li, Shiqi Xu, <ins>Kevin C. Zhou</ins>, Alexa
 arXiv:2303.08140 (2023)  
 [[link](https://arxiv.org/abs/2303.08140)]   
 
+1. **Conserved chamber-specific polyploidy maintains heart function in Drosophila**  
+Archan Chakraborty, Nora Peterson, Juliet King, Ryan Gross, Michelle M. Pla, Aatish Thennavan, <ins>Kevin C. Zhou</ins>, ..., Donald Fox  
+bioRxiv, 2023.02.10.528086 (2023)  
+[[link](https://doi.org/10.1101/2023.02.10.528086)]  
+
 1. **Tensorial tomographic differential phase-contrast microscopy**  
 Shiqi Xu, Xiang Dai, Xi Yang, <ins>Kevin C. Zhou</ins>, Kanghyun Kim, Vinayak Pathak, Carolyn Glass, and Roarke Horstmeyer  
 *ICCP* (2022)  
