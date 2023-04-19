@@ -12,7 +12,7 @@ author_profile: true
 
 1. **Imaging across multiple spatial scales with the multi-camera array microscope**  
 Mark Harfouche, Kanghyun Kim, <ins>Kevin C. Zhou</ins>, Pavan C. Konda, Sunanda Sharma, ..., Eva Naumann, Roarke Horstmeyer  
-*Optica* 10, (2023)  
+*Optica* 10, 471–480 (2023)  
 [[link](https://opg.optica.org/optica/abstract.cfm?doi=10.1364/OPTICA.478010)] [[arXiv link](https://arxiv.org/abs/2212.00027)]
 
 1. **Multi-modal imaging using a cascaded microscope design**  
