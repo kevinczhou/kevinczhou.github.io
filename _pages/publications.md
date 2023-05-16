@@ -9,6 +9,7 @@ author_profile: true
 <ins>Kevin C. Zhou</ins>, Mark Harfouche, Colin Cooke, Jaehee Park, ..., Michel Bagnat, Roarke Horstmeyer  
 *Nature Photonics* (2023)  
 [[link](https://www.nature.com/articles/s41566-023-01171-7)] [[open access link](https://rdcu.be/c73l9)] [[arXiv link](https://arxiv.org/abs/2301.08351)] [[code](https://github.com/kevinczhou/3D-RAPID)] [[data](https://doi.org/10.7924/r4db86b1q)]  
+*Featured in [Nature Methods](https://www.nature.com/articles/s41592-023-01892-1)*
 
 1. **Imaging across multiple spatial scales with the multi-camera array microscope**  
 Mark Harfouche, Kanghyun Kim, <ins>Kevin C. Zhou</ins>, Pavan C. Konda, Sunanda Sharma, ..., Eva Naumann, Roarke Horstmeyer  
