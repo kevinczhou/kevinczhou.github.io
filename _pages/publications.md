@@ -5,6 +5,16 @@ permalink: /publications/
 author_profile: true
 ---
 
+1. **Computational 3D topographic microscopy from terabytes of data per sample**  
+<ins>Kevin C. Zhou</ins>, Mark Harfouche, Maxwell Zheng, Joakim Jönsson, ..., Roarke Horstmeyer  
+arXiv:2306.02634 (2023)  
+[[link](https://arxiv.org/abs/2306.02634)]  
+
+1. **Tensorial tomographic Fourier Ptychography with applications to muscle tissue imaging**  
+Shiqi Xu, Xiang Dai, Paul Ritter, Kyung Chul Lee, Xi Yang, Lucas Kreiss, <ins>Kevin C. Zhou</ins>, ..., Roarke Horstmeyer  
+arXiv:2305.05085 (2023)  
+[[link](https://arxiv.org/abs/2305.05085)]  
+
 1. **Parallelized computational 3D video microscopy of freely moving organisms at multiple gigapixels per second**  
 <ins>Kevin C. Zhou</ins>, Mark Harfouche, Colin Cooke, Jaehee Park, ..., Michel Bagnat, Roarke Horstmeyer  
 *Nature Photonics* (2023)  
