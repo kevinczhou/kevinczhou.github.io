@@ -5,6 +5,11 @@ permalink: /publications/
 author_profile: true
 ---
 
+1. **Conserved chamber-specific polyploidy maintains heart function in Drosophila**  
+Archan Chakraborty, Nora Peterson, Juliet King, Ryan Gross, Michelle M. Pla, Aatish Thennavan, <ins>Kevin C. Zhou</ins>, ..., Donald Fox  
+*Development* (2023)  
+[[link](https://journals.biologists.com/dev/article-abstract/doi/10.1242/dev.201896/325740/Conserved-chamber-specific-polyploidy-maintains)] [[bioRxiv link](https://doi.org/10.1101/2023.02.10.528086)]  
+
 1. **Computational 3D topographic microscopy from terabytes of data per sample**  
 <ins>Kevin C. Zhou</ins>, Mark Harfouche, Maxwell Zheng, Joakim Jönsson, ..., Roarke Horstmeyer  
 arXiv:2306.02634 (2023)  
@@ -35,11 +40,6 @@ Xi Yang, Mark Harfouche, <ins>Kevin C. Zhou</ins>, Lucas Kreiss, Shiqi Xu, Kangh
 Lucas Kreiss, Shaowei Jiang, Xiang Li, Shiqi Xu, <ins>Kevin C. Zhou</ins>, Alexander Mühlberg, Kyung Chul Lee, ..., Roarke Horstmeyer  
 arXiv:2303.08140 (2023)  
 [[link](https://arxiv.org/abs/2303.08140)]   
-
-1. **Conserved chamber-specific polyploidy maintains heart function in Drosophila**  
-Archan Chakraborty, Nora Peterson, Juliet King, Ryan Gross, Michelle M. Pla, Aatish Thennavan, <ins>Kevin C. Zhou</ins>, ..., Donald Fox  
-bioRxiv, 2023.02.10.528086 (2023)  
-[[link](https://doi.org/10.1101/2023.02.10.528086)]  
 
 1. **Tensorial tomographic differential phase-contrast microscopy**  
 Shiqi Xu, Xiang Dai, Xi Yang, <ins>Kevin C. Zhou</ins>, Kanghyun Kim, Vinayak Pathak, Carolyn Glass, and Roarke Horstmeyer  
