@@ -5,6 +5,11 @@ permalink: /publications/
 author_profile: true
 ---
 
+1. **Shot-noise limited optical hybrid based on fused fiber couplers**  
+Kristen Hagan, <ins>Kevin C. Zhou</ins>, Al-Hafeez Dhalla, Joseph Izatt  
+*Optica Open* (2023)  
+[[link](https://preprints.opticaopen.org/articles/preprint/Shot-noise_limited_optical_hybrid_based_on_fused_fiber_couplers/24114699/1)]  
+
 1. **Conserved chamber-specific polyploidy maintains heart function in Drosophila**  
 Archan Chakraborty, Nora Peterson, Juliet King, Ryan Gross, Michelle M. Pla, Aatish Thennavan, <ins>Kevin C. Zhou</ins>, ..., Donald Fox  
 *Development* (2023)  
@@ -186,6 +191,11 @@ Erin M. Sanders, Michael A. Nguyen, <ins>Kevin C. Zhou</ins>, Mary E. Hanks, Kaw
 
 
 # Conferences and invited seminars
+1. **High-throughput imaging across multiple spatial scales with the multi-camera array microscope (MCAM)**  
+Lucas Kreiss, <ins>Kevin C. Zhou</ins>, Kanghyun Kim, Mark Harfouche, Shiqi Xu, Joakim Jönsson, Kyung Chul Lee, Clare Cook, Xi Yang, Paul Reamey, ... Roarke Horstmeyer  
+SPIE Optical Metrology (2023)  
+[[link](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12622/126220S/High-throughput-imaging-across-multiple-spatial-scales-with-the-multi/10.1117/12.2675451.short?SSO=1)]
+
 1. **High-throughput tomographic fluorescence imaging with a synchronized camera array**  
 <ins>Kevin C. Zhou</ins>, Joakim Jönsson, Clare Cook, Kyung Chul Lee, Xi Yang, Shiqi Xu, Jennifer Bagwell, Archan Chakraborty, Donald Fox, Michel Bagnat, and Roarke Horstmeyer  
 SPIE Photonics West (2023)  
