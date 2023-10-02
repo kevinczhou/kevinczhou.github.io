@@ -13,9 +13,9 @@ A major theme of my research is developing both software and hardware for high-t
 - [Diffraction tomography with a deep image prior](#diffraction-tomography-with-a-deep-image-prior)
 
 ## High-speed volumetric imaging with 2π Fourier light field tomography
-We developed a Fourier light field system that can capture synchronized video from perspectives spanning 2pi steradians, enabling multimodal volumetric video at up to 120 fps.
+We developed a Fourier light field system that can capture synchronized video from perspectives spanning 2pi steradians across 10s of cubic mms, enabling multimodal volumetric video at up to 120 fps.
 
-Sample multi-view video acquisition of a fruitfly larva:
+Sample multi-view video acquisition of a *Drosophila* larva:
 <center>
 <video width="600" controls>
   <source src="/images/fruitfly_larva_multiview.mp4" type="video/mp4">
