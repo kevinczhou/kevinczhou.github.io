@@ -28,7 +28,7 @@ arXiv:2305.05085 (2023)
 1. **Parallelized computational 3D video microscopy of freely moving organisms at multiple gigapixels per second**  
 <ins>Kevin C. Zhou</ins>, Mark Harfouche, Colin Cooke, Jaehee Park, ..., Michel Bagnat, Roarke Horstmeyer  
 *Nature Photonics* (2023)  
-[[link](https://www.nature.com/articles/s41566-023-01171-7)] [[open access link](https://rdcu.be/c73l9)] [[arXiv link](https://arxiv.org/abs/2301.08351)] [[code](https://github.com/kevinczhou/3D-RAPID)] [[data](https://doi.org/10.7924/r4db86b1q)]  
+[[link](https://www.nature.com/articles/s41566-023-01171-7)] [[open access link](https://rdcu.be/c73l9)] [[arXiv link](https://arxiv.org/abs/2301.08351)] [[pubmed](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10552607/)] [[code](https://github.com/kevinczhou/3D-RAPID)] [[data](https://doi.org/10.7924/r4db86b1q)]  
 *Featured in [Nature Methods](https://www.nature.com/articles/s41592-023-01892-1)*
 
 1. **Imaging across multiple spatial scales with the multi-camera array microscope**  
@@ -69,7 +69,7 @@ Shiqi Xu, Xi Yang, Wenhui Liu, Joakim Jonsson, Ruobing Qian, Pavan Chandra Konda
 1. **Computational 3D microscopy with optical coherence refraction tomography**  
 <ins>Kevin C. Zhou</ins>, Ryan P. McNabb, Ruobing Qian, Simone Degan, Al-Hafeez Dhalla, Sina Farsiu, Joseph A. Izatt  
 *Optica* 9, 593-601 (2022)  
-[[link](https://doi.org/10.1364/OPTICA.454860)] [[arXiv link](https://arxiv.org/abs/2202.11837)] [[code](https://github.com/kevinczhou/3d-ocrt)] [[data](https://doi.org/10.7924/r46h4pk10)]
+[[link](https://doi.org/10.1364/OPTICA.454860)] [[arXiv link](https://arxiv.org/abs/2202.11837)] [[pubmed](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10503686/)] [[code](https://github.com/kevinczhou/3d-ocrt)] [[data](https://doi.org/10.7924/r46h4pk10)]
 
 1. **Video-rate high-precision time-frequency multiplexed 3D coherent ranging**  
 Ruobing Qian, <ins>Kevin C. Zhou</ins>, Jingkai Zhang, Christian Viehland, Al-Hafeez Dhalla, Joseph A. Izatt  
