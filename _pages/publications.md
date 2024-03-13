@@ -190,6 +190,31 @@ Erin M. Sanders, Michael A. Nguyen, <ins>Kevin C. Zhou</ins>, Mary E. Hanks, Kaw
 
 
 # Conferences and invited seminars
+1. **High-throughput computational microscopy with diffractive multiplexing across a gigapixel sensor array**  
+<ins>Kevin C. Zhou</ins>, Chaoying Gu, Grace Jiang, Nick Antipa, Roarke Horstmeyer, and Laura Waller  
+SPIE Photonics West (2024)  
+
+1. **Tomographic behavioral tracking of freely-moving model organisms with a hemispheric Fourier light field microscope**  
+<ins>Kevin C. Zhou</ins>, Clare Cook, Archan Chakraborty, Joakim Jönsson, Kyung Chul Lee, Xi Yang, Shiqi Xu, Jennifer Bagwell, Don Fox, Michel Bagnat, and Roarke Horstmeyer  
+SPIE Photonics West (2024)
+
+1. **Computational wavefront shaping with epi-mode 3D refractive index microscopy**  
+Mingxuan Cai, <ins>Kevin C. Zhou</ins>, Yi Xue, and Laura Waller  
+Optica Imaging Congress (2023)  
+
+1. **Computational 3D topographic microscopy from terabytes of data per sample**  
+<ins>Kevin C. Zhou</ins>, Mark Harfouche, Maxwell Zheng, Joakim Jönsson, Kyung Chul Lee, Ron Appel, Paul Reamey, Thomas Doman, Veton Saliu, Gregor Horstmeyer,
+and Roarke Horstmeyer  
+Optica Imaging Congress (2023)  
+
+1. **Fourier light field camera array microscope for mesoscale 3D imaging**  
+Clare Cook, <ins>Kevin C. Zhou</ins>, and Roarke Horstmeyer  
+Optica Imaging Congress (2023)
+
+1. **Anisotropic intensity diffraction tomography**  
+Shiqi Xu, Xiang Dai, Xi Yang, Kyung Chul Lee, Lucas Kreiss, <ins>Kevin C. Zhou</ins>, Kanghyun Kim, Amey Chaware, and Roarke Horstmeyer  
+Optica Imaging Congress (2023)  
+
 1. **High-throughput imaging across multiple spatial scales with the multi-camera array microscope (MCAM)**  
 Lucas Kreiss, <ins>Kevin C. Zhou</ins>, Kanghyun Kim, Mark Harfouche, Shiqi Xu, Joakim Jönsson, Kyung Chul Lee, Clare Cook, Xi Yang, Paul Reamey, ... Roarke Horstmeyer  
 SPIE Optical Metrology (2023)  
