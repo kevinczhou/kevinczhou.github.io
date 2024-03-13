@@ -4,15 +4,24 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+1. **Tensorial tomographic Fourier Ptychography with applications to muscle tissue imaging**  
+Shiqi Xu, Xiang Dai, Paul Ritter, Kyung Chul Lee, Xi Yang, Lucas Kreiss, <ins>Kevin C. Zhou</ins>, ..., Roarke Horstmeyer  
+*Advanced Photonics* 6(2):026004–026004 (2024)  
+[[link](https://www.spiedigitallibrary.org/journals/advanced-photonics/volume-6/issue-02/026004/Tensorial-tomographic-Fourier-ptychography-with-applications-to-muscle-tissue-imaging/10.1117/1.AP.6.2.026004.full#_=_)] [[arXiv link](https://arxiv.org/abs/2305.05085)]
 
 1. **Shot-noise limited optical hybrid based on fused fiber couplers**  
 Kristen Hagan, <ins>Kevin C. Zhou</ins>, Al-Hafeez Dhalla, Joseph Izatt  
-*Optica Open* (2023)  
-[[link](https://preprints.opticaopen.org/articles/preprint/Shot-noise_limited_optical_hybrid_based_on_fused_fiber_couplers/24114699/1)]  
+*Optics Letters* 49(2):347–350 (2024)  
+[[link](https://opg.optica.org/ol/abstract.cfm?uri=ol-49-2-347)] [[Optica Open link](https://preprints.opticaopen.org/articles/preprint/Shot-noise_limited_optical_hybrid_based_on_fused_fiber_couplers/24114699/1)]  
+
+1. **Digital staining in optical microscopy using deep learning–a review**  
+Lucas Kreiss, Shaowei Jiang, Xiang Li, Shiqi Xu, <ins>Kevin C. Zhou</ins>, Alexander Mühlberg, Kyung Chul Lee, ..., Roarke Horstmeyer  
+*PhotoniX*, 4(1):34 (2023)  
+[link](https://link.springer.com/article/10.1186/s43074-023-00113-4)] [[arXiv link](https://arxiv.org/abs/2303.08140)]  
 
 1. **Conserved chamber-specific polyploidy maintains heart function in Drosophila**  
 Archan Chakraborty, Nora Peterson, Juliet King, Ryan Gross, Michelle M. Pla, Aatish Thennavan, <ins>Kevin C. Zhou</ins>, ..., Donald Fox  
-*Development* (2023)  
+*Development* 150(16) (2023)  
 [[link](https://journals.biologists.com/dev/article-abstract/doi/10.1242/dev.201896/325740/Conserved-chamber-specific-polyploidy-maintains)] [[bioRxiv link](https://doi.org/10.1101/2023.02.10.528086)]  
 
 1. **Computational 3D topographic microscopy from terabytes of data per sample**  
@@ -20,14 +29,9 @@ Archan Chakraborty, Nora Peterson, Juliet King, Ryan Gross, Michelle M. Pla, Aat
 arXiv:2306.02634 (2023)  
 [[link](https://arxiv.org/abs/2306.02634)]  
 
-1. **Tensorial tomographic Fourier Ptychography with applications to muscle tissue imaging**  
-Shiqi Xu, Xiang Dai, Paul Ritter, Kyung Chul Lee, Xi Yang, Lucas Kreiss, <ins>Kevin C. Zhou</ins>, ..., Roarke Horstmeyer  
-arXiv:2305.05085 (2023)  
-[[link](https://arxiv.org/abs/2305.05085)]  
-
 1. **Parallelized computational 3D video microscopy of freely moving organisms at multiple gigapixels per second**  
 <ins>Kevin C. Zhou</ins>, Mark Harfouche, Colin Cooke, Jaehee Park, ..., Michel Bagnat, Roarke Horstmeyer  
-*Nature Photonics* (2023)  
+*Nature Photonics* 17:442–450 (2023)  
 [[link](https://www.nature.com/articles/s41566-023-01171-7)] [[open access link](https://rdcu.be/c73l9)] [[arXiv link](https://arxiv.org/abs/2301.08351)] [[pubmed](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10552607/)] [[code](https://github.com/kevinczhou/3D-RAPID)] [[data](https://doi.org/10.7924/r4db86b1q)]  
 *Featured in [Nature Methods](https://www.nature.com/articles/s41592-023-01892-1)*
 
@@ -39,12 +43,7 @@ Mark Harfouche, Kanghyun Kim, <ins>Kevin C. Zhou</ins>, Pavan C. Konda, Sunanda 
 1. **Multi-modal imaging using a cascaded microscope design**  
 Xi Yang, Mark Harfouche, <ins>Kevin C. Zhou</ins>, Lucas Kreiss, Shiqi Xu, Kanghyun Kim, Roarke Horstmeyer  
 *Optics Letters* 48, (2023)  
-[[link](https://opg.optica.org/ol/abstract.cfm?doi=10.1364/OL.471380)] [[arXiv link](https://arxiv.org/abs/2208.08875)] 
-
-1. **Digital staining in optical microscopy using deep learning–a review**  
-Lucas Kreiss, Shaowei Jiang, Xiang Li, Shiqi Xu, <ins>Kevin C. Zhou</ins>, Alexander Mühlberg, Kyung Chul Lee, ..., Roarke Horstmeyer  
-arXiv:2303.08140 (2023)  
-[[link](https://arxiv.org/abs/2303.08140)]   
+[[link](https://opg.optica.org/ol/abstract.cfm?doi=10.1364/OL.471380)] [[arXiv link](https://arxiv.org/abs/2208.08875)]  
 
 1. **Tensorial tomographic differential phase-contrast microscopy**  
 Shiqi Xu, Xiang Dai, Xi Yang, <ins>Kevin C. Zhou</ins>, Kanghyun Kim, Vinayak Pathak, Carolyn Glass, and Roarke Horstmeyer  
