@@ -198,6 +198,18 @@ SPIE Photonics West (2024)
 <ins>Kevin C. Zhou</ins>, Clare Cook, Archan Chakraborty, Joakim Jönsson, Kyung Chul Lee, Xi Yang, Shiqi Xu, Jennifer Bagwell, Don Fox, Michel Bagnat, and Roarke Horstmeyer  
 SPIE Photonics West (2024)
 
+1. **Fourier light field camera array mesoscope for video-rate 3D imaging**  
+Clare B. Cook, <ins>Kevin C. Zhou</ins>, and Roarke Horstmeyer  
+SPIE Photonics West (2024)
+
+1. **Line-scan phase-resolved synthetic wavelength LiDAR using an off-axis holographic approach**  
+Jingkai Zhang, Joseph A. Izatt, Robert Trout, Jianwei D. Li, Julia S. Foust, Al-Hafeez Dhalla, and <ins>Kevin C. Zhou</ins>  
+SPIE Photonics West (2024)
+
+1. **High-content multimodal in vivo imaging using a parallelized gigapixel scale microscope**  
+Xi Yang, Aurelian Bègue, Mark Harfouche, Clare Cook, Kanghyun Kim, <ins>Kevin C. Zhou</ins>, and Roarke Horstmeyer  
+SPIE Photonics West (2024)
+
 1. **Computational wavefront shaping with epi-mode 3D refractive index microscopy**  
 Mingxuan Cai, <ins>Kevin C. Zhou</ins>, Yi Xue, and Laura Waller  
 Optica Imaging Congress (2023)  
