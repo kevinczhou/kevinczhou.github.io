@@ -17,7 +17,7 @@ Kristen Hagan, <ins>Kevin C. Zhou</ins>, Al-Hafeez Dhalla, Joseph Izatt
 1. **Digital staining in optical microscopy using deep learning–a review**  
 Lucas Kreiss, Shaowei Jiang, Xiang Li, Shiqi Xu, <ins>Kevin C. Zhou</ins>, Alexander Mühlberg, Kyung Chul Lee, ..., Roarke Horstmeyer  
 *PhotoniX*, 4(1):34 (2023)  
-[link](https://link.springer.com/article/10.1186/s43074-023-00113-4)] [[arXiv link](https://arxiv.org/abs/2303.08140)]  
+[[link](https://link.springer.com/article/10.1186/s43074-023-00113-4)] [[arXiv link](https://arxiv.org/abs/2303.08140)]  
 
 1. **Conserved chamber-specific polyploidy maintains heart function in Drosophila**  
 Archan Chakraborty, Nora Peterson, Juliet King, Ryan Gross, Michelle M. Pla, Aatish Thennavan, <ins>Kevin C. Zhou</ins>, ..., Donald Fox  
