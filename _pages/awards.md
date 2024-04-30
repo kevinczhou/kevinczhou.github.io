@@ -5,6 +5,7 @@ permalink: /awards/
 author_profile: true
 ---
 
+- Teledyne Best Presentation Award (Photonics West 2024)
 - Hitachi High Tech Best Presentation Award (Photonics West 2023)
 - [Schmidt Science Fellows](https://schmidtsciencefellows.org/) (2022)
 - OSA Imaging and Applied Optics Congress Student Paper Award (2021)
