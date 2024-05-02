@@ -190,9 +190,10 @@ Erin M. Sanders, Michael A. Nguyen, <ins>Kevin C. Zhou</ins>, Mary E. Hanks, Kaw
 
 
 # Conferences and invited seminars
-1. **High-throughput computational microscopy with diffractive multiplexing across a gigapixel sensor array**  
+1. **High-throughput computational microscopy with diffractive multiplexing across a gigapixel sensor array** (*Teledyne Best Presentation Award*)   
 <ins>Kevin C. Zhou</ins>, Chaoying Gu, Grace Jiang, Nick Antipa, Roarke Horstmeyer, and Laura Waller  
 SPIE Photonics West (2024)  
+[[link](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/PC12857/PC128570A/High-throughput-computational-microscopy-with-diffractive-multiplexing-across-a-gigapixel/10.1117/12.3000876.short#_=_)]  
 
 1. **Tomographic behavioral tracking of freely-moving model organisms with a hemispheric Fourier light field microscope**  
 <ins>Kevin C. Zhou</ins>, Clare Cook, Archan Chakraborty, Joakim Jönsson, Kyung Chul Lee, Xi Yang, Shiqi Xu, Jennifer Bagwell, Don Fox, Michel Bagnat, and Roarke Horstmeyer  
@@ -232,7 +233,7 @@ Lucas Kreiss, <ins>Kevin C. Zhou</ins>, Kanghyun Kim, Mark Harfouche, Shiqi Xu, 
 SPIE Optical Metrology (2023)  
 [[link](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12622/126220S/High-throughput-imaging-across-multiple-spatial-scales-with-the-multi/10.1117/12.2675451.short?SSO=1)]
 
-1. **High-throughput tomographic fluorescence imaging with a synchronized camera array**  
+1. **High-throughput tomographic fluorescence imaging with a synchronized camera array** (*Hitachi High Tech Best Presentation Award*)  
 <ins>Kevin C. Zhou</ins>, Joakim Jönsson, Clare Cook, Kyung Chul Lee, Xi Yang, Shiqi Xu, Jennifer Bagwell, Archan Chakraborty, Donald Fox, Michel Bagnat, and Roarke Horstmeyer  
 SPIE Photonics West (2023)  
 [[link](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/PC12390/PC123900C/High-throughput-tomographic-fluorescence-imaging-with-a-synchronized-camera-array/10.1117/12.2649458.short)]  
