@@ -4,6 +4,11 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+1. **Computational 3D topographic microscopy from terabytes of data per sample**  
+<ins>Kevin C. Zhou</ins>, Mark Harfouche, Maxwell Zheng, Joakim Jönsson, ..., Roarke Horstmeyer  
+*Journal of Big Data* 11(62) (2024)  
+[[link](https://doi.org/10.1186/s40537-024-00901-0)] [[arXiv link](https://arxiv.org/abs/2306.02634)] [[code](https://github.com/kevinczhou/starcam)]  
+
 1. **Tensorial tomographic Fourier Ptychography with applications to muscle tissue imaging**  
 Shiqi Xu, Xiang Dai, Paul Ritter, Kyung Chul Lee, Xi Yang, Lucas Kreiss, <ins>Kevin C. Zhou</ins>, ..., Roarke Horstmeyer  
 *Advanced Photonics* 6(2):026004–026004 (2024)  
@@ -23,11 +28,6 @@ Lucas Kreiss, Shaowei Jiang, Xiang Li, Shiqi Xu, <ins>Kevin C. Zhou</ins>, Alexa
 Archan Chakraborty, Nora Peterson, Juliet King, Ryan Gross, Michelle M. Pla, Aatish Thennavan, <ins>Kevin C. Zhou</ins>, ..., Donald Fox  
 *Development* 150(16) (2023)  
 [[link](https://journals.biologists.com/dev/article-abstract/doi/10.1242/dev.201896/325740/Conserved-chamber-specific-polyploidy-maintains)] [[bioRxiv link](https://doi.org/10.1101/2023.02.10.528086)]  
-
-1. **Computational 3D topographic microscopy from terabytes of data per sample**  
-<ins>Kevin C. Zhou</ins>, Mark Harfouche, Maxwell Zheng, Joakim Jönsson, ..., Roarke Horstmeyer  
-arXiv:2306.02634 (2023)  
-[[link](https://arxiv.org/abs/2306.02634)]  
 
 1. **Parallelized computational 3D video microscopy of freely moving organisms at multiple gigapixels per second**  
 <ins>Kevin C. Zhou</ins>, Mark Harfouche, Colin Cooke, Jaehee Park, ..., Michel Bagnat, Roarke Horstmeyer  
