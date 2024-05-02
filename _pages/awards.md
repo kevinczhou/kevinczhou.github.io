@@ -5,8 +5,8 @@ permalink: /awards/
 author_profile: true
 ---
 
-- Teledyne Best Presentation Award (Photonics West 2024)
-- Hitachi High Tech Best Presentation Award (Photonics West 2023)
+- Teledyne Best Presentation Award (Photonics West 2024) [[presentation link](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/PC12857/PC128570A/High-throughput-computational-microscopy-with-diffractive-multiplexing-across-a-gigapixel/10.1117/12.3000876.short#_=_)]
+- Hitachi High Tech Best Presentation Award (Photonics West 2023) [[presentation link](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/PC12390/PC123900C/High-throughput-tomographic-fluorescence-imaging-with-a-synchronized-camera-array/10.1117/12.2649458.short#_=_)]
 - [Schmidt Science Fellows](https://schmidtsciencefellows.org/) (2022)
 - OSA Imaging and Applied Optics Congress Student Paper Award (2021)
 - OSA Biophotonics Congress: Biomedical Optics Student Paper Award (2020)  
