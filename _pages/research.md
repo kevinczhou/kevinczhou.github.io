@@ -19,7 +19,7 @@ We developed a new technique, (<ins>R</ins>eflective <ins>F</ins>ourier <ins>L</
 Demonstration of ReFLeCT applied to a freely moving *Drosophila* larva:
 <center>
 <video width="700" controls>
-  <source src="/images/fruitfly_larva_multiview.mp4" type="video/mp4">
+  <source src="/images/video3_drosophila_pericardial_30fps.mp4" type="video/mp4">
 </video>
 </center>
 The left 6×9 panels are the synchronized raw multi-view video capture, and the right 2×2 panels are four different visualizations of the 4D reconstruction.
