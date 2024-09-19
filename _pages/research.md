@@ -14,19 +14,15 @@ A major theme of my research is developing both software and hardware for high-t
 
 ## High-speed 4D fluorescence light field tomography of whole freely moving organisms
 We developed a new technique, (<ins>R</ins>eflective <ins>F</ins>ourier <ins>L</ins>ight field <ins>C</ins>omputed <ins>T</ins>ompography (ReFLeCT), which can capture synchronized video from perspectives spanning 2π steradians across 10s of cubic mm volumes of view, enabling multimodal volumetric video at up to 120 fps. While existing volumetric imaging approaches applied to model organisms such as zebrafish and *Drosophila* larvae require immobilization, ReFLeCT's high spatiotemporal throughput enables 4D imaging of whole organisms as they are freely moving!
+<center><img src="/images/ReFLeCT_overview.png" alt="ReFLeCT" width="900"/></center>
 
-Sample multi-view video acquisition of a *Drosophila* larva:
+Demonstration of ReFLeCT applied to a freely moving *Drosophila* larva:
 <center>
 <video width="600" controls>
-  <source src="/images/fruitfly_larva_multiview.mp4" type="video/mp4">
+  <source src="/images/video3_drosophila_pericardial_30fps.mp4" type="video/mp4">
 </video>
 </center>
-Sample tomographic video reconstruction of a freely swimming GFP-expressing zebrafish:
-<center>
-<video width="400" controls>
-  <source src="/images/zebrafish_fluorescence.mp4" type="video/mp4">
-</video>
-</center>
+The left 6×9 panels are the synchronized raw multi-view video capture, and the right 2×2 panels are four different visualizations of the 4D reconstruction.
 
 **Relevant publications**
 - KC Zhou et al., [High-speed 4D fluorescence light field tomography of whole freely moving organisms](https://www.biorxiv.org/content/10.1101/2024.09.16.609432v1), *bioRxiv* 2024.09.16.609432 (2024)
