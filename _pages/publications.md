@@ -4,6 +4,11 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+1. **High-speed 4D fluorescence light field tomography of whole freely moving organisms**  
+<ins>Kevin C. Zhou</ins>, Clare Cook, Archan Chakraborty, Jennifer Bagwell, ..., Roarke Horstmeyer  
+*bioRxiv* 2024.09.16.609432 (2024)  
+[[link](https://www.biorxiv.org/content/10.1101/2024.09.16.609432v1)] [[visualization code](https://github.com/kevinczhou/ReFLeCT-4D-visualization)]  
+
 1. **Computational 3D topographic microscopy from terabytes of data per sample**  
 <ins>Kevin C. Zhou</ins>, Mark Harfouche, Maxwell Zheng, Joakim Jönsson, ..., Roarke Horstmeyer  
 *Journal of Big Data* 11(62) (2024)  
