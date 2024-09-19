@@ -52,9 +52,13 @@ For more videos, see the supplementary materials of the accompanying publication
 
 **Relevant publications**
 - KC Zhou et al., [Parallelized computational 3D video microscopy of freely moving organisms at multiple gigapixels per second](https://www.nature.com/articles/s41566-023-01171-7), *Nature Photonics* (2023)
+- KC Zhou et al., [Computational 3D topographic microscopy from terabytes of data per sample](https://journalofbigdata.springeropen.com/articles/10.1186/s40537-024-00901-0), *Journal of Big Data* (2024)
+- KC Zhou et al., [Mesoscopic photogrammetry with an unstabilized phone camera](https://openaccess.thecvf.com/content/CVPR2021/html/Zhou_Mesoscopic_Photogrammetry_With_an_Unstabilized_Phone_Camera_CVPR_2021_paper.html), *CVPR* (2021)
 
 **Code**  
-- [https://github.com/kevinczhou/3D-RAPID](https://github.com/kevinczhou/3D-RAPID)  
+- [https://github.com/kevinczhou/3D-RAPID](https://github.com/kevinczhou/3D-RAPID)
+- [https://github.com/kevinczhou/starcam](https://github.com/kevinczhou/starcam)
+- [https://github.com/kevinczhou/mesoscopic-photogrammetry](https://github.com/kevinczhou/mesoscopic-photogrammetry)
 
 ## Optical coherence refraction tomography (OCRT)
 OCRT is a new computational 3D microscopy technique that incorporates extreme angular diversity to incoherently enhance resolution and reduce speckle of conventional OCT.
