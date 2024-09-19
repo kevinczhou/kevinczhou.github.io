@@ -6,13 +6,13 @@ author_profile: true
 ---
 
 A major theme of my research is developing both software and hardware for high-throughput computational 3D imaging techniques. My interests span the broadest, most inclusive interpretation of "3D", ranging from dense 3D tomography to sparse 3D topography, from the microscale to the mesoscale and macroscale. Some projects include:
-- [High-speed volumetric imaging with 2π Fourier light field tomography](#high-speed-volumetric-imaging-with-2π-fourier-light-field-tomography)
+- [High-speed 4D fluorescence light field tomography of whole freely moving organisms](#high-speed-4d-fluorescence-light-field-tomography-of-whole-freely-moving-organisms)
 - [High-throughput computational 3D imaging with camera arrays](#high-throughput-computational-3d-imaging-with-camera-arrays)
 - [Optical coherence refraction tomography (OCRT)](#optical-coherence-refraction-tomography-ocrt)
 - [Multiview imaging over extremely wide angular ranges](#multiview-imaging-over-extremely-wide-angular-ranges)
 - [Diffraction tomography with a deep image prior](#diffraction-tomography-with-a-deep-image-prior)
 
-## High-speed volumetric imaging with 2π Fourier light field tomography
+## High-speed 4D fluorescence light field tomography of whole freely moving organisms
 We developed a Fourier light field system that can capture synchronized video from perspectives spanning 2pi steradians across 10s of cubic mms, enabling multimodal volumetric video at up to 120 fps.
 
 Sample multi-view video acquisition of a *Drosophila* larva:
@@ -28,7 +28,13 @@ Sample tomographic video reconstruction of a freely swimming GFP-expressing zebr
 </video>
 </center>
 
-Details coming soon!
+**Relevant publications**
+- KC Zhou et al., [High-speed 4D fluorescence light field tomography of whole freely moving organisms](https://www.biorxiv.org/content/10.1101/2024.09.16.609432v1), *bioRxiv* 2024.09.16.609432 (2024)
+
+**Code**  
+- Visualization: [https://github.com/kevinczhou/ReFLeCT-4D-visualization](https://github.com/kevinczhou/ReFLeCT-4D-visualization)
+- 4D reconstruction: coming soon!
+
 
 ## High-throughput computational 3D imaging with camera arrays
 We present 3D-RAPID (<ins>3D</ins> <ins>R</ins>econstruction with an <ins>A</ins>rray-based <ins>P</ins>arallelized <ins>I</ins>maging <ins>D</ins>evice), a computational 3D imaging technique based on an array of 12-megapixel cameras capable of imaging at extremely high spatiotemporal throughts (>5 gigapixels/sec). 3D-RAPID features a spatiotemporally scalable, physics/self-supervised algorithm that enables simultaneous 3D reconstruction and stitching of arbitrarily many cameras across arbitrarily many temporal frames.
@@ -51,8 +57,8 @@ Freely moving harvester ants (left: photometric frame, right: 3D height map).
 For more videos, see the supplementary materials of the accompanying publication below. See also [https://gigazoom.rc.duke.edu/](https://gigazoom.rc.duke.edu/) for interactive views of full video frames.
 
 **Relevant publications**
-- KC Zhou et al., [Parallelized computational 3D video microscopy of freely moving organisms at multiple gigapixels per second](https://www.nature.com/articles/s41566-023-01171-7), *Nature Photonics* (2023)
-- KC Zhou et al., [Computational 3D topographic microscopy from terabytes of data per sample](https://journalofbigdata.springeropen.com/articles/10.1186/s40537-024-00901-0), *Journal of Big Data* (2024)
+- KC Zhou et al., [Parallelized computational 3D video microscopy of freely moving organisms at multiple gigapixels per second](https://www.nature.com/articles/s41566-023-01171-7), *Nature Photonics* 17:442–450 (2023)
+- KC Zhou et al., [Computational 3D topographic microscopy from terabytes of data per sample](https://journalofbigdata.springeropen.com/articles/10.1186/s40537-024-00901-0), *Journal of Big Data* 11(62) (2024)
 - KC Zhou et al., [Mesoscopic photogrammetry with an unstabilized phone camera](https://openaccess.thecvf.com/content/CVPR2021/html/Zhou_Mesoscopic_Photogrammetry_With_an_Unstabilized_Phone_Camera_CVPR_2021_paper.html), *CVPR* (2021)
 
 **Code**  
