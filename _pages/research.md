@@ -16,7 +16,7 @@ A major theme of my research is developing both software and hardware for high-t
 We developed a new technique, (<ins>R</ins>eflective <ins>F</ins>ourier <ins>L</ins>ight field <ins>C</ins>omputed <ins>T</ins>ompography (ReFLeCT), which can capture synchronized video from perspectives spanning 2π steradians across 10s of cubic mm volumes of view, enabling multimodal volumetric video at up to 120 fps. While existing volumetric imaging approaches applied to model organisms such as zebrafish and *Drosophila* larvae require immobilization, ReFLeCT's high spatiotemporal throughput enables 4D imaging of whole organisms as they are freely moving!
 <center><img src="/images/ReFLeCT_overview.png" alt="ReFLeCT" width="900"/></center>
 
-Demonstration of ReFLeCT applied to a freely moving *Drosophila* larva:
+Demonstration of ReFLeCT applied to a freely moving *Drosophila* larva expressing GFP in its pericardial cells:
 <center>
 <video width="900" controls>
   <source src="/images/video3_drosophila_pericardial_30fps.mp4" type="video/mp4">
