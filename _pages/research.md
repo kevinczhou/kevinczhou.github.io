@@ -18,7 +18,7 @@ We developed a new technique, (<ins>R</ins>eflective <ins>F</ins>ourier <ins>L</
 
 Demonstration of ReFLeCT applied to a freely moving *Drosophila* larva:
 <center>
-<video width="700" controls>
+<video width="900" controls>
   <source src="/images/video3_drosophila_pericardial_30fps.mp4" type="video/mp4">
 </video>
 </center>
