@@ -22,7 +22,13 @@ Demonstration of ReFLeCT applied to a freely moving *Drosophila* larva expressin
   <source src="/images/video3_drosophila_pericardial_30fps.mp4" type="video/mp4">
 </video>
 </center>
-The left 6×9 panels are the synchronized raw multi-view video capture, and the right 2×2 panels are four different visualizations of the 4D reconstruction.
+ReFLeCT applied to a freely moving zebrafish larva:
+<center>
+<video width="900" controls>
+  <source src="/images/zebrafish_ReFLeCT.mp4" type="video/mp4">
+</video>
+</center>
+The left 6×9 panels of the above two videos are the synchronized raw multi-view video capture, and the right 2×2 panels are four different visualizations of the 4D reconstruction.
 
 **Relevant publications**
 - KC Zhou et al., [High-speed 4D fluorescence light field tomography of whole freely moving organisms](https://www.biorxiv.org/content/10.1101/2024.09.16.609432v1), *bioRxiv* 2024.09.16.609432 (2024)
