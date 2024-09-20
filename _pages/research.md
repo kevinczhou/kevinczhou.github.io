@@ -26,6 +26,7 @@ The left 6×9 panels are the synchronized raw multi-view video capture, and the 
 
 **Relevant publications**
 - KC Zhou et al., [High-speed 4D fluorescence light field tomography of whole freely moving organisms](https://www.biorxiv.org/content/10.1101/2024.09.16.609432v1), *bioRxiv* 2024.09.16.609432 (2024)
+- KC Zhou et al., [High-speed multi-view imaging approaching 4pi steradians using conic section mirrors: theoretical and practical considerations](https://www.osapublishing.org/josaa/abstract.cfm?uri=josaa-38-12-1810), *JOSA A* 38, 1810-1822 (2021)  
 
 **Code**  
 - Visualization: [https://github.com/kevinczhou/ReFLeCT-4D-visualization](https://github.com/kevinczhou/ReFLeCT-4D-visualization)
