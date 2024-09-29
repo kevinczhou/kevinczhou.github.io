@@ -10,3 +10,5 @@ main:
     url: /awards/
   - title: "Teaching"
     url: /teaching/
+  - title: "Join us!"
+    url: /umich/   
