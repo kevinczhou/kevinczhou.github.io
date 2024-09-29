@@ -8,7 +8,7 @@ I will be starting the **High-Performance Computational Optics Lab** at the Univ
 
 Our philosophy is that the optical hardware and the computational image reconstruction software are both equally important -- innovations in neither alone will take us to our destinations. We will work closely with our biomedical collaborators to maximize the impact of our computational imaging systems.
 
-### We are actively recruiting!
+## We are actively recruiting!
 Achieving these ambitious goals will not be possible without your help! If you have experience in and/or are interested in optical imaging (e.g., microscopy, OCT, holography, computational imaging/photography, lens design) and computation (e.g., machine learning, computer vision/graphics, signal processing), please feel free to reach out to me!
 
 Prospective **PhD students**, please apply to the [U-M BME PhD program](https://bme.umich.edu/academics/graduate/graduate-admissions/) and mention my name in your application.
