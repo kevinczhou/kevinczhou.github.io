@@ -11,7 +11,7 @@ Our philosophy is that the optical hardware and the computational image reconstr
 ## We are actively recruiting!
 Achieving these ambitious goals will not be possible without your help! If you have experience in and/or are interested in optical imaging (e.g., microscopy, OCT, holography, computational imaging/photography, lens design) and computation (e.g., machine learning, computer vision/graphics, signal/image processing), please feel free to reach out to me!
 
-Prospective **PhD students** looking to start Fall 2025, please apply to the [U-M BME PhD program](https://bme.umich.edu/academics/graduate/graduate-admissions/) and mention my name in your application.
+Prospective **PhD students** looking to start Fall 2025, please apply to the [U-M BME PhD program](https://bme.umich.edu/academics/graduate/graduate-admissions/) by December 1 and mention my name in your application.
 
 Prospective **postdocs**, please send me an email with your CV and a brief description of your past research and future goals.
 
