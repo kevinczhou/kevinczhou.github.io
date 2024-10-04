@@ -4,6 +4,11 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+1. **Line-scan phase-resolved synthetic wavelength LiDAR using an off-axis holographic approach**  
+Jingkai Zhang, Robert Trout, Jianwei D. Li, Julia S. Foust, <ins>Kevin C. Zhou</ins>, Al-Hafeez Dhalla, and Joseph A. Izatt  
+*Optics Letters* 49(20) (2024)  
+[[link](https://opg.optica.org/ol/abstract.cfm?uri=ol-49-20-5755)]  
+
 1. **High-speed 4D fluorescence light field tomography of whole freely moving organisms**  
 <ins>Kevin C. Zhou</ins>, Clare Cook, Archan Chakraborty, Jennifer Bagwell, ..., Roarke Horstmeyer  
 *bioRxiv* 2024.09.16.609432 (2024)  
