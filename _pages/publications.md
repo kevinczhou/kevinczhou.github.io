@@ -16,8 +16,8 @@ Jingkai Zhang, Robert Trout, Jianwei D. Li, Julia S. Foust, <ins>Kevin C. Zhou</
 
 1. **Rapid 3D imaging at cellular resolution for digital cytopathology with a multi-camera array scanner (MCAS)**
 Kanghyun Kim, Amey Chaware, Clare B. Cook, Shiqi Xu, Monica Abdelmalak, Colin Cooke, <ins>Kevin C. Zhou</ins>, ..., Roarke Horstmeyer  
-*arXiv* 2409.15722 (2024)  
-[[link](https://arxiv.org/abs/2409.15722)]  
+*npj Imaging* 2(39) (2024)  
+[[link](https://www.nature.com/articles/s44303-024-00042-2)] [[arXiv link](https://arxiv.org/abs/2409.15722)]  
 
 1. **Computational 3D topographic microscopy from terabytes of data per sample**  
 <ins>Kevin C. Zhou</ins>, Mark Harfouche, Maxwell Zheng, Joakim Jönsson, ..., Roarke Horstmeyer  
