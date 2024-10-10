@@ -7,7 +7,12 @@ author_profile: true
 1. **Line-scan phase-resolved synthetic wavelength LiDAR using an off-axis holographic approach**  
 Jingkai Zhang, Robert Trout, Jianwei D. Li, Julia S. Foust, <ins>Kevin C. Zhou</ins>, Al-Hafeez Dhalla, and Joseph A. Izatt  
 *Optics Letters* 49(20) (2024)  
-[[link](https://opg.optica.org/ol/abstract.cfm?uri=ol-49-20-5755)]  
+[[link](https://opg.optica.org/ol/abstract.cfm?uri=ol-49-20-5755)]
+
+1. **Recording dynamic facial micro-expressions with a multi-focus camera array**  
+Lucas Kreiss, Weiheng Tang, Ramana Balla, Xi Yang, Amey Chaware, Kanghyun Kim, ..., <ins>Kevin C. Zhou</ins>, Roarke Horstmeyer  
+*arXiv* 2410.01973 (2024)  
+[[link](https://arxiv.org/abs/2410.01973)]  
 
 1. **High-speed 4D fluorescence light field tomography of whole freely moving organisms**  
 <ins>Kevin C. Zhou</ins>, Clare Cook, Archan Chakraborty, Jennifer Bagwell, ..., Roarke Horstmeyer  
@@ -24,7 +29,7 @@ Kanghyun Kim, Amey Chaware, Clare B. Cook, Shiqi Xu, Monica Abdelmalak, Colin Co
 *Journal of Big Data* 11(62) (2024)  
 [[link](https://doi.org/10.1186/s40537-024-00901-0)] [[arXiv link](https://arxiv.org/abs/2306.02634)] [[code](https://github.com/kevinczhou/starcam)]  
 
-1. **Tensorial tomographic Fourier Ptychography with applications to muscle tissue imaging**  
+1. **Tensorial tomographic Fourier ptychography with applications to muscle tissue imaging**  
 Shiqi Xu, Xiang Dai, Paul Ritter, Kyung Chul Lee, Xi Yang, Lucas Kreiss, <ins>Kevin C. Zhou</ins>, ..., Roarke Horstmeyer  
 *Advanced Photonics* 6(2):026004–026004 (2024)  
 [[link](https://www.spiedigitallibrary.org/journals/advanced-photonics/volume-6/issue-02/026004/Tensorial-tomographic-Fourier-ptychography-with-applications-to-muscle-tissue-imaging/10.1117/1.AP.6.2.026004.full#_=_)] [[arXiv link](https://arxiv.org/abs/2305.05085)]
