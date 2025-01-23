@@ -4,15 +4,15 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+1. **Recording dynamic facial micro-expressions with a multi-focus camera array**  
+Lucas Kreiss, Weiheng Tang, Ramana Balla, Xi Yang, Amey Chaware, Kanghyun Kim, ..., <ins>Kevin C. Zhou</ins>, Roarke Horstmeyer  
+*Biomedical Optics Express* 16(2) (2025)  
+[[link](https://opg.optica.org/boe/fulltext.cfm?uri=boe-16-2-617&id=567134)][[arXiv link](https://arxiv.org/abs/2410.01973)] 
+
 1. **Line-scan phase-resolved synthetic wavelength LiDAR using an off-axis holographic approach**  
 Jingkai Zhang, Robert Trout, Jianwei D. Li, Julia S. Foust, <ins>Kevin C. Zhou</ins>, Al-Hafeez Dhalla, and Joseph A. Izatt  
 *Optics Letters* 49(20) (2024)  
-[[link](https://opg.optica.org/ol/abstract.cfm?uri=ol-49-20-5755)]
-
-1. **Recording dynamic facial micro-expressions with a multi-focus camera array**  
-Lucas Kreiss, Weiheng Tang, Ramana Balla, Xi Yang, Amey Chaware, Kanghyun Kim, ..., <ins>Kevin C. Zhou</ins>, Roarke Horstmeyer  
-*arXiv* 2410.01973 (2024)  
-[[link](https://arxiv.org/abs/2410.01973)]  
+[[link](https://opg.optica.org/ol/abstract.cfm?uri=ol-49-20-5755)] 
 
 1. **High-speed 4D fluorescence light field tomography of whole freely moving organisms**  
 <ins>Kevin C. Zhou</ins>, Clare Cook, Archan Chakraborty, Jennifer Bagwell, ..., Roarke Horstmeyer  
