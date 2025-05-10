@@ -4,6 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+(This list is no longer being updated as of March 2025 -- see [here](https://computationaloptics.engin.umich.edu/publications/) or [here](https://scholar.google.com/citations?user=l0A7trQAAAAJ&hl=en) instead)
 1. **Recording dynamic facial micro-expressions with a multi-focus camera array**  
 Lucas Kreiss, Weiheng Tang, Ramana Balla, Xi Yang, Amey Chaware, Kanghyun Kim, ..., <ins>Kevin C. Zhou</ins>, Roarke Horstmeyer  
 *Biomedical Optics Express* 16(2) (2025)  
